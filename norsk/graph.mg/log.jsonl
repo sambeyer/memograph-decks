@@ -370,3 +370,9 @@
 {"id": "l\u00e6ret-[nouns]-the leather", "time": 1625574404, "event": "DRILL", "data": {"got": true}}
 {"id": "en krone-[nouns]-a crown", "time": 1625574407, "event": "DRILL", "data": {"got": true}}
 {"id": "et bad-[nouns]-a bath", "time": 1625574409, "event": "DRILL", "data": {"got": true}}
+{"id": "alle tr\u00e6rne-[nouns]-all the trees", "time": 1625575286, "event": "DRILL", "data": {"got": false}}
+{"id": "mange lommer-[nouns]-many pockets", "time": 1625575291, "event": "DRILL", "data": {"got": true}}
+{"id": "stykket-[nouns]-the piece", "time": 1625575299, "event": "DRILL", "data": {"got": true}}
+{"id": "mange stykker-[nouns]-many pieces", "time": 1625575315, "event": "DRILL", "data": {"got": false}}
+{"id": "mange fl\u00f8ter-[nouns]-many creams", "time": 1625575326, "event": "DRILL", "data": {"got": true}}
+{"id": "et stykke-[nouns]-a piece", "time": 1625575331, "event": "DRILL", "data": {"got": true}}

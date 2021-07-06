@@ -916,13 +916,13 @@
   },
   "alle tr\u00e6rne-[nouns]-all the trees": {
     "priorParams": [
-      1.4050537848158262,
-      1.000000000000047,
-      790.0053449879695
+      1.1339696467218467,
+      1.0484921500717355,
+      1001.7469392024382
     ],
-    "numDrills": 1,
-    "lastTime": 1625490341,
-    "lastResult": true
+    "numDrills": 2,
+    "lastTime": 1625575286,
+    "lastResult": false
   },
   "en film-[nouns]-a movie": {
     "priorParams": [
@@ -1160,12 +1160,13 @@
   },
   "mange lommer-[nouns]-many pockets": {
     "priorParams": [
-      1,
-      1,
-      60
+      1.4217449502332802,
+      1.0000000000008378,
+      1425.009457335797
     ],
-    "numDrills": 0,
-    "lastTime": 1625573325
+    "numDrills": 1,
+    "lastTime": 1625575291,
+    "lastResult": true
   },
   "alle lommene-[nouns]-all the pockets": {
     "priorParams": [
@@ -1827,21 +1828,23 @@
   },
   "et stykke-[nouns]-a piece": {
     "priorParams": [
-      1,
-      1,
-      60
+      1.4225728980440124,
+      0.9999999999991729,
+      1483.9309837130622
     ],
-    "numDrills": 0,
-    "lastTime": 1625573280
+    "numDrills": 1,
+    "lastTime": 1625575331,
+    "lastResult": true
   },
   "stykket-[nouns]-the piece": {
     "priorParams": [
-      1,
-      1,
-      60
+      1.4222400352065225,
+      0.9999999999997821,
+      1459.6692180009825
     ],
-    "numDrills": 0,
-    "lastTime": 1625573283
+    "numDrills": 1,
+    "lastTime": 1625575299,
+    "lastResult": true
   },
   "mange stykke-[nouns]-many pieces": {},
   "alle stykkeene-[nouns]-all the pieces": {},
@@ -2439,12 +2442,13 @@
   },
   "mange fl\u00f8ter-[nouns]-many creams": {
     "priorParams": [
-      1,
-      1,
-      60
+      1.4235010011043219,
+      0.9999999999999704,
+      1556.0227904872763
     ],
-    "numDrills": 0,
-    "lastTime": 1625573171
+    "numDrills": 1,
+    "lastTime": 1625575326,
+    "lastResult": true
   },
   "alle fl\u00f8tene-[nouns]-all the creams": {
     "priorParams": [
@@ -2942,12 +2946,13 @@
   },
   "mange stykker-[nouns]-many pieces": {
     "priorParams": [
-      1,
-      1,
-      60
+      1.0939222670846445,
+      1.1103126704880706,
+      57.62456211132205
     ],
-    "numDrills": 0,
-    "lastTime": 1625573305
+    "numDrills": 1,
+    "lastTime": 1625575315,
+    "lastResult": false
   },
   "alle stykkene-[nouns]-all the pieces": {
     "priorParams": [
