@@ -1,0 +1,11 @@
+def graph():
+    yield 0, "null"
+    yield 1, "en"
+    yield 2, "to"
+    yield 3, "tre"
+    yield 4, "fire"
+    yield 5, "fem"
+    yield 6, "seks"
+    yield 7, "sju"
+    yield 8, "åtte"
+    yield 9, "ni"

@@ -1,0 +1,12 @@
+{"id": "4-[]-fire", "time": 1617522537, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "2-[]-to", "time": 1617522541, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "1-[]-en", "time": 1617522548, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "5-[]-fem", "time": 1617522552, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "3-[]-tre", "time": 1617522559, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "0-[]-null", "time": 1617522566, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "4-[]-fire", "time": 1617522659, "event": "DRILL", "data": {"got": true}}
+{"id": "1-[]-en", "time": 1617522661, "event": "DRILL", "data": {"got": true}}
+{"id": "0-[]-null", "time": 1617522663, "event": "DRILL", "data": {"got": true}}
+{"id": "3-[]-tre", "time": 1617522665, "event": "DRILL", "data": {"got": true}}
+{"id": "2-[]-to", "time": 1617522666, "event": "DRILL", "data": {"got": true}}
+{"id": "5-[]-fem", "time": 1617522668, "event": "DRILL", "data": {"got": true}}
