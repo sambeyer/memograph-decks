@@ -1,5 +1,5 @@
 {
-  "flaske-[]-bottle (is)": {
+  "flaske-[nouns]-bottle (is)": {
     "priorParams": [
       1,
       1,
@@ -8,7 +8,7 @@
     "numDrills": 0,
     "lastTime": 1624956823
   },
-  "flasken-[]-bottle (ds)": {
+  "flasken-[nouns]-bottle (ds)": {
     "priorParams": [
       1,
       1,
@@ -17,7 +17,7 @@
     "numDrills": 0,
     "lastTime": 1624956846
   },
-  "flasker-[]-bottle (ip)": {
+  "flasker-[nouns]-bottle (ip)": {
     "priorParams": [
       1,
       1,
@@ -26,7 +26,7 @@
     "numDrills": 0,
     "lastTime": 1624956835
   },
-  "flaskene-[]-bottle (dp)": {
+  "flaskene-[nouns]-bottle (dp)": {
     "priorParams": [
       1,
       1,
@@ -35,7 +35,7 @@
     "numDrills": 0,
     "lastTime": 1624956859
   },
-  "glass (is)-[]-glass (is)": {
+  "glass (is)-[nouns]-glass (is)": {
     "priorParams": [
       1,
       1,
@@ -44,7 +44,7 @@
     "numDrills": 0,
     "lastTime": 1624956890
   },
-  "glasset-[]-glass (ds)": {
+  "glasset-[nouns]-glass (ds)": {
     "priorParams": [
       1,
       1,
@@ -53,7 +53,7 @@
     "numDrills": 0,
     "lastTime": 1624956876
   },
-  "en flaske-[]-a bottle": {
+  "en flaske-[nouns]-a bottle": {
     "priorParams": [
       1.0045377957688695,
       1.0000000000000107,
@@ -63,7 +63,7 @@
     "lastTime": 1625488676,
     "lastResult": true
   },
-  "flasken-[]-the bottle": {
+  "flasken-[nouns]-the bottle": {
     "priorParams": [
       1.004634285789314,
       1.0000000000000198,
@@ -73,7 +73,7 @@
     "lastTime": 1625488669,
     "lastResult": true
   },
-  "mange flasker-[]-many bottle": {
+  "mange flasker-[nouns]-many bottle": {
     "priorParams": [
       1,
       1,
@@ -82,7 +82,7 @@
     "numDrills": 0,
     "lastTime": 1625484618
   },
-  "alle flaskene-[]-all the bottle": {
+  "alle flaskene-[nouns]-all the bottle": {
     "priorParams": [
       1,
       1,
@@ -91,7 +91,7 @@
     "numDrills": 0,
     "lastTime": 1625484599
   },
-  "et glass-[]-a glass": {
+  "et glass-[nouns]-a glass": {
     "priorParams": [
       1.0046517055079367,
       0.9999999999999984,
@@ -101,7 +101,7 @@
     "lastTime": 1625488673,
     "lastResult": true
   },
-  "glasset-[]-the glass": {
+  "glasset-[nouns]-the glass": {
     "priorParams": [
       1.0043900966096344,
       0.9999999999999983,
@@ -111,9 +111,9 @@
     "lastTime": 1625488502,
     "lastResult": true
   },
-  "mange glass-[]-many glass": {},
-  "alle glassene-[]-all the glass": {},
-  "en mamma-[]-a mum": {
+  "mange glass-[nouns]-many glass": {},
+  "alle glassene-[nouns]-all the glass": {},
+  "en mamma-[nouns]-a mum": {
     "priorParams": [
       1.0045052685733238,
       1.0000000000000042,
@@ -123,7 +123,7 @@
     "lastTime": 1625488661,
     "lastResult": true
   },
-  "mammaen-[]-the mum": {
+  "mammaen-[nouns]-the mum": {
     "priorParams": [
       1.0017553567111104,
       0.999999999999989,
@@ -133,9 +133,9 @@
     "lastTime": 1625486307,
     "lastResult": true
   },
-  "mange mammaer-[]-many mum": {},
-  "alle mammaene-[]-all the mum": {},
-  "en mandag-[]-a Monday": {
+  "mange mammaer-[nouns]-many mum": {},
+  "alle mammaene-[nouns]-all the mum": {},
+  "en mandag-[nouns]-a Monday": {
     "priorParams": [
       1.0040709730933168,
       1.0000000000000207,
@@ -145,7 +145,7 @@
     "lastTime": 1625488678,
     "lastResult": true
   },
-  "mandagen-[]-the Monday": {
+  "mandagen-[nouns]-the Monday": {
     "priorParams": [
       1.0036138327075728,
       0.9999999999999988,
@@ -155,9 +155,9 @@
     "lastTime": 1625488508,
     "lastResult": true
   },
-  "mange mandager-[]-many Monday": {},
-  "alle mandagene-[]-all the Monday": {},
-  "et navn-[]-a name": {
+  "mange mandager-[nouns]-many Monday": {},
+  "alle mandagene-[nouns]-all the Monday": {},
+  "et navn-[nouns]-a name": {
     "priorParams": [
       1,
       1,
@@ -166,7 +166,7 @@
     "numDrills": 0,
     "lastTime": 1625488623
   },
-  "navnet-[]-the name": {
+  "navnet-[nouns]-the name": {
     "priorParams": [
       1,
       1,
@@ -175,9 +175,9 @@
     "numDrills": 0,
     "lastTime": 1625488645
   },
-  "mange navn-[]-many name": {},
-  "alle navnene-[]-all the name": {},
-  "en saft-[]-a cordial": {
+  "mange navn-[nouns]-many name": {},
+  "alle navnene-[nouns]-all the name": {},
+  "en saft-[nouns]-a cordial": {
     "priorParams": [
       1,
       1,
@@ -186,7 +186,7 @@
     "numDrills": 0,
     "lastTime": 1625488633
   },
-  "saften-[]-the cordial": {
+  "saften-[nouns]-the cordial": {
     "priorParams": [
       1,
       1,
@@ -195,9 +195,9 @@
     "numDrills": 0,
     "lastTime": 1625488616
   },
-  "mange safter-[]-many cordial": {},
-  "alle saftene-[]-all the cordial": {},
-  "et salt-[]-a salt": {
+  "mange safter-[nouns]-many cordial": {},
+  "alle saftene-[nouns]-all the cordial": {},
+  "et salt-[nouns]-a salt": {
     "priorParams": [
       1,
       1,
@@ -206,7 +206,7 @@
     "numDrills": 0,
     "lastTime": 1625488703
   },
-  "saltet-[]-the salt": {
+  "saltet-[nouns]-the salt": {
     "priorParams": [
       1,
       1,
@@ -215,9 +215,9 @@
     "numDrills": 0,
     "lastTime": 1625488686
   },
-  "mange salt-[]-many salt": {},
-  "alle saltene-[]-all the salt": {},
-  "en sang-[]-a song": {
+  "mange salt-[nouns]-many salt": {},
+  "alle saltene-[nouns]-all the salt": {},
+  "en sang-[nouns]-a song": {
     "priorParams": [
       1,
       1,
@@ -226,7 +226,7 @@
     "numDrills": 0,
     "lastTime": 1625563026
   },
-  "sangen-[]-the song": {
+  "sangen-[nouns]-the song": {
     "priorParams": [
       1,
       1,
@@ -235,9 +235,9 @@
     "numDrills": 0,
     "lastTime": 1625563015
   },
-  "mange sanger-[]-many song": {},
-  "alle sangene-[]-all the song": {},
-  "en tann-[]-a tooth": {
+  "mange sanger-[nouns]-many song": {},
+  "alle sangene-[nouns]-all the song": {},
+  "en tann-[nouns]-a tooth": {
     "priorParams": [
       1,
       1,
@@ -246,7 +246,7 @@
     "numDrills": 0,
     "lastTime": 1625489517
   },
-  "tannen-[]-the tooth": {
+  "tannen-[nouns]-the tooth": {
     "priorParams": [
       1,
       1,
@@ -255,13 +255,13 @@
     "numDrills": 0,
     "lastTime": 1625489507
   },
-  "mange tenner-[]-many tooth": {},
-  "alle tennene-[]-all the tooth": {},
-  "en vann-[]-a field": {},
-  "vannen-[]-the field": {},
-  "mange vanner-[]-many field": {},
-  "alle vannene-[]-all the field": {},
-  "et vann-[]-a water": {
+  "mange tenner-[nouns]-many tooth": {},
+  "alle tennene-[nouns]-all the tooth": {},
+  "en vann-[nouns]-a field": {},
+  "vannen-[nouns]-the field": {},
+  "mange vanner-[nouns]-many field": {},
+  "alle vannene-[nouns]-all the field": {},
+  "et vann-[nouns]-a water": {
     "priorParams": [
       1,
       1,
@@ -270,7 +270,7 @@
     "numDrills": 0,
     "lastTime": 1625489739
   },
-  "vannet-[]-the water": {
+  "vannet-[nouns]-the water": {
     "priorParams": [
       1,
       1,
@@ -279,7 +279,7 @@
     "numDrills": 0,
     "lastTime": 1625489720
   },
-  "mange vann-[]-many water": {
+  "mange vann-[nouns]-many water": {
     "priorParams": [
       1,
       1,
@@ -288,7 +288,7 @@
     "numDrills": 0,
     "lastTime": 1625489730
   },
-  "alle vannene-[]-all the water": {
+  "alle vannene-[nouns]-all the water": {
     "priorParams": [
       1,
       1,
@@ -297,16 +297,17 @@
     "numDrills": 0,
     "lastTime": 1625489760
   },
-  "et bad-[]-a bath": {
+  "et bad-[nouns]-a bath": {
     "priorParams": [
-      1,
-      1,
-      60
+      1.438926567460462,
+      0.9999999999971959,
+      7953.84577557725
     ],
-    "numDrills": 0,
-    "lastTime": 1625563024
+    "numDrills": 1,
+    "lastTime": 1625574409,
+    "lastResult": true
   },
-  "badet-[]-the bath": {
+  "badet-[nouns]-the bath": {
     "priorParams": [
       1.438644795057756,
       0.99999999999805,
@@ -316,9 +317,9 @@
     "lastTime": 1625573597,
     "lastResult": true
   },
-  "mange bad-[]-many bath": {},
-  "alle badene-[]-all the bath": {},
-  "en dag-[]-a day": {
+  "mange bad-[nouns]-many bath": {},
+  "alle badene-[nouns]-all the bath": {},
+  "en dag-[nouns]-a day": {
     "priorParams": [
       1,
       1,
@@ -327,7 +328,7 @@
     "numDrills": 0,
     "lastTime": 1625489244
   },
-  "dagen-[]-the day": {
+  "dagen-[nouns]-the day": {
     "priorParams": [
       1,
       1,
@@ -336,9 +337,9 @@
     "numDrills": 0,
     "lastTime": 1625489155
   },
-  "mange dager-[]-many day": {},
-  "alle dagene-[]-all the day": {},
-  "en dame-[]-a lady": {
+  "mange dager-[nouns]-many day": {},
+  "alle dagene-[nouns]-all the day": {},
+  "en dame-[nouns]-a lady": {
     "priorParams": [
       1,
       1,
@@ -347,7 +348,7 @@
     "numDrills": 0,
     "lastTime": 1625490224
   },
-  "damen-[]-the lady": {
+  "damen-[nouns]-the lady": {
     "priorParams": [
       1,
       1,
@@ -356,9 +357,9 @@
     "numDrills": 0,
     "lastTime": 1625490236
   },
-  "mange damer-[]-many lady": {},
-  "alle damene-[]-all the lady": {},
-  "mange flasker-[]-many bottles": {
+  "mange damer-[nouns]-many lady": {},
+  "alle damene-[nouns]-all the lady": {},
+  "mange flasker-[nouns]-many bottles": {
     "priorParams": [
       1.0024228877398875,
       1.0,
@@ -368,7 +369,7 @@
     "lastTime": 1625486288,
     "lastResult": true
   },
-  "alle flaskene-[]-all the bottles": {
+  "alle flaskene-[nouns]-all the bottles": {
     "priorParams": [
       1.0017953393095969,
       0.9999999999999991,
@@ -378,7 +379,7 @@
     "lastTime": 1625486304,
     "lastResult": true
   },
-  "mange glass-[]-many glasses": {
+  "mange glass-[nouns]-many glasses": {
     "priorParams": [
       1.0017409611508972,
       1.0000000000000047,
@@ -388,7 +389,7 @@
     "lastTime": 1625486293,
     "lastResult": true
   },
-  "alle glassene-[]-all the glasses": {
+  "alle glassene-[nouns]-all the glasses": {
     "priorParams": [
       1.0042699878912789,
       1.0000000000000036,
@@ -398,7 +399,7 @@
     "lastTime": 1625488505,
     "lastResult": true
   },
-  "mange mammaer-[]-many mums": {
+  "mange mammaer-[nouns]-many mums": {
     "priorParams": [
       1.0038174812110836,
       0.9999999999999963,
@@ -408,7 +409,7 @@
     "lastTime": 1625488666,
     "lastResult": true
   },
-  "alle mammaene-[]-all the mums": {
+  "alle mammaene-[nouns]-all the mums": {
     "priorParams": [
       1.0036487136476904,
       1.0000000000000098,
@@ -418,7 +419,7 @@
     "lastTime": 1625488513,
     "lastResult": true
   },
-  "mange mandager-[]-many Mondays": {
+  "mange mandager-[nouns]-many Mondays": {
     "priorParams": [
       1.0036154183284252,
       1.0000000000000133,
@@ -428,7 +429,7 @@
     "lastTime": 1625488499,
     "lastResult": true
   },
-  "alle mandagene-[]-all the Mondays": {
+  "alle mandagene-[nouns]-all the Mondays": {
     "priorParams": [
       1.0036027330321933,
       0.9999999999999992,
@@ -438,7 +439,7 @@
     "lastTime": 1625488496,
     "lastResult": true
   },
-  "mange navn-[]-many names": {
+  "mange navn-[nouns]-many names": {
     "priorParams": [
       1,
       1,
@@ -447,7 +448,7 @@
     "numDrills": 0,
     "lastTime": 1625488655
   },
-  "alle navnene-[]-all the names": {
+  "alle navnene-[nouns]-all the names": {
     "priorParams": [
       1,
       1,
@@ -456,7 +457,7 @@
     "numDrills": 0,
     "lastTime": 1625488641
   },
-  "mange safter-[]-many cordials": {
+  "mange safter-[nouns]-many cordials": {
     "priorParams": [
       1,
       1,
@@ -465,7 +466,7 @@
     "numDrills": 0,
     "lastTime": 1625488697
   },
-  "alle saftene-[]-all the cordials": {
+  "alle saftene-[nouns]-all the cordials": {
     "priorParams": [
       1,
       1,
@@ -474,7 +475,7 @@
     "numDrills": 0,
     "lastTime": 1625488711
   },
-  "mange salt-[]-many salts": {
+  "mange salt-[nouns]-many salts": {
     "priorParams": [
       1,
       1,
@@ -483,7 +484,7 @@
     "numDrills": 0,
     "lastTime": 1625488723
   },
-  "alle saltene-[]-all the salts": {
+  "alle saltene-[nouns]-all the salts": {
     "priorParams": [
       1,
       1,
@@ -492,7 +493,7 @@
     "numDrills": 0,
     "lastTime": 1625488715
   },
-  "mange sanger-[]-many songs": {
+  "mange sanger-[nouns]-many songs": {
     "priorParams": [
       1,
       1,
@@ -501,7 +502,7 @@
     "numDrills": 0,
     "lastTime": 1625563019
   },
-  "alle sangene-[]-all the songs": {
+  "alle sangene-[nouns]-all the songs": {
     "priorParams": [
       1,
       1,
@@ -510,7 +511,7 @@
     "numDrills": 0,
     "lastTime": 1625563007
   },
-  "mange tenner-[]-many teeth": {
+  "mange tenner-[nouns]-many teeth": {
     "priorParams": [
       1,
       1,
@@ -519,7 +520,7 @@
     "numDrills": 0,
     "lastTime": 1625490393
   },
-  "alle tennene-[]-all the teeth": {
+  "alle tennene-[nouns]-all the teeth": {
     "priorParams": [
       1,
       1,
@@ -528,9 +529,9 @@
     "numDrills": 0,
     "lastTime": 1625490396
   },
-  "mange vanner-[]-many fields": {},
-  "alle vannene-[]-all the fields": {},
-  "mange bad-[]-many baths": {
+  "mange vanner-[nouns]-many fields": {},
+  "alle vannene-[nouns]-all the fields": {},
+  "mange bad-[nouns]-many baths": {
     "priorParams": [
       1,
       1,
@@ -539,7 +540,7 @@
     "numDrills": 0,
     "lastTime": 1625563093
   },
-  "alle badene-[]-all the baths": {
+  "alle badene-[nouns]-all the baths": {
     "priorParams": [
       1,
       1,
@@ -548,7 +549,7 @@
     "numDrills": 0,
     "lastTime": 1625563099
   },
-  "mange dager-[]-many days": {
+  "mange dager-[nouns]-many days": {
     "priorParams": [
       1,
       1,
@@ -557,7 +558,7 @@
     "numDrills": 0,
     "lastTime": 1625489242
   },
-  "alle dagene-[]-all the days": {
+  "alle dagene-[nouns]-all the days": {
     "priorParams": [
       1,
       1,
@@ -566,7 +567,7 @@
     "numDrills": 0,
     "lastTime": 1625489248
   },
-  "mange damer-[]-many ladies": {
+  "mange damer-[nouns]-many ladies": {
     "priorParams": [
       1,
       1,
@@ -575,7 +576,7 @@
     "numDrills": 0,
     "lastTime": 1625490233
   },
-  "alle damene-[]-all the ladies": {
+  "alle damene-[nouns]-all the ladies": {
     "priorParams": [
       1,
       1,
@@ -584,7 +585,7 @@
     "numDrills": 0,
     "lastTime": 1625490228
   },
-  "en far-[]-a father": {
+  "en far-[nouns]-a father": {
     "priorParams": [
       1,
       1,
@@ -593,7 +594,7 @@
     "numDrills": 0,
     "lastTime": 1625490011
   },
-  "faren-[]-the father": {
+  "faren-[nouns]-the father": {
     "priorParams": [
       1,
       1,
@@ -602,7 +603,7 @@
     "numDrills": 0,
     "lastTime": 1625490009
   },
-  "mange fedre-[]-many fathers": {
+  "mange fedre-[nouns]-many fathers": {
     "priorParams": [
       1,
       1,
@@ -611,7 +612,7 @@
     "numDrills": 0,
     "lastTime": 1625573414
   },
-  "alle fedrene-[]-all the fathers": {
+  "alle fedrene-[nouns]-all the fathers": {
     "priorParams": [
       1,
       1,
@@ -620,7 +621,7 @@
     "numDrills": 0,
     "lastTime": 1625573410
   },
-  "en kar-[]-a guy": {
+  "en kar-[nouns]-a guy": {
     "priorParams": [
       1,
       1,
@@ -629,7 +630,7 @@
     "numDrills": 0,
     "lastTime": 1625490297
   },
-  "karen-[]-the guy": {
+  "karen-[nouns]-the guy": {
     "priorParams": [
       1,
       1,
@@ -638,7 +639,7 @@
     "numDrills": 0,
     "lastTime": 1625490309
   },
-  "mange karer-[]-many guys": {
+  "mange karer-[nouns]-many guys": {
     "priorParams": [
       1,
       1,
@@ -647,7 +648,7 @@
     "numDrills": 0,
     "lastTime": 1625490306
   },
-  "alle karene-[]-all the guys": {
+  "alle karene-[nouns]-all the guys": {
     "priorParams": [
       1,
       1,
@@ -656,7 +657,7 @@
     "numDrills": 0,
     "lastTime": 1625490311
   },
-  "en mat-[]-a food": {
+  "en mat-[nouns]-a food": {
     "priorParams": [
       1,
       1,
@@ -665,7 +666,7 @@
     "numDrills": 0,
     "lastTime": 1625489145
   },
-  "maten-[]-the food": {
+  "maten-[nouns]-the food": {
     "priorParams": [
       1,
       1,
@@ -674,7 +675,7 @@
     "numDrills": 0,
     "lastTime": 1625489126
   },
-  "mange mater-[]-many foods": {
+  "mange mater-[nouns]-many foods": {
     "priorParams": [
       1,
       1,
@@ -683,7 +684,7 @@
     "numDrills": 0,
     "lastTime": 1625489166
   },
-  "alle matene-[]-all the foods": {
+  "alle matene-[nouns]-all the foods": {
     "priorParams": [
       1,
       1,
@@ -692,7 +693,7 @@
     "numDrills": 0,
     "lastTime": 1625489252
   },
-  "et eple-[]-an apple": {
+  "et eple-[nouns]-an apple": {
     "priorParams": [
       1,
       1,
@@ -701,7 +702,7 @@
     "numDrills": 0,
     "lastTime": 1625490023
   },
-  "eplet-[]-the apple": {
+  "eplet-[nouns]-the apple": {
     "priorParams": [
       1,
       1,
@@ -710,7 +711,7 @@
     "numDrills": 0,
     "lastTime": 1625490046
   },
-  "mange epler-[]-many apples": {
+  "mange epler-[nouns]-many apples": {
     "priorParams": [
       1,
       1,
@@ -719,7 +720,7 @@
     "numDrills": 0,
     "lastTime": 1625490039
   },
-  "alle eplene-[]-all the apples": {
+  "alle eplene-[nouns]-all the apples": {
     "priorParams": [
       1,
       1,
@@ -728,7 +729,7 @@
     "numDrills": 0,
     "lastTime": 1625490043
   },
-  "en melk-[]-a milk": {
+  "en melk-[nouns]-a milk": {
     "priorParams": [
       1,
       1,
@@ -737,7 +738,7 @@
     "numDrills": 0,
     "lastTime": 1625488940
   },
-  "melken-[]-the milk": {
+  "melken-[nouns]-the milk": {
     "priorParams": [
       1,
       1,
@@ -746,7 +747,7 @@
     "numDrills": 0,
     "lastTime": 1625488938
   },
-  "mange melker-[]-many milks": {
+  "mange melker-[nouns]-many milks": {
     "priorParams": [
       1,
       1,
@@ -755,7 +756,7 @@
     "numDrills": 0,
     "lastTime": 1625488915
   },
-  "alle melkene-[]-all the milks": {
+  "alle melkene-[nouns]-all the milks": {
     "priorParams": [
       1,
       1,
@@ -764,7 +765,7 @@
     "numDrills": 0,
     "lastTime": 1625488931
   },
-  "en jente-[]-a girl": {
+  "en jente-[nouns]-a girl": {
     "priorParams": [
       1,
       1,
@@ -773,7 +774,7 @@
     "numDrills": 0,
     "lastTime": 1625489274
   },
-  "jenten-[]-the girl": {
+  "jenten-[nouns]-the girl": {
     "priorParams": [
       1,
       1,
@@ -782,7 +783,7 @@
     "numDrills": 0,
     "lastTime": 1625489277
   },
-  "mange jenter-[]-many girls": {
+  "mange jenter-[nouns]-many girls": {
     "priorParams": [
       1,
       1,
@@ -791,7 +792,7 @@
     "numDrills": 0,
     "lastTime": 1625490210
   },
-  "alle jentene-[]-all the girls": {
+  "alle jentene-[nouns]-all the girls": {
     "priorParams": [
       1,
       1,
@@ -800,7 +801,7 @@
     "numDrills": 0,
     "lastTime": 1625490216
   },
-  "en venn-[]-a friend": {
+  "en venn-[nouns]-a friend": {
     "priorParams": [
       1,
       1,
@@ -809,7 +810,7 @@
     "numDrills": 0,
     "lastTime": 1625489101
   },
-  "vennen-[]-the friend": {
+  "vennen-[nouns]-the friend": {
     "priorParams": [
       1,
       1,
@@ -818,7 +819,7 @@
     "numDrills": 0,
     "lastTime": 1625489099
   },
-  "mange venner-[]-many friends": {
+  "mange venner-[nouns]-many friends": {
     "priorParams": [
       1,
       1,
@@ -827,7 +828,7 @@
     "numDrills": 0,
     "lastTime": 1625489980
   },
-  "alle vennene-[]-all the friends": {
+  "alle vennene-[nouns]-all the friends": {
     "priorParams": [
       1,
       1,
@@ -836,7 +837,7 @@
     "numDrills": 0,
     "lastTime": 1625489989
   },
-  "et brev-[]-a letter": {
+  "et brev-[nouns]-a letter": {
     "priorParams": [
       1,
       1,
@@ -845,7 +846,7 @@
     "numDrills": 0,
     "lastTime": 1625490176
   },
-  "brevet-[]-the letter": {
+  "brevet-[nouns]-the letter": {
     "priorParams": [
       1,
       1,
@@ -854,7 +855,7 @@
     "numDrills": 0,
     "lastTime": 1625490173
   },
-  "mange brev-[]-many letters": {
+  "mange brev-[nouns]-many letters": {
     "priorParams": [
       1,
       1,
@@ -863,7 +864,7 @@
     "numDrills": 0,
     "lastTime": 1625490179
   },
-  "alle brevene-[]-all the letters": {
+  "alle brevene-[nouns]-all the letters": {
     "priorParams": [
       1,
       1,
@@ -872,7 +873,7 @@
     "numDrills": 0,
     "lastTime": 1625490141
   },
-  "en te-[]-a tea": {
+  "en te-[nouns]-a tea": {
     "priorParams": [
       1,
       1,
@@ -881,20 +882,20 @@
     "numDrills": 0,
     "lastTime": 1625563279
   },
-  "ten-[]-the tea": {},
-  "mange ter-[]-many teas": {},
-  "alle tene-[]-all the teas": {},
-  "et tre-[]-a tree": {
+  "ten-[nouns]-the tea": {},
+  "mange ter-[nouns]-many teas": {},
+  "alle tene-[nouns]-all the teas": {},
+  "et tre-[nouns]-a tree": {
     "priorParams": [
-      1.404756785576863,
-      0.9999999999998805,
-      783.7655680358218
+      1.4360964576465014,
+      1.0000000000025888,
+      59298.245286266145
     ],
-    "numDrills": 1,
-    "lastTime": 1625490336,
+    "numDrills": 2,
+    "lastTime": 1625574393,
     "lastResult": true
   },
-  "tret-[]-the tree": {
+  "tret-[nouns]-the tree": {
     "priorParams": [
       1,
       1,
@@ -903,17 +904,17 @@
     "numDrills": 0,
     "lastTime": 1625489322
   },
-  "mange tr\u00e6r-[]-many trees": {
+  "mange tr\u00e6r-[nouns]-many trees": {
     "priorParams": [
-      1.4049881876090278,
-      0.9999999999999098,
-      788.618729873791
+      1.4360561587391534,
+      0.9999999999983172,
+      59302.69473208927
     ],
-    "numDrills": 1,
-    "lastTime": 1625490347,
+    "numDrills": 2,
+    "lastTime": 1625574401,
     "lastResult": true
   },
-  "alle tr\u00e6rne-[]-all the trees": {
+  "alle tr\u00e6rne-[nouns]-all the trees": {
     "priorParams": [
       1.4050537848158262,
       1.000000000000047,
@@ -923,7 +924,7 @@
     "lastTime": 1625490341,
     "lastResult": true
   },
-  "en film-[]-a movie": {
+  "en film-[nouns]-a movie": {
     "priorParams": [
       1,
       1,
@@ -932,7 +933,7 @@
     "numDrills": 0,
     "lastTime": 1625573477
   },
-  "filmen-[]-the movie": {
+  "filmen-[nouns]-the movie": {
     "priorParams": [
       1,
       1,
@@ -941,7 +942,7 @@
     "numDrills": 0,
     "lastTime": 1625573469
   },
-  "mange filmer-[]-many movies": {
+  "mange filmer-[nouns]-many movies": {
     "priorParams": [
       1,
       1,
@@ -950,7 +951,7 @@
     "numDrills": 0,
     "lastTime": 1625573458
   },
-  "alle filmene-[]-all the movies": {
+  "alle filmene-[nouns]-all the movies": {
     "priorParams": [
       1,
       1,
@@ -959,7 +960,7 @@
     "numDrills": 0,
     "lastTime": 1625573474
   },
-  "en middag-[]-a dinner": {
+  "en middag-[nouns]-a dinner": {
     "priorParams": [
       1,
       1,
@@ -968,7 +969,7 @@
     "numDrills": 0,
     "lastTime": 1625562846
   },
-  "middagen-[]-the dinner": {
+  "middagen-[nouns]-the dinner": {
     "priorParams": [
       1,
       1,
@@ -977,7 +978,7 @@
     "numDrills": 0,
     "lastTime": 1625562845
   },
-  "mange middager-[]-many dinners": {
+  "mange middager-[nouns]-many dinners": {
     "priorParams": [
       1,
       1,
@@ -986,7 +987,7 @@
     "numDrills": 0,
     "lastTime": 1625562856
   },
-  "alle middagene-[]-all the dinners": {
+  "alle middagene-[nouns]-all the dinners": {
     "priorParams": [
       1,
       1,
@@ -995,7 +996,7 @@
     "numDrills": 0,
     "lastTime": 1625562843
   },
-  "en skinke-[]-a ham": {
+  "en skinke-[nouns]-a ham": {
     "priorParams": [
       1,
       1,
@@ -1004,7 +1005,7 @@
     "numDrills": 0,
     "lastTime": 1625489700
   },
-  "skinken-[]-the ham": {
+  "skinken-[nouns]-the ham": {
     "priorParams": [
       1,
       1,
@@ -1013,7 +1014,7 @@
     "numDrills": 0,
     "lastTime": 1625489654
   },
-  "mange skinker-[]-many hams": {
+  "mange skinker-[nouns]-many hams": {
     "priorParams": [
       1,
       1,
@@ -1022,7 +1023,7 @@
     "numDrills": 0,
     "lastTime": 1625573153
   },
-  "alle skinkene-[]-all the hams": {
+  "alle skinkene-[nouns]-all the hams": {
     "priorParams": [
       1,
       1,
@@ -1031,7 +1032,7 @@
     "numDrills": 0,
     "lastTime": 1625573146
   },
-  "en familie-[]-a family": {
+  "en familie-[nouns]-a family": {
     "priorParams": [
       1,
       1,
@@ -1040,7 +1041,7 @@
     "numDrills": 0,
     "lastTime": 1625489511
   },
-  "familien-[]-the family": {
+  "familien-[nouns]-the family": {
     "priorParams": [
       1,
       1,
@@ -1049,7 +1050,7 @@
     "numDrills": 0,
     "lastTime": 1625489496
   },
-  "mange familier-[]-many families": {
+  "mange familier-[nouns]-many families": {
     "priorParams": [
       1,
       1,
@@ -1058,7 +1059,7 @@
     "numDrills": 0,
     "lastTime": 1625489503
   },
-  "alle familiene-[]-all the families": {
+  "alle familiene-[nouns]-all the families": {
     "priorParams": [
       1,
       1,
@@ -1067,7 +1068,7 @@
     "numDrills": 0,
     "lastTime": 1625489515
   },
-  "en skive-[]-a slice": {
+  "en skive-[nouns]-a slice": {
     "priorParams": [
       1,
       1,
@@ -1076,7 +1077,7 @@
     "numDrills": 0,
     "lastTime": 1625489603
   },
-  "skiven-[]-the slice": {
+  "skiven-[nouns]-the slice": {
     "priorParams": [
       1,
       1,
@@ -1085,7 +1086,7 @@
     "numDrills": 0,
     "lastTime": 1625489616
   },
-  "mange skiver-[]-many slices": {
+  "mange skiver-[nouns]-many slices": {
     "priorParams": [
       1,
       1,
@@ -1094,7 +1095,7 @@
     "numDrills": 0,
     "lastTime": 1625489595
   },
-  "alle skivene-[]-all the slices": {
+  "alle skivene-[nouns]-all the slices": {
     "priorParams": [
       1,
       1,
@@ -1103,7 +1104,7 @@
     "numDrills": 0,
     "lastTime": 1625489610
   },
-  "en vin-[]-a wine": {
+  "en vin-[nouns]-a wine": {
     "priorParams": [
       1,
       1,
@@ -1112,7 +1113,7 @@
     "numDrills": 0,
     "lastTime": 1625563095
   },
-  "vinen-[]-the wine": {
+  "vinen-[nouns]-the wine": {
     "priorParams": [
       1,
       1,
@@ -1121,7 +1122,7 @@
     "numDrills": 0,
     "lastTime": 1625563089
   },
-  "mange viner-[]-many wines": {
+  "mange viner-[nouns]-many wines": {
     "priorParams": [
       1,
       1,
@@ -1130,7 +1131,7 @@
     "numDrills": 0,
     "lastTime": 1625563087
   },
-  "alle vinene-[]-all the wines": {
+  "alle vinene-[nouns]-all the wines": {
     "priorParams": [
       1,
       1,
@@ -1139,7 +1140,7 @@
     "numDrills": 0,
     "lastTime": 1625563103
   },
-  "en lomme-[]-a pocket": {
+  "en lomme-[nouns]-a pocket": {
     "priorParams": [
       1,
       1,
@@ -1148,7 +1149,7 @@
     "numDrills": 0,
     "lastTime": 1625573337
   },
-  "lommen-[]-the pocket": {
+  "lommen-[nouns]-the pocket": {
     "priorParams": [
       1,
       1,
@@ -1157,7 +1158,7 @@
     "numDrills": 0,
     "lastTime": 1625573332
   },
-  "mange lommer-[]-many pockets": {
+  "mange lommer-[nouns]-many pockets": {
     "priorParams": [
       1,
       1,
@@ -1166,7 +1167,7 @@
     "numDrills": 0,
     "lastTime": 1625573325
   },
-  "alle lommene-[]-all the pockets": {
+  "alle lommene-[nouns]-all the pockets": {
     "priorParams": [
       1,
       1,
@@ -1175,7 +1176,7 @@
     "numDrills": 0,
     "lastTime": 1625573329
   },
-  "en onsdag-[]-a Wednesday": {
+  "en onsdag-[nouns]-a Wednesday": {
     "priorParams": [
       1,
       1,
@@ -1184,7 +1185,7 @@
     "numDrills": 0,
     "lastTime": 1625488920
   },
-  "onsdagen-[]-the Wednesday": {
+  "onsdagen-[nouns]-the Wednesday": {
     "priorParams": [
       1,
       1,
@@ -1193,7 +1194,7 @@
     "numDrills": 0,
     "lastTime": 1625488925
   },
-  "mange onsdager-[]-many Wednesdays": {
+  "mange onsdager-[nouns]-many Wednesdays": {
     "priorParams": [
       1,
       1,
@@ -1202,7 +1203,7 @@
     "numDrills": 0,
     "lastTime": 1625490418
   },
-  "alle onsdagene-[]-all the Wednesdays": {
+  "alle onsdagene-[nouns]-all the Wednesdays": {
     "priorParams": [
       1,
       1,
@@ -1211,7 +1212,7 @@
     "numDrills": 0,
     "lastTime": 1625490405
   },
-  "en ost-[]-a cheese": {
+  "en ost-[nouns]-a cheese": {
     "priorParams": [
       1,
       1,
@@ -1220,7 +1221,7 @@
     "numDrills": 0,
     "lastTime": 1625490316
   },
-  "osten-[]-the cheese": {
+  "osten-[nouns]-the cheese": {
     "priorParams": [
       1,
       1,
@@ -1229,7 +1230,7 @@
     "numDrills": 0,
     "lastTime": 1625490302
   },
-  "mange oster-[]-many cheeses": {
+  "mange oster-[nouns]-many cheeses": {
     "priorParams": [
       1,
       1,
@@ -1238,7 +1239,7 @@
     "numDrills": 0,
     "lastTime": 1625563192
   },
-  "alle ostene-[]-all the cheeses": {
+  "alle ostene-[nouns]-all the cheeses": {
     "priorParams": [
       1,
       1,
@@ -1247,7 +1248,7 @@
     "numDrills": 0,
     "lastTime": 1625573246
   },
-  "en tomat-[]-a tomato": {
+  "en tomat-[nouns]-a tomato": {
     "priorParams": [
       1,
       1,
@@ -1256,7 +1257,7 @@
     "numDrills": 0,
     "lastTime": 1625489805
   },
-  "tomaten-[]-the tomato": {
+  "tomaten-[nouns]-the tomato": {
     "priorParams": [
       1,
       1,
@@ -1265,7 +1266,7 @@
     "numDrills": 0,
     "lastTime": 1625489954
   },
-  "mange tomater-[]-many tomatoe": {
+  "mange tomater-[nouns]-many tomatoe": {
     "priorParams": [
       1,
       1,
@@ -1274,7 +1275,7 @@
     "numDrills": 0,
     "lastTime": 1625573140
   },
-  "alle tomatene-[]-all the tomatoe": {
+  "alle tomatene-[nouns]-all the tomatoe": {
     "priorParams": [
       1,
       1,
@@ -1283,7 +1284,7 @@
     "numDrills": 0,
     "lastTime": 1625573150
   },
-  "en bok-[]-a book": {
+  "en bok-[nouns]-a book": {
     "priorParams": [
       1,
       1,
@@ -1292,7 +1293,7 @@
     "numDrills": 0,
     "lastTime": 1625489657
   },
-  "boken-[]-the book": {
+  "boken-[nouns]-the book": {
     "priorParams": [
       1,
       1,
@@ -1301,7 +1302,7 @@
     "numDrills": 0,
     "lastTime": 1625489704
   },
-  "mange boker-[]-many books": {
+  "mange boker-[nouns]-many books": {
     "priorParams": [
       1,
       1,
@@ -1310,7 +1311,7 @@
     "numDrills": 0,
     "lastTime": 1625489692
   },
-  "alle bokene-[]-all the books": {
+  "alle bokene-[nouns]-all the books": {
     "priorParams": [
       1,
       1,
@@ -1319,7 +1320,7 @@
     "numDrills": 0,
     "lastTime": 1625489695
   },
-  "en bror-[]-a brother": {
+  "en bror-[nouns]-a brother": {
     "priorParams": [
       1,
       1,
@@ -1328,7 +1329,7 @@
     "numDrills": 0,
     "lastTime": 1625490136
   },
-  "broren-[]-the brother": {
+  "broren-[nouns]-the brother": {
     "priorParams": [
       1,
       1,
@@ -1337,7 +1338,7 @@
     "numDrills": 0,
     "lastTime": 1625490112
   },
-  "mange br\u00f8dre-[]-many brothers": {
+  "mange br\u00f8dre-[nouns]-many brothers": {
     "priorParams": [
       1,
       1,
@@ -1346,7 +1347,7 @@
     "numDrills": 0,
     "lastTime": 1625490125
   },
-  "alle br\u00f8drene-[]-all the brothers": {
+  "alle br\u00f8drene-[nouns]-all the brothers": {
     "priorParams": [
       1,
       1,
@@ -1355,16 +1356,17 @@
     "numDrills": 0,
     "lastTime": 1625490133
   },
-  "en krone-[]-a crown": {
+  "en krone-[nouns]-a crown": {
     "priorParams": [
-      1,
-      1,
-      60
+      1.438879727242564,
+      1.0000000000056302,
+      7856.111797286981
     ],
-    "numDrills": 0,
-    "lastTime": 1625563163
+    "numDrills": 1,
+    "lastTime": 1625574407,
+    "lastResult": true
   },
-  "kronen-[]-the crown": {
+  "kronen-[nouns]-the crown": {
     "priorParams": [
       1,
       1,
@@ -1373,7 +1375,7 @@
     "numDrills": 0,
     "lastTime": 1625563203
   },
-  "mange kroner-[]-many crowns": {
+  "mange kroner-[nouns]-many crowns": {
     "priorParams": [
       1,
       1,
@@ -1382,7 +1384,7 @@
     "numDrills": 0,
     "lastTime": 1625563199
   },
-  "alle kronene-[]-all the crowns": {
+  "alle kronene-[nouns]-all the crowns": {
     "priorParams": [
       1,
       1,
@@ -1391,7 +1393,7 @@
     "numDrills": 0,
     "lastTime": 1625563196
   },
-  "en mor-[]-a mother": {
+  "en mor-[nouns]-a mother": {
     "priorParams": [
       1,
       1,
@@ -1400,7 +1402,7 @@
     "numDrills": 0,
     "lastTime": 1625490115
   },
-  "moren-[]-the mother": {
+  "moren-[nouns]-the mother": {
     "priorParams": [
       1,
       1,
@@ -1409,7 +1411,7 @@
     "numDrills": 0,
     "lastTime": 1625490117
   },
-  "mange morer-[]-many mothers": {
+  "mange morer-[nouns]-many mothers": {
     "priorParams": [
       1,
       1,
@@ -1418,7 +1420,7 @@
     "numDrills": 0,
     "lastTime": 1625563111
   },
-  "alle morene-[]-all the mothers": {
+  "alle morene-[nouns]-all the mothers": {
     "priorParams": [
       1,
       1,
@@ -1427,7 +1429,7 @@
     "numDrills": 0,
     "lastTime": 1625563150
   },
-  "en buss-[]-a bus": {
+  "en buss-[nouns]-a bus": {
     "priorParams": [
       1,
       1,
@@ -1436,7 +1438,7 @@
     "numDrills": 0,
     "lastTime": 1625489552
   },
-  "bussen-[]-the bus": {
+  "bussen-[nouns]-the bus": {
     "priorParams": [
       1,
       1,
@@ -1445,7 +1447,7 @@
     "numDrills": 0,
     "lastTime": 1625489556
   },
-  "mange busser-[]-many buses": {
+  "mange busser-[nouns]-many buses": {
     "priorParams": [
       1,
       1,
@@ -1454,7 +1456,7 @@
     "numDrills": 0,
     "lastTime": 1625489583
   },
-  "alle bussene-[]-all the buses": {
+  "alle bussene-[nouns]-all the buses": {
     "priorParams": [
       1,
       1,
@@ -1463,7 +1465,7 @@
     "numDrills": 0,
     "lastTime": 1625489587
   },
-  "en frukt-[]-a fruit": {
+  "en frukt-[nouns]-a fruit": {
     "priorParams": [
       1,
       1,
@@ -1472,7 +1474,7 @@
     "numDrills": 0,
     "lastTime": 1625489051
   },
-  "frukten-[]-the fruit": {
+  "frukten-[nouns]-the fruit": {
     "priorParams": [
       1,
       1,
@@ -1481,7 +1483,7 @@
     "numDrills": 0,
     "lastTime": 1625489047
   },
-  "mange frukter-[]-many fruits": {
+  "mange frukter-[nouns]-many fruits": {
     "priorParams": [
       1,
       1,
@@ -1490,7 +1492,7 @@
     "numDrills": 0,
     "lastTime": 1625489044
   },
-  "alle fruktene-[]-all the fruits": {
+  "alle fruktene-[nouns]-all the fruits": {
     "priorParams": [
       1,
       1,
@@ -1499,7 +1501,7 @@
     "numDrills": 0,
     "lastTime": 1625489039
   },
-  "en gutt-[]-a boy": {
+  "en gutt-[nouns]-a boy": {
     "priorParams": [
       1,
       1,
@@ -1508,7 +1510,7 @@
     "numDrills": 0,
     "lastTime": 1625489991
   },
-  "gutten-[]-the boy": {
+  "gutten-[nouns]-the boy": {
     "priorParams": [
       1,
       1,
@@ -1517,7 +1519,7 @@
     "numDrills": 0,
     "lastTime": 1625489985
   },
-  "mange gutter-[]-many boys": {
+  "mange gutter-[nouns]-many boys": {
     "priorParams": [
       1,
       1,
@@ -1526,7 +1528,7 @@
     "numDrills": 0,
     "lastTime": 1625489974
   },
-  "alle guttene-[]-all the boys": {
+  "alle guttene-[nouns]-all the boys": {
     "priorParams": [
       1,
       1,
@@ -1535,7 +1537,7 @@
     "numDrills": 0,
     "lastTime": 1625489982
   },
-  "en hundrelapp-[]-a hundred krone note": {
+  "en hundrelapp-[nouns]-a hundred krone note": {
     "priorParams": [
       1,
       1,
@@ -1544,7 +1546,7 @@
     "numDrills": 0,
     "lastTime": 1625490276
   },
-  "hundrelappen-[]-the hundred krone note": {
+  "hundrelappen-[nouns]-the hundred krone note": {
     "priorParams": [
       1,
       1,
@@ -1553,7 +1555,7 @@
     "numDrills": 0,
     "lastTime": 1625490259
   },
-  "mange hundrelapper-[]-many hundred krone notes": {
+  "mange hundrelapper-[nouns]-many hundred krone notes": {
     "priorParams": [
       1,
       1,
@@ -1562,7 +1564,7 @@
     "numDrills": 0,
     "lastTime": 1625573492
   },
-  "alle hundrelappene-[]-all the hundred krone notes": {
+  "alle hundrelappene-[nouns]-all the hundred krone notes": {
     "priorParams": [
       1,
       1,
@@ -1571,7 +1573,7 @@
     "numDrills": 0,
     "lastTime": 1625573562
   },
-  "en konvolutt-[]-an envelope": {
+  "en konvolutt-[nouns]-an envelope": {
     "priorParams": [
       1,
       1,
@@ -1580,7 +1582,7 @@
     "numDrills": 0,
     "lastTime": 1625489114
   },
-  "konvolutten-[]-the envelope": {
+  "konvolutten-[nouns]-the envelope": {
     "priorParams": [
       1,
       1,
@@ -1589,7 +1591,7 @@
     "numDrills": 0,
     "lastTime": 1625489107
   },
-  "mange konvolutter-[]-many envelopes": {
+  "mange konvolutter-[nouns]-many envelopes": {
     "priorParams": [
       1,
       1,
@@ -1598,7 +1600,7 @@
     "numDrills": 0,
     "lastTime": 1625489095
   },
-  "alle konvoluttene-[]-all the envelopes": {
+  "alle konvoluttene-[nouns]-all the envelopes": {
     "priorParams": [
       1,
       1,
@@ -1607,7 +1609,7 @@
     "numDrills": 0,
     "lastTime": 1625489121
   },
-  "en brus-[]-a softdrink": {
+  "en brus-[nouns]-a softdrink": {
     "priorParams": [
       1,
       1,
@@ -1616,7 +1618,7 @@
     "numDrills": 0,
     "lastTime": 1625489711
   },
-  "brusen-[]-the softdrink": {
+  "brusen-[nouns]-the softdrink": {
     "priorParams": [
       1,
       1,
@@ -1625,7 +1627,7 @@
     "numDrills": 0,
     "lastTime": 1625489736
   },
-  "mange bruser-[]-many softdrinks": {
+  "mange bruser-[nouns]-many softdrinks": {
     "priorParams": [
       1,
       1,
@@ -1634,7 +1636,7 @@
     "numDrills": 0,
     "lastTime": 1625490412
   },
-  "alle brusene-[]-all the softdrinks": {
+  "alle brusene-[nouns]-all the softdrinks": {
     "priorParams": [
       1,
       1,
@@ -1643,7 +1645,7 @@
     "numDrills": 0,
     "lastTime": 1625490424
   },
-  "en klut-[]-a cloth": {
+  "en klut-[nouns]-a cloth": {
     "priorParams": [
       1,
       1,
@@ -1652,7 +1654,7 @@
     "numDrills": 0,
     "lastTime": 1625573404
   },
-  "kluten-[]-the cloth": {
+  "kluten-[nouns]-the cloth": {
     "priorParams": [
       1,
       1,
@@ -1661,7 +1663,7 @@
     "numDrills": 0,
     "lastTime": 1625573535
   },
-  "mange kluter-[]-many cloths": {
+  "mange kluter-[nouns]-many cloths": {
     "priorParams": [
       1,
       1,
@@ -1670,7 +1672,7 @@
     "numDrills": 0,
     "lastTime": 1625573524
   },
-  "alle klutene-[]-all the cloths": {
+  "alle klutene-[nouns]-all the cloths": {
     "priorParams": [
       1,
       1,
@@ -1679,7 +1681,7 @@
     "numDrills": 0,
     "lastTime": 1625573532
   },
-  "et hus-[]-a house": {
+  "et hus-[nouns]-a house": {
     "priorParams": [
       1,
       1,
@@ -1688,7 +1690,7 @@
     "numDrills": 0,
     "lastTime": 1625490381
   },
-  "huset-[]-the house": {
+  "huset-[nouns]-the house": {
     "priorParams": [
       1,
       1,
@@ -1697,7 +1699,7 @@
     "numDrills": 0,
     "lastTime": 1625490378
   },
-  "mange hus-[]-many houses": {
+  "mange hus-[nouns]-many houses": {
     "priorParams": [
       1,
       1,
@@ -1706,7 +1708,7 @@
     "numDrills": 0,
     "lastTime": 1625490384
   },
-  "alle husene-[]-all the houses": {
+  "alle husene-[nouns]-all the houses": {
     "priorParams": [
       1,
       1,
@@ -1715,7 +1717,7 @@
     "numDrills": 0,
     "lastTime": 1625490388
   },
-  "en pute-[]-a cushion": {
+  "en pute-[nouns]-a cushion": {
     "priorParams": [
       1,
       1,
@@ -1724,7 +1726,7 @@
     "numDrills": 0,
     "lastTime": 1625489283
   },
-  "puten-[]-the cushion": {
+  "puten-[nouns]-the cushion": {
     "priorParams": [
       1,
       1,
@@ -1733,7 +1735,7 @@
     "numDrills": 0,
     "lastTime": 1625489327
   },
-  "mange puter-[]-many cushions": {
+  "mange puter-[nouns]-many cushions": {
     "priorParams": [
       1,
       1,
@@ -1742,7 +1744,7 @@
     "numDrills": 0,
     "lastTime": 1625563298
   },
-  "alle putene-[]-all the cushions": {
+  "alle putene-[nouns]-all the cushions": {
     "priorParams": [
       1,
       1,
@@ -1751,7 +1753,7 @@
     "numDrills": 0,
     "lastTime": 1625563307
   },
-  "en rute-[]-a route": {
+  "en rute-[nouns]-a route": {
     "priorParams": [
       1,
       1,
@@ -1760,7 +1762,7 @@
     "numDrills": 0,
     "lastTime": 1625489626
   },
-  "ruten-[]-the route": {
+  "ruten-[nouns]-the route": {
     "priorParams": [
       1,
       1,
@@ -1769,7 +1771,7 @@
     "numDrills": 0,
     "lastTime": 1625489623
   },
-  "mange ruter-[]-many routes": {
+  "mange ruter-[nouns]-many routes": {
     "priorParams": [
       1,
       1,
@@ -1778,7 +1780,7 @@
     "numDrills": 0,
     "lastTime": 1625489647
   },
-  "alle rutene-[]-all the routes": {
+  "alle rutene-[nouns]-all the routes": {
     "priorParams": [
       1,
       1,
@@ -1787,7 +1789,7 @@
     "numDrills": 0,
     "lastTime": 1625489630
   },
-  "en uke-[]-a week": {
+  "en uke-[nouns]-a week": {
     "priorParams": [
       1,
       1,
@@ -1796,7 +1798,7 @@
     "numDrills": 0,
     "lastTime": 1625489081
   },
-  "uken-[]-the week": {
+  "uken-[nouns]-the week": {
     "priorParams": [
       1,
       1,
@@ -1805,7 +1807,7 @@
     "numDrills": 0,
     "lastTime": 1625489084
   },
-  "mange uker-[]-many weeks": {
+  "mange uker-[nouns]-many weeks": {
     "priorParams": [
       1,
       1,
@@ -1814,7 +1816,7 @@
     "numDrills": 0,
     "lastTime": 1625489086
   },
-  "alle ukene-[]-all the weeks": {
+  "alle ukene-[nouns]-all the weeks": {
     "priorParams": [
       1,
       1,
@@ -1823,7 +1825,7 @@
     "numDrills": 0,
     "lastTime": 1625489073
   },
-  "et stykke-[]-a piece": {
+  "et stykke-[nouns]-a piece": {
     "priorParams": [
       1,
       1,
@@ -1832,7 +1834,7 @@
     "numDrills": 0,
     "lastTime": 1625573280
   },
-  "stykket-[]-the piece": {
+  "stykket-[nouns]-the piece": {
     "priorParams": [
       1,
       1,
@@ -1841,11 +1843,11 @@
     "numDrills": 0,
     "lastTime": 1625573283
   },
-  "mange stykke-[]-many pieces": {},
-  "alle stykkeene-[]-all the pieces": {},
-  "en sykle-[]-a bicycle": {},
-  "syklen-[]-the bicycle": {},
-  "mange sykler-[]-many bicycles": {
+  "mange stykke-[nouns]-many pieces": {},
+  "alle stykkeene-[nouns]-all the pieces": {},
+  "en sykle-[nouns]-a bicycle": {},
+  "syklen-[nouns]-the bicycle": {},
+  "mange sykler-[nouns]-many bicycles": {
     "priorParams": [
       1,
       1,
@@ -1854,7 +1856,7 @@
     "numDrills": 0,
     "lastTime": 1625573196
   },
-  "alle syklene-[]-all the bicycles": {
+  "alle syklene-[nouns]-all the bicycles": {
     "priorParams": [
       1,
       1,
@@ -1863,7 +1865,7 @@
     "numDrills": 0,
     "lastTime": 1625573295
   },
-  "et syltet\u00f8y-[]-a jam": {
+  "et syltet\u00f8y-[nouns]-a jam": {
     "priorParams": [
       1,
       1,
@@ -1872,7 +1874,7 @@
     "numDrills": 0,
     "lastTime": 1625490182
   },
-  "syltet\u00f8yet-[]-the jam": {
+  "syltet\u00f8yet-[nouns]-the jam": {
     "priorParams": [
       1,
       1,
@@ -1881,7 +1883,7 @@
     "numDrills": 0,
     "lastTime": 1625490156
   },
-  "mange syltet\u00f8yer-[]-many jams": {
+  "mange syltet\u00f8yer-[nouns]-many jams": {
     "priorParams": [
       1,
       1,
@@ -1890,7 +1892,7 @@
     "numDrills": 0,
     "lastTime": 1625573384
   },
-  "alle syltet\u00f8yene-[]-all the jams": {
+  "alle syltet\u00f8yene-[nouns]-all the jams": {
     "priorParams": [
       1,
       1,
@@ -1899,7 +1901,7 @@
     "numDrills": 0,
     "lastTime": 1625573400
   },
-  "et yrke-[]-an occupation": {
+  "et yrke-[nouns]-an occupation": {
     "priorParams": [
       1,
       1,
@@ -1908,7 +1910,7 @@
     "numDrills": 0,
     "lastTime": 1625573453
   },
-  "yrket-[]-the occupation": {
+  "yrket-[nouns]-the occupation": {
     "priorParams": [
       1,
       1,
@@ -1917,9 +1919,9 @@
     "numDrills": 0,
     "lastTime": 1625573443
   },
-  "mange yrke-[]-many occupations": {},
-  "alle yrkeene-[]-all the occupations": {},
-  "et lys-[]-a light": {
+  "mange yrke-[nouns]-many occupations": {},
+  "alle yrkeene-[nouns]-all the occupations": {},
+  "et lys-[nouns]-a light": {
     "priorParams": [
       1,
       1,
@@ -1928,7 +1930,7 @@
     "numDrills": 0,
     "lastTime": 1625490239
   },
-  "lyset-[]-the light": {
+  "lyset-[nouns]-the light": {
     "priorParams": [
       1,
       1,
@@ -1937,8 +1939,8 @@
     "numDrills": 0,
     "lastTime": 1625490226
   },
-  "mange lyser-[]-many lights": {},
-  "alle lysene-[]-all the lights": {
+  "mange lyser-[nouns]-many lights": {},
+  "alle lysene-[nouns]-all the lights": {
     "priorParams": [
       1,
       1,
@@ -1947,7 +1949,7 @@
     "numDrills": 0,
     "lastTime": 1625573183
   },
-  "et frimerke-[]-a postage stamp": {
+  "et frimerke-[nouns]-a postage stamp": {
     "priorParams": [
       1,
       1,
@@ -1956,7 +1958,7 @@
     "numDrills": 0,
     "lastTime": 1625563041
   },
-  "frimerket-[]-the postage stamp": {
+  "frimerket-[nouns]-the postage stamp": {
     "priorParams": [
       1,
       1,
@@ -1965,7 +1967,7 @@
     "numDrills": 0,
     "lastTime": 1625563038
   },
-  "mange frimerker-[]-many postage stamps": {
+  "mange frimerker-[nouns]-many postage stamps": {
     "priorParams": [
       1,
       1,
@@ -1974,7 +1976,7 @@
     "numDrills": 0,
     "lastTime": 1625573528
   },
-  "alle frimerkene-[]-all the postage stamps": {
+  "alle frimerkene-[nouns]-all the postage stamps": {
     "priorParams": [
       1,
       1,
@@ -1983,7 +1985,7 @@
     "numDrills": 0,
     "lastTime": 1625573551
   },
-  "en merke-[]-a concert": {
+  "en merke-[nouns]-a concert": {
     "priorParams": [
       1,
       1,
@@ -1992,7 +1994,7 @@
     "numDrills": 0,
     "lastTime": 1625489965
   },
-  "merken-[]-the concert": {
+  "merken-[nouns]-the concert": {
     "priorParams": [
       1,
       1,
@@ -2001,7 +2003,7 @@
     "numDrills": 0,
     "lastTime": 1625489963
   },
-  "mange merker-[]-many concerts": {
+  "mange merker-[nouns]-many concerts": {
     "priorParams": [
       1,
       1,
@@ -2010,7 +2012,7 @@
     "numDrills": 0,
     "lastTime": 1625489947
   },
-  "alle merkene-[]-all the concerts": {
+  "alle merkene-[nouns]-all the concerts": {
     "priorParams": [
       1,
       1,
@@ -2019,7 +2021,7 @@
     "numDrills": 0,
     "lastTime": 1625489960
   },
-  "et merke-[]-a mark": {
+  "et merke-[nouns]-a mark": {
     "priorParams": [
       1,
       1,
@@ -2028,7 +2030,7 @@
     "numDrills": 0,
     "lastTime": 1625490428
   },
-  "merket-[]-the mark": {
+  "merket-[nouns]-the mark": {
     "priorParams": [
       1,
       1,
@@ -2037,7 +2039,7 @@
     "numDrills": 0,
     "lastTime": 1625490431
   },
-  "mange merker-[]-many marks": {
+  "mange merker-[nouns]-many marks": {
     "priorParams": [
       1,
       1,
@@ -2046,7 +2048,7 @@
     "numDrills": 0,
     "lastTime": 1625573425
   },
-  "alle merkene-[]-all the marks": {
+  "alle merkene-[nouns]-all the marks": {
     "priorParams": [
       1,
       1,
@@ -2055,7 +2057,7 @@
     "numDrills": 0,
     "lastTime": 1625573417
   },
-  "en vert-[]-a host": {
+  "en vert-[nouns]-a host": {
     "priorParams": [
       1,
       1,
@@ -2064,7 +2066,7 @@
     "numDrills": 0,
     "lastTime": 1625573564
   },
-  "verten-[]-the host": {
+  "verten-[nouns]-the host": {
     "priorParams": [
       1,
       1,
@@ -2073,7 +2075,7 @@
     "numDrills": 0,
     "lastTime": 1625573542
   },
-  "mange verter-[]-many hosts": {
+  "mange verter-[nouns]-many hosts": {
     "priorParams": [
       1,
       1,
@@ -2082,7 +2084,7 @@
     "numDrills": 0,
     "lastTime": 1625573556
   },
-  "alle vertene-[]-all the hosts": {
+  "alle vertene-[nouns]-all the hosts": {
     "priorParams": [
       1,
       1,
@@ -2091,27 +2093,27 @@
     "numDrills": 0,
     "lastTime": 1625573546
   },
-  "et l\u00e6r-[]-a leather": {
+  "et l\u00e6r-[nouns]-a leather": {
     "priorParams": [
-      1.3899619983396214,
-      1.0000000000000246,
-      561.8858651768718
+      1.4379372859107598,
+      0.9999999999988032,
+      58984.49176537222
     ],
-    "numDrills": 1,
-    "lastTime": 1625490356,
+    "numDrills": 2,
+    "lastTime": 1625574391,
     "lastResult": true
   },
-  "l\u00e6ret-[]-the leather": {
+  "l\u00e6ret-[nouns]-the leather": {
     "priorParams": [
-      1.3899619983396214,
-      1.0000000000000246,
-      561.8858651768718
+      1.4379377326985985,
+      0.999999999999433,
+      58990.03696131252
     ],
-    "numDrills": 1,
-    "lastTime": 1625490361,
+    "numDrills": 2,
+    "lastTime": 1625574404,
     "lastResult": true
   },
-  "mange l\u00e6r-[]-many leathers": {
+  "mange l\u00e6r-[nouns]-many leathers": {
     "priorParams": [
       1,
       1,
@@ -2120,7 +2122,7 @@
     "numDrills": 0,
     "lastTime": 1625490017
   },
-  "alle l\u00e6rene-[]-all the leathers": {
+  "alle l\u00e6rene-[nouns]-all the leathers": {
     "priorParams": [
       1,
       1,
@@ -2129,7 +2131,7 @@
     "numDrills": 0,
     "lastTime": 1625489999
   },
-  "en l\u00e6rer-[]-a teacher": {
+  "en l\u00e6rer-[nouns]-a teacher": {
     "priorParams": [
       1,
       1,
@@ -2138,7 +2140,7 @@
     "numDrills": 0,
     "lastTime": 1625562909
   },
-  "l\u00e6reren-[]-the teacher": {
+  "l\u00e6reren-[nouns]-the teacher": {
     "priorParams": [
       1,
       1,
@@ -2147,7 +2149,7 @@
     "numDrills": 0,
     "lastTime": 1625562934
   },
-  "mange l\u00e6rere-[]-many teachers": {
+  "mange l\u00e6rere-[nouns]-many teachers": {
     "priorParams": [
       1,
       1,
@@ -2156,7 +2158,7 @@
     "numDrills": 0,
     "lastTime": 1625562930
   },
-  "alle l\u00e6rerene-[]-all the teachers": {
+  "alle l\u00e6rerene-[nouns]-all the teachers": {
     "priorParams": [
       1,
       1,
@@ -2165,7 +2167,7 @@
     "numDrills": 0,
     "lastTime": 1625563002
   },
-  "en p\u00e6re-[]-a pear": {
+  "en p\u00e6re-[nouns]-a pear": {
     "priorParams": [
       1,
       1,
@@ -2174,7 +2176,7 @@
     "numDrills": 0,
     "lastTime": 1625489079
   },
-  "p\u00e6ren-[]-the pear": {
+  "p\u00e6ren-[nouns]-the pear": {
     "priorParams": [
       1,
       1,
@@ -2183,7 +2185,7 @@
     "numDrills": 0,
     "lastTime": 1625489077
   },
-  "mange p\u00e6rer-[]-many pears": {
+  "mange p\u00e6rer-[nouns]-many pears": {
     "priorParams": [
       1,
       1,
@@ -2192,7 +2194,7 @@
     "numDrills": 0,
     "lastTime": 1625573113
   },
-  "alle p\u00e6rene-[]-all the pears": {
+  "alle p\u00e6rene-[nouns]-all the pears": {
     "priorParams": [
       1,
       1,
@@ -2201,7 +2203,7 @@
     "numDrills": 0,
     "lastTime": 1625573124
   },
-  "et kj\u00f8kken-[]-a kitchen": {
+  "et kj\u00f8kken-[nouns]-a kitchen": {
     "priorParams": [
       1,
       1,
@@ -2210,7 +2212,7 @@
     "numDrills": 0,
     "lastTime": 1625563054
   },
-  "kj\u00f8kkenet-[]-the kitchen": {
+  "kj\u00f8kkenet-[nouns]-the kitchen": {
     "priorParams": [
       1,
       1,
@@ -2219,7 +2221,7 @@
     "numDrills": 0,
     "lastTime": 1625563045
   },
-  "mange kj\u00f8kkener-[]-many kitchens": {
+  "mange kj\u00f8kkener-[nouns]-many kitchens": {
     "priorParams": [
       1,
       1,
@@ -2228,7 +2230,7 @@
     "numDrills": 0,
     "lastTime": 1625563050
   },
-  "alle kj\u00f8kkenene-[]-all the kitchens": {
+  "alle kj\u00f8kkenene-[nouns]-all the kitchens": {
     "priorParams": [
       1,
       1,
@@ -2237,7 +2239,7 @@
     "numDrills": 0,
     "lastTime": 1625563060
   },
-  "et skj\u00f8rt-[]-a skirt": {
+  "et skj\u00f8rt-[nouns]-a skirt": {
     "priorParams": [
       1,
       1,
@@ -2246,7 +2248,7 @@
     "numDrills": 0,
     "lastTime": 1625489260
   },
-  "skj\u00f8rtet-[]-the skirt": {
+  "skj\u00f8rtet-[nouns]-the skirt": {
     "priorParams": [
       1,
       1,
@@ -2255,7 +2257,7 @@
     "numDrills": 0,
     "lastTime": 1625489271
   },
-  "mange skj\u00f8rt-[]-many skirts": {
+  "mange skj\u00f8rt-[nouns]-many skirts": {
     "priorParams": [
       1,
       1,
@@ -2264,7 +2266,7 @@
     "numDrills": 0,
     "lastTime": 1625489265
   },
-  "alle skj\u00f8rtene-[]-all the skirts": {
+  "alle skj\u00f8rtene-[nouns]-all the skirts": {
     "priorParams": [
       1,
       1,
@@ -2273,7 +2275,7 @@
     "numDrills": 0,
     "lastTime": 1625489268
   },
-  "en st\u00f8rrelse-[]-a size": {
+  "en st\u00f8rrelse-[nouns]-a size": {
     "priorParams": [
       1,
       1,
@@ -2282,7 +2284,7 @@
     "numDrills": 0,
     "lastTime": 1625563210
   },
-  "st\u00f8rrelsen-[]-the size": {
+  "st\u00f8rrelsen-[nouns]-the size": {
     "priorParams": [
       1,
       1,
@@ -2291,7 +2293,7 @@
     "numDrills": 0,
     "lastTime": 1625563230
   },
-  "mange st\u00f8rrelser-[]-many sizes": {
+  "mange st\u00f8rrelser-[nouns]-many sizes": {
     "priorParams": [
       1,
       1,
@@ -2300,7 +2302,7 @@
     "numDrills": 0,
     "lastTime": 1625563218
   },
-  "alle st\u00f8rrelsene-[]-all the sizes": {
+  "alle st\u00f8rrelsene-[nouns]-all the sizes": {
     "priorParams": [
       1,
       1,
@@ -2309,7 +2311,7 @@
     "numDrills": 0,
     "lastTime": 1625563236
   },
-  "en s\u00f8ndag-[]-a Sunday": {
+  "en s\u00f8ndag-[nouns]-a Sunday": {
     "priorParams": [
       1,
       1,
@@ -2318,7 +2320,7 @@
     "numDrills": 0,
     "lastTime": 1625573449
   },
-  "s\u00f8ndagen-[]-the Sunday": {
+  "s\u00f8ndagen-[nouns]-the Sunday": {
     "priorParams": [
       1,
       1,
@@ -2327,7 +2329,7 @@
     "numDrills": 0,
     "lastTime": 1625573447
   },
-  "mange s\u00f8ndager-[]-many Sundays": {
+  "mange s\u00f8ndager-[nouns]-many Sundays": {
     "priorParams": [
       1,
       1,
@@ -2336,7 +2338,7 @@
     "numDrills": 0,
     "lastTime": 1625573431
   },
-  "alle s\u00f8ndagene-[]-all the Sundays": {
+  "alle s\u00f8ndagene-[nouns]-all the Sundays": {
     "priorParams": [
       1,
       1,
@@ -2345,7 +2347,7 @@
     "numDrills": 0,
     "lastTime": 1625573437
   },
-  "et \u00f8nske-[]-a wish": {
+  "et \u00f8nske-[nouns]-a wish": {
     "priorParams": [
       1,
       1,
@@ -2354,7 +2356,7 @@
     "numDrills": 0,
     "lastTime": 1625573510
   },
-  "\u00f8nsket-[]-the wish": {
+  "\u00f8nsket-[nouns]-the wish": {
     "priorParams": [
       1,
       1,
@@ -2363,7 +2365,7 @@
     "numDrills": 0,
     "lastTime": 1625573500
   },
-  "mange \u00f8nsker-[]-many wishes": {
+  "mange \u00f8nsker-[nouns]-many wishes": {
     "priorParams": [
       1,
       1,
@@ -2372,7 +2374,7 @@
     "numDrills": 0,
     "lastTime": 1625573508
   },
-  "alle \u00f8nskene-[]-all the wishes": {
+  "alle \u00f8nskene-[nouns]-all the wishes": {
     "priorParams": [
       1,
       1,
@@ -2381,7 +2383,7 @@
     "numDrills": 0,
     "lastTime": 1625573504
   },
-  "et br\u00f8d-[]-a bread": {
+  "et br\u00f8d-[nouns]-a bread": {
     "priorParams": [
       1,
       1,
@@ -2390,7 +2392,7 @@
     "numDrills": 0,
     "lastTime": 1625490035
   },
-  "br\u00f8det-[]-the bread": {
+  "br\u00f8det-[nouns]-the bread": {
     "priorParams": [
       1,
       1,
@@ -2399,7 +2401,7 @@
     "numDrills": 0,
     "lastTime": 1625490032
   },
-  "mange br\u00f8d-[]-many breads": {
+  "mange br\u00f8d-[nouns]-many breads": {
     "priorParams": [
       1,
       1,
@@ -2408,7 +2410,7 @@
     "numDrills": 0,
     "lastTime": 1625490070
   },
-  "alle br\u00f8dene-[]-all the breads": {
+  "alle br\u00f8dene-[nouns]-all the breads": {
     "priorParams": [
       1,
       1,
@@ -2417,7 +2419,7 @@
     "numDrills": 0,
     "lastTime": 1625490055
   },
-  "en fl\u00f8te-[]-a cream": {
+  "en fl\u00f8te-[nouns]-a cream": {
     "priorParams": [
       1,
       1,
@@ -2426,7 +2428,7 @@
     "numDrills": 0,
     "lastTime": 1625573166
   },
-  "fl\u00f8ten-[]-the cream": {
+  "fl\u00f8ten-[nouns]-the cream": {
     "priorParams": [
       1,
       1,
@@ -2435,7 +2437,7 @@
     "numDrills": 0,
     "lastTime": 1625573185
   },
-  "mange fl\u00f8ter-[]-many creams": {
+  "mange fl\u00f8ter-[nouns]-many creams": {
     "priorParams": [
       1,
       1,
@@ -2444,7 +2446,7 @@
     "numDrills": 0,
     "lastTime": 1625573171
   },
-  "alle fl\u00f8tene-[]-all the creams": {
+  "alle fl\u00f8tene-[nouns]-all the creams": {
     "priorParams": [
       1,
       1,
@@ -2453,7 +2455,7 @@
     "numDrills": 0,
     "lastTime": 1625573188
   },
-  "en fris\u00f8r-[]-a hairdresser": {
+  "en fris\u00f8r-[nouns]-a hairdresser": {
     "priorParams": [
       1,
       1,
@@ -2462,7 +2464,7 @@
     "numDrills": 0,
     "lastTime": 1625488954
   },
-  "fris\u00f8ren-[]-the hairdresser": {
+  "fris\u00f8ren-[nouns]-the hairdresser": {
     "priorParams": [
       1,
       1,
@@ -2471,7 +2473,7 @@
     "numDrills": 0,
     "lastTime": 1625488971
   },
-  "mange fris\u00f8rer-[]-many hairdressers": {
+  "mange fris\u00f8rer-[nouns]-many hairdressers": {
     "priorParams": [
       1,
       1,
@@ -2480,7 +2482,7 @@
     "numDrills": 0,
     "lastTime": 1625563116
   },
-  "alle fris\u00f8rene-[]-all the hairdressers": {
+  "alle fris\u00f8rene-[nouns]-all the hairdressers": {
     "priorParams": [
       1,
       1,
@@ -2489,7 +2491,7 @@
     "numDrills": 0,
     "lastTime": 1625563285
   },
-  "et kj\u00f8p-[]-a buy": {
+  "et kj\u00f8p-[nouns]-a buy": {
     "priorParams": [
       1.0536039781720306,
       1.0063112736745865,
@@ -2499,7 +2501,7 @@
     "lastTime": 1625573611,
     "lastResult": false
   },
-  "kj\u00f8pet-[]-the buy": {
+  "kj\u00f8pet-[nouns]-the buy": {
     "priorParams": [
       1,
       1,
@@ -2508,7 +2510,7 @@
     "numDrills": 0,
     "lastTime": 1625490281
   },
-  "mange kj\u00f8p-[]-many buys": {
+  "mange kj\u00f8p-[nouns]-many buys": {
     "priorParams": [
       1,
       1,
@@ -2517,7 +2519,7 @@
     "numDrills": 0,
     "lastTime": 1625490266
   },
-  "alle kj\u00f8pene-[]-all the buys": {
+  "alle kj\u00f8pene-[nouns]-all the buys": {
     "priorParams": [
       1,
       1,
@@ -2526,7 +2528,7 @@
     "numDrills": 0,
     "lastTime": 1625490285
   },
-  "et m\u00f8te-[]-a meeting": {
+  "et m\u00f8te-[nouns]-a meeting": {
     "priorParams": [
       1,
       1,
@@ -2535,7 +2537,7 @@
     "numDrills": 0,
     "lastTime": 1625573354
   },
-  "m\u00f8tet-[]-the meeting": {
+  "m\u00f8tet-[nouns]-the meeting": {
     "priorParams": [
       1,
       1,
@@ -2544,7 +2546,7 @@
     "numDrills": 0,
     "lastTime": 1625573356
   },
-  "mange m\u00f8ter-[]-many meetings": {
+  "mange m\u00f8ter-[nouns]-many meetings": {
     "priorParams": [
       1,
       1,
@@ -2553,7 +2555,7 @@
     "numDrills": 0,
     "lastTime": 1625573395
   },
-  "alle m\u00f8tene-[]-all the meetings": {
+  "alle m\u00f8tene-[nouns]-all the meetings": {
     "priorParams": [
       1,
       1,
@@ -2562,7 +2564,7 @@
     "numDrills": 0,
     "lastTime": 1625573387
   },
-  "en klokke-[]-a clock": {
+  "en klokke-[nouns]-a clock": {
     "priorParams": [
       1,
       1,
@@ -2571,7 +2573,7 @@
     "numDrills": 0,
     "lastTime": 1625488957
   },
-  "klokken-[]-the clock": {
+  "klokken-[nouns]-the clock": {
     "priorParams": [
       1,
       1,
@@ -2580,7 +2582,7 @@
     "numDrills": 0,
     "lastTime": 1625488974
   },
-  "mange klokker-[]-many clocks": {
+  "mange klokker-[nouns]-many clocks": {
     "priorParams": [
       1,
       1,
@@ -2589,7 +2591,7 @@
     "numDrills": 0,
     "lastTime": 1625488962
   },
-  "alle klokkene-[]-all the clocks": {
+  "alle klokkene-[nouns]-all the clocks": {
     "priorParams": [
       1,
       1,
@@ -2598,7 +2600,7 @@
     "numDrills": 0,
     "lastTime": 1625488947
   },
-  "en kopp-[]-a cup": {
+  "en kopp-[nouns]-a cup": {
     "priorParams": [
       1,
       1,
@@ -2607,7 +2609,7 @@
     "numDrills": 0,
     "lastTime": 1625489525
   },
-  "koppen-[]-the cup": {
+  "koppen-[nouns]-the cup": {
     "priorParams": [
       1,
       1,
@@ -2616,7 +2618,7 @@
     "numDrills": 0,
     "lastTime": 1625563121
   },
-  "mange kopper-[]-many cups": {
+  "mange kopper-[nouns]-many cups": {
     "priorParams": [
       1,
       1,
@@ -2625,7 +2627,7 @@
     "numDrills": 0,
     "lastTime": 1625563153
   },
-  "alle koppene-[]-all the cups": {
+  "alle koppene-[nouns]-all the cups": {
     "priorParams": [
       1,
       1,
@@ -2634,7 +2636,7 @@
     "numDrills": 0,
     "lastTime": 1625563108
   },
-  "en dollar-[]-a dollar": {
+  "en dollar-[nouns]-a dollar": {
     "priorParams": [
       1,
       1,
@@ -2643,7 +2645,7 @@
     "numDrills": 0,
     "lastTime": 1625489137
   },
-  "dollaren-[]-the dollar": {
+  "dollaren-[nouns]-the dollar": {
     "priorParams": [
       1,
       1,
@@ -2652,7 +2654,7 @@
     "numDrills": 0,
     "lastTime": 1625489149
   },
-  "mange dollar-[]-many dollars": {
+  "mange dollar-[nouns]-many dollars": {
     "priorParams": [
       1,
       1,
@@ -2661,7 +2663,7 @@
     "numDrills": 0,
     "lastTime": 1625489142
   },
-  "alle dollarene-[]-all the dollars": {
+  "alle dollarene-[nouns]-all the dollars": {
     "priorParams": [
       1,
       1,
@@ -2670,7 +2672,7 @@
     "numDrills": 0,
     "lastTime": 1625489132
   },
-  "et h\u00e5r-[]-a hair": {
+  "et h\u00e5r-[nouns]-a hair": {
     "priorParams": [
       1,
       1,
@@ -2679,7 +2681,7 @@
     "numDrills": 0,
     "lastTime": 1625489605
   },
-  "h\u00e5ret-[]-the hair": {
+  "h\u00e5ret-[nouns]-the hair": {
     "priorParams": [
       1,
       1,
@@ -2688,7 +2690,7 @@
     "numDrills": 0,
     "lastTime": 1625489601
   },
-  "mange h\u00e5r-[]-many hairs": {
+  "mange h\u00e5r-[nouns]-many hairs": {
     "priorParams": [
       1,
       1,
@@ -2697,7 +2699,7 @@
     "numDrills": 0,
     "lastTime": 1625563240
   },
-  "alle h\u00e5rene-[]-all the hairs": {
+  "alle h\u00e5rene-[nouns]-all the hairs": {
     "priorParams": [
       1,
       1,
@@ -2706,7 +2708,7 @@
     "numDrills": 0,
     "lastTime": 1625563224
   },
-  "en t\u00e5-[]-a toe": {
+  "en t\u00e5-[nouns]-a toe": {
     "priorParams": [
       1,
       1,
@@ -2715,7 +2717,7 @@
     "numDrills": 0,
     "lastTime": 1625488999
   },
-  "t\u00e5en-[]-the toe": {
+  "t\u00e5en-[nouns]-the toe": {
     "priorParams": [
       1,
       1,
@@ -2724,7 +2726,7 @@
     "numDrills": 0,
     "lastTime": 1625489055
   },
-  "mange t\u00e6r-[]-many toes": {
+  "mange t\u00e6r-[nouns]-many toes": {
     "priorParams": [
       1.4387078529473223,
       1.0000000000035765,
@@ -2734,7 +2736,7 @@
     "lastTime": 1625573626,
     "lastResult": true
   },
-  "alle t\u00e6rne-[]-all the toes": {
+  "alle t\u00e6rne-[nouns]-all the toes": {
     "priorParams": [
       1.0188291538710144,
       1.0219243318300786,
@@ -2744,7 +2746,7 @@
     "lastTime": 1625573635,
     "lastResult": false
   },
-  "et \u00e5r-[]-a year": {
+  "et \u00e5r-[nouns]-a year": {
     "priorParams": [
       1,
       1,
@@ -2753,7 +2755,7 @@
     "numDrills": 0,
     "lastTime": 1625490213
   },
-  "\u00e5ret-[]-the year": {
+  "\u00e5ret-[nouns]-the year": {
     "priorParams": [
       1,
       1,
@@ -2762,7 +2764,7 @@
     "numDrills": 0,
     "lastTime": 1625490219
   },
-  "mange \u00e5r-[]-many years": {
+  "mange \u00e5r-[nouns]-many years": {
     "priorParams": [
       1,
       1,
@@ -2771,7 +2773,7 @@
     "numDrills": 0,
     "lastTime": 1625490203
   },
-  "alle \u00e5rene-[]-all the years": {
+  "alle \u00e5rene-[nouns]-all the years": {
     "priorParams": [
       1,
       1,
@@ -2780,7 +2782,7 @@
     "numDrills": 0,
     "lastTime": 1625490207
   },
-  "mange mat-[]-many foods": {
+  "mange mat-[nouns]-many foods": {
     "priorParams": [
       1,
       1,
@@ -2789,8 +2791,8 @@
     "numDrills": 0,
     "lastTime": 1625489560
   },
-  "stykkeet-[]-the piece": {},
-  "teen-[]-the tea": {
+  "stykkeet-[nouns]-the piece": {},
+  "teen-[nouns]-the tea": {
     "priorParams": [
       1,
       1,
@@ -2799,7 +2801,7 @@
     "numDrills": 0,
     "lastTime": 1625563310
   },
-  "mange teer-[]-many teas": {
+  "mange teer-[nouns]-many teas": {
     "priorParams": [
       1,
       1,
@@ -2808,7 +2810,7 @@
     "numDrills": 0,
     "lastTime": 1625563276
   },
-  "alle teene-[]-all the teas": {
+  "alle teene-[nouns]-all the teas": {
     "priorParams": [
       1,
       1,
@@ -2817,9 +2819,9 @@
     "numDrills": 0,
     "lastTime": 1625573258
   },
-  "sykleen-[]-the bicycle": {},
-  "yrkeet-[]-the occupation": {},
-  "treet-[]-the tree": {
+  "sykleen-[nouns]-the bicycle": {},
+  "yrkeet-[nouns]-the occupation": {},
+  "treet-[nouns]-the tree": {
     "priorParams": [
       1,
       1,
@@ -2828,7 +2830,7 @@
     "numDrills": 0,
     "lastTime": 1625573494
   },
-  "mange b\u00f8ker-[]-many books": {
+  "mange b\u00f8ker-[nouns]-many books": {
     "priorParams": [
       1,
       1,
@@ -2837,7 +2839,7 @@
     "numDrills": 0,
     "lastTime": 1625490006
   },
-  "alle b\u00f8kene-[]-all the books": {
+  "alle b\u00f8kene-[nouns]-all the books": {
     "priorParams": [
       1,
       1,
@@ -2846,7 +2848,7 @@
     "numDrills": 0,
     "lastTime": 1625490001
   },
-  "en vang-[]-a field": {
+  "en vang-[nouns]-a field": {
     "priorParams": [
       1.438697172416776,
       0.999999999998992,
@@ -2856,7 +2858,7 @@
     "lastTime": 1625573640,
     "lastResult": true
   },
-  "vangen-[]-the field": {
+  "vangen-[nouns]-the field": {
     "priorParams": [
       1.4386875477548342,
       0.9999999999969881,
@@ -2866,7 +2868,7 @@
     "lastTime": 1625573616,
     "lastResult": true
   },
-  "mange vanger-[]-many fields": {
+  "mange vanger-[nouns]-many fields": {
     "priorParams": [
       1,
       1,
@@ -2875,7 +2877,7 @@
     "numDrills": 0,
     "lastTime": 1625573464
   },
-  "alle vangene-[]-all the fields": {
+  "alle vangene-[nouns]-all the fields": {
     "priorParams": [
       1,
       1,
@@ -2884,7 +2886,7 @@
     "numDrills": 0,
     "lastTime": 1625573482
   },
-  "en konsert-[]-a concert": {
+  "en konsert-[nouns]-a concert": {
     "priorParams": [
       1,
       1,
@@ -2893,7 +2895,7 @@
     "numDrills": 0,
     "lastTime": 1625490073
   },
-  "konserten-[]-the concert": {
+  "konserten-[nouns]-the concert": {
     "priorParams": [
       1,
       1,
@@ -2902,7 +2904,7 @@
     "numDrills": 0,
     "lastTime": 1625490061
   },
-  "mange konserter-[]-many concerts": {
+  "mange konserter-[nouns]-many concerts": {
     "priorParams": [
       1,
       1,
@@ -2911,7 +2913,7 @@
     "numDrills": 0,
     "lastTime": 1625490064
   },
-  "alle konsertene-[]-all the concerts": {
+  "alle konsertene-[nouns]-all the concerts": {
     "priorParams": [
       1,
       1,
@@ -2920,7 +2922,7 @@
     "numDrills": 0,
     "lastTime": 1625490076
   },
-  "en sykkel-[]-a bicycle": {
+  "en sykkel-[nouns]-a bicycle": {
     "priorParams": [
       1,
       1,
@@ -2929,7 +2931,7 @@
     "numDrills": 0,
     "lastTime": 1625573207
   },
-  "sykkelen-[]-the bicycle": {
+  "sykkelen-[nouns]-the bicycle": {
     "priorParams": [
       1,
       1,
@@ -2938,7 +2940,7 @@
     "numDrills": 0,
     "lastTime": 1625573236
   },
-  "mange stykker-[]-many pieces": {
+  "mange stykker-[nouns]-many pieces": {
     "priorParams": [
       1,
       1,
@@ -2947,7 +2949,7 @@
     "numDrills": 0,
     "lastTime": 1625573305
   },
-  "alle stykkene-[]-all the pieces": {
+  "alle stykkene-[nouns]-all the pieces": {
     "priorParams": [
       1,
       1,
@@ -2956,7 +2958,7 @@
     "numDrills": 0,
     "lastTime": 1625573422
   },
-  "mange yrker-[]-many occupations": {
+  "mange yrker-[nouns]-many occupations": {
     "priorParams": [
       1,
       1,
@@ -2965,7 +2967,7 @@
     "numDrills": 0,
     "lastTime": 1625573516
   },
-  "alle yrkene-[]-all the occupations": {
+  "alle yrkene-[nouns]-all the occupations": {
     "priorParams": [
       1,
       1,
@@ -2974,7 +2976,7 @@
     "numDrills": 0,
     "lastTime": 1625573520
   },
-  "et \u00e5r-[]-an year": {
+  "et \u00e5r-[nouns]-an year": {
     "priorParams": [
       1,
       1,
@@ -2983,7 +2985,7 @@
     "numDrills": 0,
     "lastTime": 1625573230
   },
-  "mange lys-[]-many lights": {
+  "mange lys-[nouns]-many lights": {
     "priorParams": [
       1,
       1,
@@ -2992,7 +2994,7 @@
     "numDrills": 0,
     "lastTime": 1625573181
   },
-  "alle l\u00e6rerne-[]-all the teachers": {
+  "alle l\u00e6rerne-[nouns]-all the teachers": {
     "priorParams": [
       1,
       1,
@@ -3001,7 +3003,7 @@
     "numDrills": 0,
     "lastTime": 1625563168
   },
-  "mange m\u00f8dre-[]-many mothers": {
+  "mange m\u00f8dre-[nouns]-many mothers": {
     "priorParams": [
       1,
       1,
@@ -3010,7 +3012,7 @@
     "numDrills": 0,
     "lastTime": 1625573315
   },
-  "alle m\u00f8drene-[]-all the mothers": {
+  "alle m\u00f8drene-[nouns]-all the mothers": {
     "priorParams": [
       1,
       1,
@@ -3019,7 +3021,7 @@
     "numDrills": 0,
     "lastTime": 1625573318
   },
-  "mange tomater-[]-many tomatoes": {
+  "mange tomater-[nouns]-many tomatoes": {
     "priorParams": [
       1,
       1,
@@ -3028,7 +3030,7 @@
     "numDrills": 0,
     "lastTime": 1625573234
   },
-  "alle tomatene-[]-all the tomatoes": {
+  "alle tomatene-[nouns]-all the tomatoes": {
     "priorParams": [
       1,
       1,

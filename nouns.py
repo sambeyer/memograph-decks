@@ -42,18 +42,22 @@ class Noun(BaseWord):
         is_card = Card(
             CardSide(f'{norsk_a} {self.indefinite_singular}'),
             CardSide(f'{english_a} {self.english}'),
+            topic=TOPIC,
         )
         ds_card = Card(
             CardSide(self.definite_singular),
             CardSide(f'the {self.english}'),
+            topic=TOPIC,
         )
         ip_card = Card(
             CardSide(f'mange {self.indefinite_plural}'),
             CardSide(f'many {self.english_plural}'),
+            topic=TOPIC,
         )
         dp_card = Card(
             CardSide(f'alle {self.definite_plural}'),
             CardSide(f'all the {self.english_plural}'),
+            topic=TOPIC,
         )
 
         return [

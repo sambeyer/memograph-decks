@@ -364,3 +364,9 @@
 {"id": "mange t\u00e6r-[]-many toes", "time": 1625573626, "event": "DRILL", "data": {"got": true}}
 {"id": "alle t\u00e6rne-[]-all the toes", "time": 1625573635, "event": "DRILL", "data": {"got": false}}
 {"id": "en vang-[]-a field", "time": 1625573640, "event": "DRILL", "data": {"got": true}}
+{"id": "et l\u00e6r-[nouns]-a leather", "time": 1625574391, "event": "DRILL", "data": {"got": true}}
+{"id": "et tre-[nouns]-a tree", "time": 1625574393, "event": "DRILL", "data": {"got": true}}
+{"id": "mange tr\u00e6r-[nouns]-many trees", "time": 1625574401, "event": "DRILL", "data": {"got": true}}
+{"id": "l\u00e6ret-[nouns]-the leather", "time": 1625574404, "event": "DRILL", "data": {"got": true}}
+{"id": "en krone-[nouns]-a crown", "time": 1625574407, "event": "DRILL", "data": {"got": true}}
+{"id": "et bad-[nouns]-a bath", "time": 1625574409, "event": "DRILL", "data": {"got": true}}
