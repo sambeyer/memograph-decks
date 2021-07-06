@@ -1,0 +1,480 @@
+{
+    "nouns":[
+        {
+            "gender": "m",
+            "english": "bottle",
+            "english_plural": "bottles",
+            "indefinite_singular": "flaske"
+        },
+        {
+            "gender": "n",
+            "english": "glass",
+            "english_plural": "glasses",
+            "indefinite_singular": "glass"
+        },
+        {
+            "gender": "m",
+            "english": "mum",
+            "english_plural": "mums",
+            "indefinite_singular": "mamma"
+        },
+        {
+            "gender": "m",
+            "english": "Monday",
+            "english_plural": "Mondays",
+            "indefinite_singular": "mandag"
+        },
+        {
+            "gender": "n",
+            "english": "name",
+            "english_plural": "names",
+            "indefinite_singular": "navn"
+        },
+        {
+            "gender": "m",
+            "english": "cordial",
+            "english_plural": "cordials",
+            "indefinite_singular": "saft"
+        },
+        {
+            "gender": "n",
+            "english": "salt",
+            "english_plural": "salts",
+            "indefinite_singular": "salt"
+        },
+        {
+            "gender": "m",
+            "english": "song",
+            "english_plural": "songs",
+            "indefinite_singular": "sang"
+        },
+        {
+            "gender": "m",
+            "english": "tooth",
+            "english_plural": "teeth",
+            "indefinite_singular": "tann",
+            "indefinite_plural": "tenner"
+        },
+        {
+            "gender": "m",
+            "english": "field",
+            "english_plural": "fields",
+            "indefinite_singular": "vang"
+        },
+        {
+            "gender": "n",
+            "english": "water",
+            "english_plural": "water",
+            "indefinite_singular": "vann"
+        },
+        {
+            "gender": "n",
+            "english": "bath",
+            "english_plural": "baths",
+            "indefinite_singular": "bad"
+        },
+        {
+            "gender": "m",
+            "english": "day",
+            "english_plural": "days",
+            "indefinite_singular": "dag"
+        },
+        {
+            "gender": "m",
+            "english": "lady",
+            "english_plural": "ladies",
+            "indefinite_singular": "dame"
+        },
+        {
+            "gender": "m",
+            "english": "father",
+            "english_plural": "fathers",
+            "indefinite_singular": "far",
+            "indefinite_plural": "fedre"
+        },
+        {
+            "gender": "m",
+            "english": "guy",
+            "english_plural": "guys",
+            "indefinite_singular": "kar"
+        },
+        {
+            "gender": "m",
+            "english": "food",
+            "english_plural": "foods",
+            "indefinite_singular": "mat",
+            "indefinite_plural": "mat"
+        },
+        {
+            "gender": "n",
+            "english": "apple",
+            "english_plural": "apples",
+            "indefinite_singular": "eple"
+        },
+        {
+            "gender": "m",
+            "english": "milk",
+            "english_plural": "milks",
+            "indefinite_singular": "melk"
+        },
+        {
+            "gender": "m",
+            "english": "girl",
+            "english_plural": "girls",
+            "indefinite_singular": "jente"
+        },
+        {
+            "gender": "m",
+            "english": "friend",
+            "english_plural": "friends",
+            "indefinite_singular": "venn"
+        },
+        {
+            "gender": "n",
+            "english": "letter",
+            "english_plural": "letters",
+            "indefinite_singular": "brev"
+        },
+        {
+            "gender": "m",
+            "english": "tea",
+            "english_plural": "teas",
+            "indefinite_singular": "te"
+        },
+        {
+            "gender": "n",
+            "english": "tree",
+            "english_plural": "trees",
+            "indefinite_singular": "tre",
+            "indefinite_plural": "trær",
+            "definite_plural": "trærne"
+        },
+        {
+            "gender": "m",
+            "english": "movie",
+            "english_plural": "movies",
+            "indefinite_singular": "film"
+        },
+        {
+            "gender": "m",
+            "english": "dinner",
+            "english_plural": "dinners",
+            "indefinite_singular": "middag"
+        },
+        {
+            "gender": "m",
+            "english": "ham",
+            "english_plural": "hams",
+            "indefinite_singular": "skinke"
+        },
+        {
+            "gender": "m",
+            "english": "family",
+            "english_plural": "families",
+            "indefinite_singular": "familie"
+        },
+        {
+            "gender": "m",
+            "english": "slice",
+            "english_plural": "slices",
+            "indefinite_singular": "skive"
+        },
+        {
+            "gender": "m",
+            "english": "wine",
+            "english_plural": "wines",
+            "indefinite_singular": "vin"
+        },
+        {
+            "gender": "m",
+            "english": "pocket",
+            "english_plural": "pockets",
+            "indefinite_singular": "lomme"
+        },
+        {
+            "gender": "m",
+            "english": "Wednesday",
+            "english_plural": "Wednesdays",
+            "indefinite_singular": "onsdag"
+        },
+        {
+            "gender": "m",
+            "english": "cheese",
+            "english_plural": "cheeses",
+            "indefinite_singular": "ost"
+        },
+        {
+            "gender": "m",
+            "english": "tomato",
+            "english_plural": "tomatoes",
+            "indefinite_singular": "tomat"
+        },
+        {
+            "gender": "m",
+            "english": "book",
+            "english_plural": "books",
+            "indefinite_singular": "bok",
+            "indefinite_plural": "bøker"
+        },
+        {
+            "gender": "m",
+            "english": "brother",
+            "english_plural": "brothers",
+            "indefinite_singular": "bror",
+            "indefinite_plural": "brødre"
+        },
+        {
+            "gender": "m",
+            "english": "crown",
+            "english_plural": "crowns",
+            "indefinite_singular": "krone"
+        },
+        {
+            "gender": "m",
+            "english": "mother",
+            "english_plural": "mothers",
+            "indefinite_singular": "mor",
+            "indefinite_plural": "mødre"
+        },
+        {
+            "gender": "m",
+            "english": "bus",
+            "english_plural": "buses",
+            "indefinite_singular": "buss"
+        },
+        {
+            "gender": "m",
+            "english": "fruit",
+            "english_plural": "fruits",
+            "indefinite_singular": "frukt"
+        },
+        {
+            "gender": "m",
+            "english": "boy",
+            "english_plural": "boys",
+            "indefinite_singular": "gutt"
+        },
+        {
+            "gender": "m",
+            "english": "hundred krone note",
+            "english_plural": "hundred krone notes",
+            "indefinite_singular": "hundrelapp"
+        },
+        {
+            "gender": "m",
+            "english": "envelope",
+            "english_plural": "envelopes",
+            "indefinite_singular": "konvolutt"
+        },
+        {
+            "gender": "m",
+            "english": "softdrink",
+            "english_plural": "softdrinks",
+            "indefinite_singular": "brus"
+        },
+        {
+            "gender": "m",
+            "english": "cloth",
+            "english_plural": "cloths",
+            "indefinite_singular": "klut"
+        },
+        {
+            "gender": "n",
+            "english": "house",
+            "english_plural": "houses",
+            "indefinite_singular": "hus"
+        },
+        {
+            "gender": "m",
+            "english": "cushion",
+            "english_plural": "cushions",
+            "indefinite_singular": "pute"
+        },
+        {
+            "gender": "m",
+            "english": "route",
+            "english_plural": "routes",
+            "indefinite_singular": "rute"
+        },
+        {
+            "gender": "m",
+            "english": "week",
+            "english_plural": "weeks",
+            "indefinite_singular": "uke"
+        },
+        {
+            "gender": "n",
+            "english": "piece",
+            "english_plural": "pieces",
+            "indefinite_singular": "stykke"
+        },
+        {
+            "gender": "m",
+            "english": "bicycle",
+            "english_plural": "bicycles",
+            "indefinite_singular": "sykkel",
+            "indefinite_plural": "sykler"
+        },
+        {
+            "gender": "n",
+            "english": "jam",
+            "english_plural": "jams",
+            "indefinite_singular": "syltetøy"
+        },
+        {
+            "gender": "n",
+            "english": "occupation",
+            "english_plural": "occupations",
+            "indefinite_singular": "yrke"
+        },
+        {
+            "gender": "n",
+            "english": "light",
+            "english_plural": "lights",
+            "indefinite_singular": "lys"
+        },
+        {
+            "gender": "n",
+            "english": "postage stamp",
+            "english_plural": "postage stamps",
+            "indefinite_singular": "frimerke"
+        },
+        {
+            "gender": "m",
+            "english": "concert",
+            "english_plural": "concerts",
+            "indefinite_singular": "konsert"
+        },
+        {
+            "gender": "n",
+            "english": "mark",
+            "english_plural": "marks",
+            "indefinite_singular": "merke"
+        },
+        {
+            "gender": "m",
+            "english": "host",
+            "english_plural": "hosts",
+            "indefinite_singular": "vert"
+        },
+        {
+            "gender": "n",
+            "english": "leather",
+            "english_plural": "leathers",
+            "indefinite_singular": "lær"
+        },
+        {
+            "gender": "m",
+            "english": "teacher",
+            "english_plural": "teachers",
+            "indefinite_singular": "lærer",
+            "indefinite_plural": "lærere",
+            "definite_plural": "lærerne"
+        },
+        {
+            "gender": "m",
+            "english": "pear",
+            "english_plural": "pears",
+            "indefinite_singular": "pære"
+        },
+        {
+            "gender": "n",
+            "english": "kitchen",
+            "english_plural": "kitchens",
+            "indefinite_singular": "kjøkken"
+        },
+        {
+            "gender": "n",
+            "english": "skirt",
+            "english_plural": "skirts",
+            "indefinite_singular": "skjørt"
+        },
+        {
+            "gender": "m",
+            "english": "size",
+            "english_plural": "sizes",
+            "indefinite_singular": "størrelse"
+        },
+        {
+            "gender": "m",
+            "english": "Sunday",
+            "english_plural": "Sundays",
+            "indefinite_singular": "søndag"
+        },
+        {
+            "gender": "n",
+            "english": "wish",
+            "english_plural": "wishes",
+            "indefinite_singular": "ønske"
+        },
+        {
+            "gender": "n",
+            "english": "bread",
+            "english_plural": "breads",
+            "indefinite_singular": "brød"
+        },
+        {
+            "gender": "m",
+            "english": "cream",
+            "english_plural": "creams",
+            "indefinite_singular": "fløte"
+        },
+        {
+            "gender": "m",
+            "english": "hairdresser",
+            "english_plural": "hairdressers",
+            "indefinite_singular": "frisør"
+        },
+        {
+            "gender": "n",
+            "english": "buy",
+            "english_plural": "buys",
+            "indefinite_singular": "kjøp"
+        },
+        {
+            "gender": "n",
+            "english": "meeting",
+            "english_plural": "meetings",
+            "indefinite_singular": "møte"
+        },
+        {
+            "gender": "m",
+            "english": "clock",
+            "english_plural": "clocks",
+            "indefinite_singular": "klokke"
+        },
+        {
+            "gender": "m",
+            "english": "cup",
+            "english_plural": "cups",
+            "indefinite_singular": "kopp"
+        },
+        {
+            "gender": "m",
+            "english": "dollar",
+            "english_plural": "dollars",
+            "indefinite_singular": "dollar",
+            "indefinite_plural": "dollar"
+        },
+        {
+            "gender": "n",
+            "english": "hair",
+            "english_plural": "hairs",
+            "indefinite_singular": "hår"
+        },
+        {
+            "gender": "m",
+            "english": "toe",
+            "english_plural": "toes",
+            "indefinite_singular": "tå",
+            "indefinite_plural": "tær",
+            "definite_plural": "tærne"
+        },
+        {
+            "gender": "n",
+            "english": "year",
+            "english_plural": "years",
+            "indefinite_singular": "år"
+        }
+    ]
+}

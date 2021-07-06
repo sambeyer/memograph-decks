@@ -1,0 +1,366 @@
+{"id": "flaske-[]-bottle (is)", "time": 1624956823, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "flasker-[]-bottle (ip)", "time": 1624956835, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "flasken-[]-bottle (ds)", "time": 1624956846, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "flaskene-[]-bottle (dp)", "time": 1624956859, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "glasset-[]-glass (ds)", "time": 1624956876, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "glass (is)-[]-glass (is)", "time": 1624956890, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "flasken-[]-the bottle", "time": 1625484359, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "glasset-[]-the glass", "time": 1625484364, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et glass-[]-a glass", "time": 1625484368, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle flaskene-[]-all the bottle", "time": 1625484599, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange flasker-[]-many bottle", "time": 1625484618, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en flaske-[]-a bottle", "time": 1625484635, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle glassene-[]-all the glasses", "time": 1625484642, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en mamma-[]-a mum", "time": 1625484651, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange flasker-[]-many bottles", "time": 1625484777, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle flaskene-[]-all the bottles", "time": 1625485186, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange glass-[]-many glasses", "time": 1625485209, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mammaen-[]-the mum", "time": 1625485214, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en mandag-[]-a Monday", "time": 1625485710, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange mammaer-[]-many mums", "time": 1625486219, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle mammaene-[]-all the mums", "time": 1625486231, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange mandager-[]-many Mondays", "time": 1625486238, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle mandagene-[]-all the Mondays", "time": 1625486243, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mandagen-[]-the Monday", "time": 1625486248, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "glasset-[]-the glass", "time": 1625486258, "event": "DRILL", "data": {"got": true}}
+{"id": "et glass-[]-a glass", "time": 1625486262, "event": "DRILL", "data": {"got": true}}
+{"id": "alle glassene-[]-all the glasses", "time": 1625486265, "event": "DRILL", "data": {"got": true}}
+{"id": "en flaske-[]-a bottle", "time": 1625486268, "event": "DRILL", "data": {"got": true}}
+{"id": "en mamma-[]-a mum", "time": 1625486270, "event": "DRILL", "data": {"got": true}}
+{"id": "flasken-[]-the bottle", "time": 1625486275, "event": "DRILL", "data": {"got": true}}
+{"id": "en mandag-[]-a Monday", "time": 1625486283, "event": "DRILL", "data": {"got": true}}
+{"id": "mange flasker-[]-many bottles", "time": 1625486288, "event": "DRILL", "data": {"got": true}}
+{"id": "mange glass-[]-many glasses", "time": 1625486293, "event": "DRILL", "data": {"got": true}}
+{"id": "mange mammaer-[]-many mums", "time": 1625486299, "event": "DRILL", "data": {"got": true}}
+{"id": "alle flaskene-[]-all the bottles", "time": 1625486304, "event": "DRILL", "data": {"got": true}}
+{"id": "mammaen-[]-the mum", "time": 1625486307, "event": "DRILL", "data": {"got": true}}
+{"id": "alle mandagene-[]-all the Mondays", "time": 1625488496, "event": "DRILL", "data": {"got": true}}
+{"id": "mange mandager-[]-many Mondays", "time": 1625488499, "event": "DRILL", "data": {"got": true}}
+{"id": "glasset-[]-the glass", "time": 1625488502, "event": "DRILL", "data": {"got": true}}
+{"id": "alle glassene-[]-all the glasses", "time": 1625488505, "event": "DRILL", "data": {"got": true}}
+{"id": "mandagen-[]-the Monday", "time": 1625488508, "event": "DRILL", "data": {"got": true}}
+{"id": "alle mammaene-[]-all the mums", "time": 1625488513, "event": "DRILL", "data": {"got": true}}
+{"id": "saften-[]-the cordial", "time": 1625488616, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "et navn-[]-a name", "time": 1625488623, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en saft-[]-a cordial", "time": 1625488633, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle navnene-[]-all the names", "time": 1625488641, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "navnet-[]-the name", "time": 1625488645, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange navn-[]-many names", "time": 1625488655, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en mamma-[]-a mum", "time": 1625488661, "event": "DRILL", "data": {"got": true}}
+{"id": "mange mammaer-[]-many mums", "time": 1625488666, "event": "DRILL", "data": {"got": true}}
+{"id": "flasken-[]-the bottle", "time": 1625488669, "event": "DRILL", "data": {"got": true}}
+{"id": "et glass-[]-a glass", "time": 1625488673, "event": "DRILL", "data": {"got": true}}
+{"id": "en flaske-[]-a bottle", "time": 1625488676, "event": "DRILL", "data": {"got": true}}
+{"id": "en mandag-[]-a Monday", "time": 1625488678, "event": "DRILL", "data": {"got": true}}
+{"id": "saltet-[]-the salt", "time": 1625488686, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange safter-[]-many cordials", "time": 1625488697, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "et salt-[]-a salt", "time": 1625488703, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle saftene-[]-all the cordials", "time": 1625488711, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle saltene-[]-all the salts", "time": 1625488715, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange salt-[]-many salts", "time": 1625488723, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange melker-[]-many milks", "time": 1625488915, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en onsdag-[]-a Wednesday", "time": 1625488920, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "onsdagen-[]-the Wednesday", "time": 1625488925, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle melkene-[]-all the milks", "time": 1625488931, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "melken-[]-the milk", "time": 1625488938, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en melk-[]-a milk", "time": 1625488940, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle klokkene-[]-all the clocks", "time": 1625488947, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en fris\u00f8r-[]-a hairdresser", "time": 1625488954, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en klokke-[]-a clock", "time": 1625488957, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange klokker-[]-many clocks", "time": 1625488962, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "fris\u00f8ren-[]-the hairdresser", "time": 1625488971, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "klokken-[]-the clock", "time": 1625488974, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en t\u00e5-[]-a toe", "time": 1625488999, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle fruktene-[]-all the fruits", "time": 1625489039, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange frukter-[]-many fruits", "time": 1625489044, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "frukten-[]-the fruit", "time": 1625489047, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en frukt-[]-a fruit", "time": 1625489051, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "t\u00e5en-[]-the toe", "time": 1625489055, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle ukene-[]-all the weeks", "time": 1625489073, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "p\u00e6ren-[]-the pear", "time": 1625489077, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en p\u00e6re-[]-a pear", "time": 1625489079, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en uke-[]-a week", "time": 1625489081, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "uken-[]-the week", "time": 1625489084, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange uker-[]-many weeks", "time": 1625489086, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange konvolutter-[]-many envelopes", "time": 1625489095, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "vennen-[]-the friend", "time": 1625489099, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en venn-[]-a friend", "time": 1625489101, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "konvolutten-[]-the envelope", "time": 1625489107, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en konvolutt-[]-an envelope", "time": 1625489114, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle konvoluttene-[]-all the envelopes", "time": 1625489121, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "maten-[]-the food", "time": 1625489126, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle dollarene-[]-all the dollars", "time": 1625489132, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en dollar-[]-a dollar", "time": 1625489137, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange dollar-[]-many dollars", "time": 1625489142, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en mat-[]-a food", "time": 1625489145, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "dollaren-[]-the dollar", "time": 1625489149, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "dagen-[]-the day", "time": 1625489155, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange mater-[]-many foods", "time": 1625489166, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange dager-[]-many days", "time": 1625489242, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en dag-[]-a day", "time": 1625489244, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle dagene-[]-all the days", "time": 1625489248, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle matene-[]-all the foods", "time": 1625489252, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et skj\u00f8rt-[]-a skirt", "time": 1625489260, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange skj\u00f8rt-[]-many skirts", "time": 1625489265, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle skj\u00f8rtene-[]-all the skirts", "time": 1625489268, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "skj\u00f8rtet-[]-the skirt", "time": 1625489271, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en jente-[]-a girl", "time": 1625489274, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jenten-[]-the girl", "time": 1625489277, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en pute-[]-a cushion", "time": 1625489283, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle tr\u00e6rne-[]-all the trees", "time": 1625489291, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "et tre-[]-a tree", "time": 1625489295, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "mange tr\u00e6r-[]-many trees", "time": 1625489299, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "tret-[]-the tree", "time": 1625489322, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "puten-[]-the cushion", "time": 1625489327, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "familien-[]-the family", "time": 1625489496, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange familier-[]-many families", "time": 1625489503, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "tannen-[]-the tooth", "time": 1625489507, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en familie-[]-a family", "time": 1625489511, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle familiene-[]-all the families", "time": 1625489515, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en tann-[]-a tooth", "time": 1625489517, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en kopp-[]-a cup", "time": 1625489525, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en buss-[]-a bus", "time": 1625489552, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "bussen-[]-the bus", "time": 1625489556, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange mat-[]-many foods", "time": 1625489560, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange busser-[]-many buses", "time": 1625489583, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle bussene-[]-all the buses", "time": 1625489587, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange skiver-[]-many slices", "time": 1625489595, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "h\u00e5ret-[]-the hair", "time": 1625489601, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en skive-[]-a slice", "time": 1625489603, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "et h\u00e5r-[]-a hair", "time": 1625489605, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle skivene-[]-all the slices", "time": 1625489610, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "skiven-[]-the slice", "time": 1625489616, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "ruten-[]-the route", "time": 1625489623, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en rute-[]-a route", "time": 1625489626, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle rutene-[]-all the routes", "time": 1625489630, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "et l\u00e6r-[]-a leather", "time": 1625489635, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "l\u00e6ret-[]-the leather", "time": 1625489640, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "mange ruter-[]-many routes", "time": 1625489647, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "skinken-[]-the ham", "time": 1625489654, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en bok-[]-a book", "time": 1625489657, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange boker-[]-many books", "time": 1625489692, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle bokene-[]-all the books", "time": 1625489695, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en skinke-[]-a ham", "time": 1625489700, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "boken-[]-the book", "time": 1625489704, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en brus-[]-a softdrink", "time": 1625489711, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "vannet-[]-the water", "time": 1625489720, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange vann-[]-many water", "time": 1625489730, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "brusen-[]-the softdrink", "time": 1625489736, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "et vann-[]-a water", "time": 1625489739, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle vannene-[]-all the water", "time": 1625489760, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en tomat-[]-a tomato", "time": 1625489805, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange merker-[]-many concerts", "time": 1625489947, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "tomaten-[]-the tomato", "time": 1625489954, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle merkene-[]-all the concerts", "time": 1625489960, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "merken-[]-the concert", "time": 1625489963, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en merke-[]-a concert", "time": 1625489965, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange gutter-[]-many boys", "time": 1625489974, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange venner-[]-many friends", "time": 1625489980, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle guttene-[]-all the boys", "time": 1625489982, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "gutten-[]-the boy", "time": 1625489985, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle vennene-[]-all the friends", "time": 1625489989, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en gutt-[]-a boy", "time": 1625489991, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle l\u00e6rene-[]-all the leathers", "time": 1625489999, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle b\u00f8kene-[]-all the books", "time": 1625490001, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange b\u00f8ker-[]-many books", "time": 1625490006, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "faren-[]-the father", "time": 1625490009, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en far-[]-a father", "time": 1625490011, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange l\u00e6r-[]-many leathers", "time": 1625490017, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et eple-[]-an apple", "time": 1625490023, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "br\u00f8det-[]-the bread", "time": 1625490032, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "et br\u00f8d-[]-a bread", "time": 1625490035, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange epler-[]-many apples", "time": 1625490039, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle eplene-[]-all the apples", "time": 1625490043, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "eplet-[]-the apple", "time": 1625490046, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle br\u00f8dene-[]-all the breads", "time": 1625490055, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "konserten-[]-the concert", "time": 1625490061, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange konserter-[]-many concerts", "time": 1625490064, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange br\u00f8d-[]-many breads", "time": 1625490070, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en konsert-[]-a concert", "time": 1625490073, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle konsertene-[]-all the concerts", "time": 1625490076, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "broren-[]-the brother", "time": 1625490112, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en mor-[]-a mother", "time": 1625490115, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "moren-[]-the mother", "time": 1625490117, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange br\u00f8dre-[]-many brothers", "time": 1625490125, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle br\u00f8drene-[]-all the brothers", "time": 1625490133, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en bror-[]-a brother", "time": 1625490136, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle brevene-[]-all the letters", "time": 1625490141, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "syltet\u00f8yet-[]-the jam", "time": 1625490156, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "brevet-[]-the letter", "time": 1625490173, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et brev-[]-a letter", "time": 1625490176, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange brev-[]-many letters", "time": 1625490179, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et syltet\u00f8y-[]-a jam", "time": 1625490182, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange \u00e5r-[]-many years", "time": 1625490203, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle \u00e5rene-[]-all the years", "time": 1625490207, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange jenter-[]-many girls", "time": 1625490210, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et \u00e5r-[]-a year", "time": 1625490213, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle jentene-[]-all the girls", "time": 1625490216, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "\u00e5ret-[]-the year", "time": 1625490219, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en dame-[]-a lady", "time": 1625490224, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "lyset-[]-the light", "time": 1625490226, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle damene-[]-all the ladies", "time": 1625490228, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange damer-[]-many ladies", "time": 1625490233, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "damen-[]-the lady", "time": 1625490236, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et lys-[]-a light", "time": 1625490239, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "hundrelappen-[]-the hundred krone note", "time": 1625490259, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange kj\u00f8p-[]-many buys", "time": 1625490266, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en hundrelapp-[]-a hundred krone note", "time": 1625490276, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "kj\u00f8pet-[]-the buy", "time": 1625490281, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle kj\u00f8pene-[]-all the buys", "time": 1625490285, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "et kj\u00f8p-[]-a buy", "time": 1625490288, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "en kar-[]-a guy", "time": 1625490297, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "osten-[]-the cheese", "time": 1625490302, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange karer-[]-many guys", "time": 1625490306, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "karen-[]-the guy", "time": 1625490309, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle karene-[]-all the guys", "time": 1625490311, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en ost-[]-a cheese", "time": 1625490316, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et tre-[]-a tree", "time": 1625490336, "event": "DRILL", "data": {"got": true}}
+{"id": "alle tr\u00e6rne-[]-all the trees", "time": 1625490341, "event": "DRILL", "data": {"got": true}}
+{"id": "mange tr\u00e6r-[]-many trees", "time": 1625490347, "event": "DRILL", "data": {"got": true}}
+{"id": "et l\u00e6r-[]-a leather", "time": 1625490356, "event": "DRILL", "data": {"got": true}}
+{"id": "l\u00e6ret-[]-the leather", "time": 1625490361, "event": "DRILL", "data": {"got": true}}
+{"id": "et kj\u00f8p-[]-a buy", "time": 1625490363, "event": "DRILL", "data": {"got": true}}
+{"id": "huset-[]-the house", "time": 1625490378, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et hus-[]-a house", "time": 1625490381, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange hus-[]-many houses", "time": 1625490384, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle husene-[]-all the houses", "time": 1625490388, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange tenner-[]-many teeth", "time": 1625490393, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle tennene-[]-all the teeth", "time": 1625490396, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle onsdagene-[]-all the Wednesdays", "time": 1625490405, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange bruser-[]-many softdrinks", "time": 1625490412, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange onsdager-[]-many Wednesdays", "time": 1625490418, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle brusene-[]-all the softdrinks", "time": 1625490424, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et merke-[]-a mark", "time": 1625490428, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "merket-[]-the mark", "time": 1625490431, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle middagene-[]-all the dinners", "time": 1625562843, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en middag-[]-a dinner", "time": 1625562846, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "middagen-[]-the dinner", "time": 1625562845, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle t\u00e6rne-[]-all the toes", "time": 1625562852, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "mange middager-[]-many dinners", "time": 1625562856, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange t\u00e6r-[]-many toes", "time": 1625562871, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "en l\u00e6rer-[]-a teacher", "time": 1625562909, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en vang-[]-a field", "time": 1625562914, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "vangen-[]-the field", "time": 1625562916, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "mange l\u00e6rere-[]-many teachers", "time": 1625562930, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "l\u00e6reren-[]-the teacher", "time": 1625562934, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle l\u00e6rerene-[]-all the teachers", "time": 1625563002, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle sangene-[]-all the songs", "time": 1625563007, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "badet-[]-the bath", "time": 1625563011, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "sangen-[]-the song", "time": 1625563015, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange sanger-[]-many songs", "time": 1625563019, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "et bad-[]-a bath", "time": 1625563024, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "en sang-[]-a song", "time": 1625563026, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "frimerket-[]-the postage stamp", "time": 1625563038, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "et frimerke-[]-a postage stamp", "time": 1625563041, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "kj\u00f8kkenet-[]-the kitchen", "time": 1625563045, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange kj\u00f8kkener-[]-many kitchens", "time": 1625563050, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "et kj\u00f8kken-[]-a kitchen", "time": 1625563054, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle kj\u00f8kkenene-[]-all the kitchens", "time": 1625563060, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange viner-[]-many wines", "time": 1625563087, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "vinen-[]-the wine", "time": 1625563089, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange bad-[]-many baths", "time": 1625563093, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en vin-[]-a wine", "time": 1625563095, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle badene-[]-all the baths", "time": 1625563099, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle vinene-[]-all the wines", "time": 1625563103, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle koppene-[]-all the cups", "time": 1625563108, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange morer-[]-many mothers", "time": 1625563111, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange fris\u00f8rer-[]-many hairdressers", "time": 1625563116, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "koppen-[]-the cup", "time": 1625563121, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle morene-[]-all the mothers", "time": 1625563150, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange kopper-[]-many cups", "time": 1625563153, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en krone-[]-a crown", "time": 1625563163, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "alle l\u00e6rerne-[]-all the teachers", "time": 1625563168, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange oster-[]-many cheeses", "time": 1625563192, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle kronene-[]-all the crowns", "time": 1625563196, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange kroner-[]-many crowns", "time": 1625563199, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "kronen-[]-the crown", "time": 1625563203, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en st\u00f8rrelse-[]-a size", "time": 1625563210, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange st\u00f8rrelser-[]-many sizes", "time": 1625563218, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle h\u00e5rene-[]-all the hairs", "time": 1625563224, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "st\u00f8rrelsen-[]-the size", "time": 1625563230, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle st\u00f8rrelsene-[]-all the sizes", "time": 1625563236, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange h\u00e5r-[]-many hairs", "time": 1625563240, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange teer-[]-many teas", "time": 1625563276, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en te-[]-a tea", "time": 1625563279, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle fris\u00f8rene-[]-all the hairdressers", "time": 1625563285, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange puter-[]-many cushions", "time": 1625563298, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle putene-[]-all the cushions", "time": 1625563307, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "teen-[]-the tea", "time": 1625563310, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange p\u00e6rer-[]-many pears", "time": 1625573113, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle p\u00e6rene-[]-all the pears", "time": 1625573124, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange tomater-[]-many tomatoe", "time": 1625573140, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle skinkene-[]-all the hams", "time": 1625573146, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle tomatene-[]-all the tomatoe", "time": 1625573150, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange skinker-[]-many hams", "time": 1625573153, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en fl\u00f8te-[]-a cream", "time": 1625573166, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange fl\u00f8ter-[]-many creams", "time": 1625573171, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "mange lys-[]-many lights", "time": 1625573181, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle lysene-[]-all the lights", "time": 1625573183, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "fl\u00f8ten-[]-the cream", "time": 1625573185, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle fl\u00f8tene-[]-all the creams", "time": 1625573188, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange sykler-[]-many bicycles", "time": 1625573196, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en sykkel-[]-a bicycle", "time": 1625573207, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et \u00e5r-[]-an year", "time": 1625573230, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange tomater-[]-many tomatoes", "time": 1625573234, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "sykkelen-[]-the bicycle", "time": 1625573236, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle tomatene-[]-all the tomatoes", "time": 1625573240, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle ostene-[]-all the cheeses", "time": 1625573246, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle teene-[]-all the teas", "time": 1625573258, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et stykke-[]-a piece", "time": 1625573280, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "stykket-[]-the piece", "time": 1625573283, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "alle syklene-[]-all the bicycles", "time": 1625573295, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange stykker-[]-many pieces", "time": 1625573305, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "mange m\u00f8dre-[]-many mothers", "time": 1625573315, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle m\u00f8drene-[]-all the mothers", "time": 1625573318, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange lommer-[]-many pockets", "time": 1625573325, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "alle lommene-[]-all the pockets", "time": 1625573329, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "lommen-[]-the pocket", "time": 1625573332, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en lomme-[]-a pocket", "time": 1625573337, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "et m\u00f8te-[]-a meeting", "time": 1625573354, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "m\u00f8tet-[]-the meeting", "time": 1625573356, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange syltet\u00f8yer-[]-many jams", "time": 1625573384, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "alle m\u00f8tene-[]-all the meetings", "time": 1625573387, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange m\u00f8ter-[]-many meetings", "time": 1625573395, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle syltet\u00f8yene-[]-all the jams", "time": 1625573400, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en klut-[]-a cloth", "time": 1625573404, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle fedrene-[]-all the fathers", "time": 1625573410, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange fedre-[]-many fathers", "time": 1625573414, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle merkene-[]-all the marks", "time": 1625573417, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle stykkene-[]-all the pieces", "time": 1625573422, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange merker-[]-many marks", "time": 1625573425, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange s\u00f8ndager-[]-many Sundays", "time": 1625573431, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle s\u00f8ndagene-[]-all the Sundays", "time": 1625573437, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "yrket-[]-the occupation", "time": 1625573443, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "s\u00f8ndagen-[]-the Sunday", "time": 1625573447, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en s\u00f8ndag-[]-a Sunday", "time": 1625573449, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et yrke-[]-an occupation", "time": 1625573453, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange filmer-[]-many movies", "time": 1625573458, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange vanger-[]-many fields", "time": 1625573464, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "filmen-[]-the movie", "time": 1625573469, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle filmene-[]-all the movies", "time": 1625573474, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en film-[]-a movie", "time": 1625573477, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle vangene-[]-all the fields", "time": 1625573482, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "mange hundrelapper-[]-many hundred krone notes", "time": 1625573492, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "treet-[]-the tree", "time": 1625573494, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "\u00f8nsket-[]-the wish", "time": 1625573500, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle \u00f8nskene-[]-all the wishes", "time": 1625573504, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange \u00f8nsker-[]-many wishes", "time": 1625573508, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "et \u00f8nske-[]-a wish", "time": 1625573510, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange yrker-[]-many occupations", "time": 1625573516, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle yrkene-[]-all the occupations", "time": 1625573520, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange kluter-[]-many cloths", "time": 1625573524, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange frimerker-[]-many postage stamps", "time": 1625573528, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle klutene-[]-all the cloths", "time": 1625573532, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "kluten-[]-the cloth", "time": 1625573535, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "verten-[]-the host", "time": 1625573542, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "alle vertene-[]-all the hosts", "time": 1625573546, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle frimerkene-[]-all the postage stamps", "time": 1625573551, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange verter-[]-many hosts", "time": 1625573556, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "alle hundrelappene-[]-all the hundred krone notes", "time": 1625573562, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en vert-[]-a host", "time": 1625573564, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "badet-[]-the bath", "time": 1625573597, "event": "DRILL", "data": {"got": true}}
+{"id": "et kj\u00f8p-[]-a buy", "time": 1625573611, "event": "DRILL", "data": {"got": false}}
+{"id": "vangen-[]-the field", "time": 1625573616, "event": "DRILL", "data": {"got": true}}
+{"id": "mange t\u00e6r-[]-many toes", "time": 1625573626, "event": "DRILL", "data": {"got": true}}
+{"id": "alle t\u00e6rne-[]-all the toes", "time": 1625573635, "event": "DRILL", "data": {"got": false}}
+{"id": "en vang-[]-a field", "time": 1625573640, "event": "DRILL", "data": {"got": true}}
