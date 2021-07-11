@@ -376,3 +376,371 @@
 {"id": "mange stykker-[nouns]-many pieces", "time": 1625575315, "event": "DRILL", "data": {"got": false}}
 {"id": "mange fl\u00f8ter-[nouns]-many creams", "time": 1625575326, "event": "DRILL", "data": {"got": true}}
 {"id": "et stykke-[nouns]-a piece", "time": 1625575331, "event": "DRILL", "data": {"got": true}}
+{"id": "aldri-[]-never", "time": 1625633884, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "ettermiddagen-[nouns]-the afternoon", "time": 1625633898, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle ettermiddagene-[nouns]-all the afternoons", "time": 1625633902, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange ettermiddager-[nouns]-many afternoons", "time": 1625633906, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alltid-[]-always", "time": 1625633923, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en ettermiddag-[nouns]-an afternoon", "time": 1625633931, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle lommene-[nouns]-all the pockets", "time": 1625833236, "event": "DRILL", "data": {"got": true}}
+{"id": "verten-[nouns]-the host", "time": 1625833246, "event": "DRILL", "data": {"got": false}}
+{"id": "mange syltet\u00f8yer-[nouns]-many jams", "time": 1625833250, "event": "DRILL", "data": {"got": true}}
+{"id": "alle vangene-[nouns]-all the fields", "time": 1625833253, "event": "DRILL", "data": {"got": true}}
+{"id": "alle t\u00e6rne-[nouns]-all the toes", "time": 1625833258, "event": "DRILL", "data": {"got": true}}
+{"id": "mange stykker-[nouns]-many pieces", "time": 1625833280, "event": "DRILL", "data": {"got": true}}
+{"id": "mange lommer-[nouns]-many pockets", "time": 1625961192, "event": "DRILL", "data": {"got": true}}
+{"id": "verten-[nouns]-the host", "time": 1625961197, "event": "DRILL", "data": {"got": false}}
+{"id": "et kj\u00f8p-[nouns]-a buy", "time": 1625961199, "event": "DRILL", "data": {"got": true}}
+{"id": "mange verter-[nouns]-many hosts", "time": 1625961203, "event": "DRILL", "data": {"got": true}}
+{"id": "alle tr\u00e6rne-[nouns]-all the trees", "time": 1625961208, "event": "DRILL", "data": {"got": true}}
+{"id": "en vert-[nouns]-a host", "time": 1625961211, "event": "DRILL", "data": {"got": true}}
+{"id": "mange fl\u00f8ter-[nouns]-many creams", "time": 1625961217, "event": "DRILL", "data": {"got": true}}
+{"id": "mange safter-[nouns]-many cordials", "time": 1625961226, "event": "DRILL", "data": {"got": false}}
+{"id": "et stykke-[nouns]-a piece", "time": 1625961229, "event": "DRILL", "data": {"got": true}}
+{"id": "saften-[nouns]-the cordial", "time": 1625961233, "event": "DRILL", "data": {"got": true}}
+{"id": "stykket-[nouns]-the piece", "time": 1625961236, "event": "DRILL", "data": {"got": true}}
+{"id": "en saft-[nouns]-a cordial", "time": 1625961239, "event": "DRILL", "data": {"got": true}}
+{"id": "en t\u00e5-[nouns]-a toe", "time": 1625961243, "event": "DRILL", "data": {"got": true}}
+{"id": "t\u00e5en-[nouns]-the toe", "time": 1625961245, "event": "DRILL", "data": {"got": true}}
+{"id": "dollaren-[nouns]-the dollar", "time": 1625961343, "event": "DRILL", "data": {"got": true}}
+{"id": "en venn-[nouns]-a friend", "time": 1625961349, "event": "DRILL", "data": {"got": false}}
+{"id": "mange dollar-[nouns]-many dollars", "time": 1625961353, "event": "DRILL", "data": {"got": true}}
+{"id": "et skj\u00f8rt-[nouns]-a skirt", "time": 1625961355, "event": "DRILL", "data": {"got": true}}
+{"id": "alle skj\u00f8rtene-[nouns]-all the skirts", "time": 1625961366, "event": "DRILL", "data": {"got": true}}
+{"id": "skj\u00f8rtet-[nouns]-the skirt", "time": 1625961368, "event": "DRILL", "data": {"got": true}}
+{"id": "en skive-[nouns]-a slice", "time": 1625961371, "event": "DRILL", "data": {"got": true}}
+{"id": "en jente-[nouns]-a girl", "time": 1625961373, "event": "DRILL", "data": {"got": true}}
+{"id": "mange skiver-[nouns]-many slices", "time": 1625961384, "event": "DRILL", "data": {"got": true}}
+{"id": "mange skj\u00f8rt-[nouns]-many skirts", "time": 1625961390, "event": "DRILL", "data": {"got": true}}
+{"id": "en rute-[nouns]-a route", "time": 1625961396, "event": "DRILL", "data": {"got": true}}
+{"id": "alle rutene-[nouns]-all the routes", "time": 1625961402, "event": "DRILL", "data": {"got": true}}
+{"id": "alle skivene-[nouns]-all the slices", "time": 1625961405, "event": "DRILL", "data": {"got": true}}
+{"id": "skiven-[nouns]-the slice", "time": 1625961409, "event": "DRILL", "data": {"got": true}}
+{"id": "ruten-[nouns]-the route", "time": 1625961412, "event": "DRILL", "data": {"got": true}}
+{"id": "et h\u00e5r-[nouns]-a hair", "time": 1625961414, "event": "DRILL", "data": {"got": true}}
+{"id": "skinken-[nouns]-the ham", "time": 1625961420, "event": "DRILL", "data": {"got": true}}
+{"id": "brusen-[nouns]-the softdrink", "time": 1625961424, "event": "DRILL", "data": {"got": true}}
+{"id": "en skinke-[nouns]-a ham", "time": 1625961426, "event": "DRILL", "data": {"got": true}}
+{"id": "mange ruter-[nouns]-many routes", "time": 1625961429, "event": "DRILL", "data": {"got": true}}
+{"id": "en brus-[nouns]-a softdrink", "time": 1625961433, "event": "DRILL", "data": {"got": true}}
+{"id": "vannet-[nouns]-the water", "time": 1625961437, "event": "DRILL", "data": {"got": true}}
+{"id": "et vann-[nouns]-a water", "time": 1625961456, "event": "DRILL", "data": {"got": true}}
+{"id": "hundrelappen-[nouns]-the hundred krone note", "time": 1625961466, "event": "DRILL", "data": {"got": true}}
+{"id": "alle kj\u00f8pene-[nouns]-all the buys", "time": 1625961469, "event": "DRILL", "data": {"got": true}}
+{"id": "br\u00f8det-[nouns]-the bread", "time": 1625961499, "event": "DRILL", "data": {"got": false}}
+{"id": "en kar-[nouns]-a guy", "time": 1625961502, "event": "DRILL", "data": {"got": true}}
+{"id": "karen-[nouns]-the guy", "time": 1625961504, "event": "DRILL", "data": {"got": true}}
+{"id": "alle sangene-[nouns]-all the songs", "time": 1625961509, "event": "DRILL", "data": {"got": true}}
+{"id": "en l\u00e6rer-[nouns]-a teacher", "time": 1625961514, "event": "DRILL", "data": {"got": true}}
+{"id": "mange l\u00e6rere-[nouns]-many teachers", "time": 1625961520, "event": "DRILL", "data": {"got": true}}
+{"id": "mange bruser-[nouns]-many softdrinks", "time": 1625961525, "event": "DRILL", "data": {"got": true}}
+{"id": "alle karene-[nouns]-all the guys", "time": 1625961534, "event": "DRILL", "data": {"got": true}}
+{"id": "l\u00e6reren-[nouns]-the teacher", "time": 1625961536, "event": "DRILL", "data": {"got": true}}
+{"id": "mange kj\u00f8kkener-[nouns]-many kitchens", "time": 1625961545, "event": "DRILL", "data": {"got": true}}
+{"id": "kj\u00f8kkenet-[nouns]-the kitchen", "time": 1625961549, "event": "DRILL", "data": {"got": true}}
+{"id": "et kj\u00f8kken-[nouns]-a kitchen", "time": 1625961551, "event": "DRILL", "data": {"got": true}}
+{"id": "frimerket-[nouns]-the postage stamp", "time": 1625961556, "event": "DRILL", "data": {"got": true}}
+{"id": "mange sanger-[nouns]-many songs", "time": 1625961558, "event": "DRILL", "data": {"got": true}}
+{"id": "et frimerke-[nouns]-a postage stamp", "time": 1625961562, "event": "DRILL", "data": {"got": true}}
+{"id": "vinen-[nouns]-the wine", "time": 1625961576, "event": "DRILL", "data": {"got": true}}
+{"id": "alle badene-[nouns]-all the baths", "time": 1625961580, "event": "DRILL", "data": {"got": true}}
+{"id": "alle kj\u00f8kkenene-[nouns]-all the kitchens", "time": 1625961583, "event": "DRILL", "data": {"got": true}}
+{"id": "mange bad-[nouns]-many baths", "time": 1625961588, "event": "DRILL", "data": {"got": true}}
+{"id": "en vin-[nouns]-a wine", "time": 1625961590, "event": "DRILL", "data": {"got": true}}
+{"id": "mange viner-[nouns]-many wines", "time": 1625961593, "event": "DRILL", "data": {"got": true}}
+{"id": "en st\u00f8rrelse-[nouns]-a size", "time": 1625961603, "event": "DRILL", "data": {"got": true}}
+{"id": "mange fris\u00f8rer-[nouns]-many hairdressers", "time": 1625961608, "event": "DRILL", "data": {"got": true}}
+{"id": "alle h\u00e5rene-[nouns]-all the hairs", "time": 1625961610, "event": "DRILL", "data": {"got": true}}
+{"id": "alle vinene-[nouns]-all the wines", "time": 1625961616, "event": "DRILL", "data": {"got": true}}
+{"id": "st\u00f8rrelsen-[nouns]-the size", "time": 1625961623, "event": "DRILL", "data": {"got": true}}
+{"id": "alle koppene-[nouns]-all the cups", "time": 1625961626, "event": "DRILL", "data": {"got": true}}
+{"id": "mange teer-[nouns]-many teas", "time": 1625961818, "event": "DRILL", "data": {"got": true}}
+{"id": "mange h\u00e5r-[nouns]-many hairs", "time": 1625961822, "event": "DRILL", "data": {"got": true}}
+{"id": "alle putene-[nouns]-all the cushions", "time": 1625961825, "event": "DRILL", "data": {"got": true}}
+{"id": "en te-[nouns]-a tea", "time": 1625961827, "event": "DRILL", "data": {"got": true}}
+{"id": "mange puter-[nouns]-many cushions", "time": 1625961830, "event": "DRILL", "data": {"got": true}}
+{"id": "alle st\u00f8rrelsene-[nouns]-all the sizes", "time": 1625961836, "event": "DRILL", "data": {"got": true}}
+{"id": "mange sykler-[nouns]-many bicycles", "time": 1625961844, "event": "DRILL", "data": {"got": true}}
+{"id": "teen-[nouns]-the tea", "time": 1625961847, "event": "DRILL", "data": {"got": true}}
+{"id": "mange skinker-[nouns]-many hams", "time": 1625961858, "event": "DRILL", "data": {"got": true}}
+{"id": "alle skinkene-[nouns]-all the hams", "time": 1625962049, "event": "DRILL", "data": {"got": true}}
+{"id": "en fl\u00f8te-[nouns]-a cream", "time": 1625962052, "event": "DRILL", "data": {"got": true}}
+{"id": "mange m\u00f8dre-[nouns]-many mothers", "time": 1625962055, "event": "DRILL", "data": {"got": true}}
+{"id": "alle m\u00f8tene-[nouns]-all the meetings", "time": 1625962060, "event": "DRILL", "data": {"got": true}}
+{"id": "lommen-[nouns]-the pocket", "time": 1625962067, "event": "DRILL", "data": {"got": true}}
+{"id": "alle m\u00f8drene-[nouns]-all the mothers", "time": 1625962070, "event": "DRILL", "data": {"got": true}}
+{"id": "m\u00f8tet-[nouns]-the meeting", "time": 1625962074, "event": "DRILL", "data": {"got": true}}
+{"id": "et m\u00f8te-[nouns]-a meeting", "time": 1625962076, "event": "DRILL", "data": {"got": true}}
+{"id": "en lomme-[nouns]-a pocket", "time": 1625962079, "event": "DRILL", "data": {"got": true}}
+{"id": "alle fedrene-[nouns]-all the fathers", "time": 1625962084, "event": "DRILL", "data": {"got": true}}
+{"id": "alle syltet\u00f8yene-[nouns]-all the jams", "time": 1625962094, "event": "DRILL", "data": {"got": true}}
+{"id": "mange m\u00f8ter-[nouns]-many meetings", "time": 1625962096, "event": "DRILL", "data": {"got": true}}
+{"id": "alle filmene-[nouns]-all the movies", "time": 1625962099, "event": "DRILL", "data": {"got": true}}
+{"id": "treet-[nouns]-the tree", "time": 1625962102, "event": "DRILL", "data": {"got": true}}
+{"id": "mange s\u00f8ndager-[nouns]-many Sundays", "time": 1625962106, "event": "DRILL", "data": {"got": true}}
+{"id": "mange kluter-[nouns]-many cloths", "time": 1625962134, "event": "DRILL", "data": {"got": true}}
+{"id": "mange yrker-[nouns]-many occupations", "time": 1625962138, "event": "DRILL", "data": {"got": true}}
+{"id": "alle \u00f8nskene-[nouns]-all the wishes", "time": 1625962141, "event": "DRILL", "data": {"got": true}}
+{"id": "alle yrkene-[nouns]-all the occupations", "time": 1625962144, "event": "DRILL", "data": {"got": true}}
+{"id": "et \u00f8nske-[nouns]-a wish", "time": 1625962146, "event": "DRILL", "data": {"got": true}}
+{"id": "mange frimerker-[nouns]-many postage stamps", "time": 1625962151, "event": "DRILL", "data": {"got": true}}
+{"id": "alle hundrelappene-[nouns]-all the hundred krone notes", "time": 1625962159, "event": "DRILL", "data": {"got": true}}
+{"id": "alle frimerkene-[nouns]-all the postage stamps", "time": 1625962162, "event": "DRILL", "data": {"got": true}}
+{"id": "alle vertene-[nouns]-all the hosts", "time": 1625962174, "event": "DRILL", "data": {"got": true}}
+{"id": "aldri-[]-never", "time": 1625962204, "event": "DRILL", "data": {"got": true}}
+{"id": "kluten-[nouns]-the cloth", "time": 1625962208, "event": "DRILL", "data": {"got": true}}
+{"id": "alle klutene-[nouns]-all the cloths", "time": 1625962210, "event": "DRILL", "data": {"got": true}}
+{"id": "ettermiddagen-[nouns]-the afternoon", "time": 1625962217, "event": "DRILL", "data": {"got": true}}
+{"id": "en ettermiddag-[nouns]-an afternoon", "time": 1625962219, "event": "DRILL", "data": {"got": true}}
+{"id": "badet-[nouns]-the bath", "time": 1625962222, "event": "DRILL", "data": {"got": true}}
+{"id": "mange ettermiddager-[nouns]-many afternoons", "time": 1625962225, "event": "DRILL", "data": {"got": true}}
+{"id": "alle ettermiddagene-[nouns]-all the afternoons", "time": 1625962228, "event": "DRILL", "data": {"got": true}}
+{"id": "alltid-[]-always", "time": 1625962233, "event": "DRILL", "data": {"got": true}}
+{"id": "vangen-[nouns]-the field", "time": 1625962284, "event": "DRILL", "data": {"got": true}}
+{"id": "mange t\u00e6r-[nouns]-many toes", "time": 1625962375, "event": "DRILL", "data": {"got": true}}
+{"id": "en krone-[nouns]-a crown", "time": 1625962377, "event": "DRILL", "data": {"got": true}}
+{"id": "et bad-[nouns]-a bath", "time": 1625962379, "event": "DRILL", "data": {"got": true}}
+{"id": "verten-[nouns]-the host", "time": 1625962381, "event": "DRILL", "data": {"got": true}}
+{"id": "en vang-[nouns]-a field", "time": 1625962383, "event": "DRILL", "data": {"got": true}}
+{"id": "et tre-[nouns]-a tree", "time": 1625962387, "event": "DRILL", "data": {"got": true}}
+{"id": "l\u00e6ret-[nouns]-the leather", "time": 1625962394, "event": "DRILL", "data": {"got": true}}
+{"id": "mange tr\u00e6r-[nouns]-many trees", "time": 1625962397, "event": "DRILL", "data": {"got": true}}
+{"id": "et l\u00e6r-[nouns]-a leather", "time": 1625962400, "event": "DRILL", "data": {"got": true}}
+{"id": "alle navnene-[nouns]-all the names", "time": 1625962402, "event": "DRILL", "data": {"got": true}}
+{"id": "et navn-[nouns]-a name", "time": 1625962403, "event": "DRILL", "data": {"got": true}}
+{"id": "saltet-[nouns]-the salt", "time": 1625962422, "event": "DRILL", "data": {"got": true}}
+{"id": "alle saftene-[nouns]-all the cordials", "time": 1625962441, "event": "DRILL", "data": {"got": false}}
+{"id": "mange navn-[nouns]-many names", "time": 1625962444, "event": "DRILL", "data": {"got": true}}
+{"id": "alle saltene-[nouns]-all the salts", "time": 1625962446, "event": "DRILL", "data": {"got": true}}
+{"id": "navnet-[nouns]-the name", "time": 1625962450, "event": "DRILL", "data": {"got": true}}
+{"id": "et salt-[nouns]-a salt", "time": 1625962451, "event": "DRILL", "data": {"got": true}}
+{"id": "en onsdag-[nouns]-a Wednesday", "time": 1625962457, "event": "DRILL", "data": {"got": true}}
+{"id": "mange melker-[nouns]-many milks", "time": 1625962464, "event": "DRILL", "data": {"got": true}}
+{"id": "alle melkene-[nouns]-all the milks", "time": 1625962476, "event": "DRILL", "data": {"got": true}}
+{"id": "onsdagen-[nouns]-the Wednesday", "time": 1625962481, "event": "DRILL", "data": {"got": false}}
+{"id": "melken-[nouns]-the milk", "time": 1625962483, "event": "DRILL", "data": {"got": true}}
+{"id": "mange salt-[nouns]-many salts", "time": 1625962486, "event": "DRILL", "data": {"got": true}}
+{"id": "mange klokker-[nouns]-many clocks", "time": 1625962492, "event": "DRILL", "data": {"got": true}}
+{"id": "en klokke-[nouns]-a clock", "time": 1625962497, "event": "DRILL", "data": {"got": true}}
+{"id": "alle klokkene-[nouns]-all the clocks", "time": 1625962500, "event": "DRILL", "data": {"got": true}}
+{"id": "en melk-[nouns]-a milk", "time": 1625962501, "event": "DRILL", "data": {"got": true}}
+{"id": "en fris\u00f8r-[nouns]-a hairdresser", "time": 1625962506, "event": "DRILL", "data": {"got": true}}
+{"id": "fris\u00f8ren-[nouns]-the hairdresser", "time": 1625962510, "event": "DRILL", "data": {"got": true}}
+{"id": "alle ukene-[nouns]-all the weeks", "time": 1625962516, "event": "DRILL", "data": {"got": true}}
+{"id": "klokken-[nouns]-the clock", "time": 1625962519, "event": "DRILL", "data": {"got": true}}
+{"id": "alle fruktene-[nouns]-all the fruits", "time": 1625962523, "event": "DRILL", "data": {"got": true}}
+{"id": "en frukt-[nouns]-a fruit", "time": 1625962524, "event": "DRILL", "data": {"got": true}}
+{"id": "frukten-[nouns]-the fruit", "time": 1625962528, "event": "DRILL", "data": {"got": true}}
+{"id": "mange frukter-[nouns]-many fruits", "time": 1625962531, "event": "DRILL", "data": {"got": true}}
+{"id": "en p\u00e6re-[nouns]-a pear", "time": 1625962610, "event": "DRILL", "data": {"got": true}}
+{"id": "uken-[nouns]-the week", "time": 1625962612, "event": "DRILL", "data": {"got": true}}
+{"id": "mange uker-[nouns]-many weeks", "time": 1625962617, "event": "DRILL", "data": {"got": true}}
+{"id": "p\u00e6ren-[nouns]-the pear", "time": 1625962620, "event": "DRILL", "data": {"got": true}}
+{"id": "mange konvolutter-[nouns]-many envelopes", "time": 1625962629, "event": "DRILL", "data": {"got": true}}
+{"id": "en uke-[nouns]-a week", "time": 1625962631, "event": "DRILL", "data": {"got": true}}
+{"id": "maten-[nouns]-the food", "time": 1625962637, "event": "DRILL", "data": {"got": true}}
+{"id": "en konvolutt-[nouns]-an envelope", "time": 1625962641, "event": "DRILL", "data": {"got": true}}
+{"id": "vennen-[nouns]-the friend", "time": 1625962644, "event": "DRILL", "data": {"got": true}}
+{"id": "konvolutten-[nouns]-the envelope", "time": 1625962648, "event": "DRILL", "data": {"got": true}}
+{"id": "alle dollarene-[nouns]-all the dollars", "time": 1625962652, "event": "DRILL", "data": {"got": true}}
+{"id": "alle konvoluttene-[nouns]-all the envelopes", "time": 1625962665, "event": "DRILL", "data": {"got": true}}
+{"id": "dagen-[nouns]-the day", "time": 1625962677, "event": "DRILL", "data": {"got": true}}
+{"id": "en dollar-[nouns]-a dollar", "time": 1625962679, "event": "DRILL", "data": {"got": true}}
+{"id": "alle dagene-[nouns]-all the days", "time": 1625962681, "event": "DRILL", "data": {"got": true}}
+{"id": "en mat-[nouns]-a food", "time": 1625962682, "event": "DRILL", "data": {"got": true}}
+{"id": "en dag-[nouns]-a day", "time": 1625962684, "event": "DRILL", "data": {"got": true}}
+{"id": "mange dager-[nouns]-many days", "time": 1625962686, "event": "DRILL", "data": {"got": true}}
+{"id": "en pute-[nouns]-a cushion", "time": 1625962691, "event": "DRILL", "data": {"got": true}}
+{"id": "jenten-[nouns]-the girl", "time": 1625962693, "event": "DRILL", "data": {"got": true}}
+{"id": "alle matene-[nouns]-all the foods", "time": 1625962697, "event": "DRILL", "data": {"got": true}}
+{"id": "mange glass-[nouns]-many glasses", "time": 1625962700, "event": "DRILL", "data": {"got": true}}
+{"id": "mammaen-[nouns]-the mum", "time": 1625962702, "event": "DRILL", "data": {"got": true}}
+{"id": "puten-[nouns]-the cushion", "time": 1625962707, "event": "DRILL", "data": {"got": true}}
+{"id": "alle familiene-[nouns]-all the families", "time": 1625962714, "event": "DRILL", "data": {"got": true}}
+{"id": "familien-[nouns]-the family", "time": 1625962716, "event": "DRILL", "data": {"got": true}}
+{"id": "mange familier-[nouns]-many families", "time": 1625962719, "event": "DRILL", "data": {"got": true}}
+{"id": "en familie-[nouns]-a family", "time": 1625962722, "event": "DRILL", "data": {"got": true}}
+{"id": "tannen-[nouns]-the tooth", "time": 1625962729, "event": "DRILL", "data": {"got": false}}
+{"id": "alle flaskene-[nouns]-all the bottles", "time": 1625962733, "event": "DRILL", "data": {"got": true}}
+{"id": "bussen-[nouns]-the bus", "time": 1625962739, "event": "DRILL", "data": {"got": true}}
+{"id": "mange busser-[nouns]-many buses", "time": 1625962747, "event": "DRILL", "data": {"got": true}}
+{"id": "en kopp-[nouns]-a cup", "time": 1625962749, "event": "DRILL", "data": {"got": true}}
+{"id": "en tann-[nouns]-a tooth", "time": 1625962751, "event": "DRILL", "data": {"got": true}}
+{"id": "en buss-[nouns]-a bus", "time": 1625962753, "event": "DRILL", "data": {"got": true}}
+{"id": "mange mat-[nouns]-many foods", "time": 1625962756, "event": "DRILL", "data": {"got": true}}
+{"id": "boken-[nouns]-the book", "time": 1625962762, "event": "DRILL", "data": {"got": true}}
+{"id": "alle bussene-[nouns]-all the buses", "time": 1625962764, "event": "DRILL", "data": {"got": true}}
+{"id": "alle vannene-[nouns]-all the water", "time": 1625962770, "event": "DRILL", "data": {"got": true}}
+{"id": "en bok-[nouns]-a book", "time": 1625962777, "event": "DRILL", "data": {"got": true}}
+{"id": "mange vann-[nouns]-many water", "time": 1625962793, "event": "DRILL", "data": {"got": true}}
+{"id": "h\u00e5ret-[nouns]-the hair", "time": 1625962812, "event": "DRILL", "data": {"got": true}}
+{"id": "en tomat-[nouns]-a tomato", "time": 1625962821, "event": "DRILL", "data": {"got": true}}
+{"id": "gutten-[nouns]-the boy", "time": 1625962822, "event": "DRILL", "data": {"got": true}}
+{"id": "mange venner-[nouns]-many friends", "time": 1625962829, "event": "DRILL", "data": {"got": true}}
+{"id": "mange gutter-[nouns]-many boys", "time": 1625962831, "event": "DRILL", "data": {"got": true}}
+{"id": "tomaten-[nouns]-the tomato", "time": 1625962833, "event": "DRILL", "data": {"got": true}}
+{"id": "alle guttene-[nouns]-all the boys", "time": 1625962835, "event": "DRILL", "data": {"got": true}}
+{"id": "mange b\u00f8ker-[nouns]-many books", "time": 1625962843, "event": "DRILL", "data": {"got": true}}
+{"id": "en gutt-[nouns]-a boy", "time": 1625962845, "event": "DRILL", "data": {"got": true}}
+{"id": "alle vennene-[nouns]-all the friends", "time": 1625962848, "event": "DRILL", "data": {"got": true}}
+{"id": "alle l\u00e6rene-[nouns]-all the leathers", "time": 1625962861, "event": "DRILL", "data": {"got": false}}
+{"id": "alle b\u00f8kene-[nouns]-all the books", "time": 1625962863, "event": "DRILL", "data": {"got": true}}
+{"id": "faren-[nouns]-the father", "time": 1625962865, "event": "DRILL", "data": {"got": true}}
+{"id": "en far-[nouns]-a father", "time": 1625962869, "event": "DRILL", "data": {"got": true}}
+{"id": "et eple-[nouns]-an apple", "time": 1625962936, "event": "DRILL", "data": {"got": true}}
+{"id": "mange epler-[nouns]-many apples", "time": 1625962949, "event": "DRILL", "data": {"got": true}}
+{"id": "et br\u00f8d-[nouns]-a bread", "time": 1625962952, "event": "DRILL", "data": {"got": true}}
+{"id": "alle eplene-[nouns]-all the apples", "time": 1625962955, "event": "DRILL", "data": {"got": true}}
+{"id": "mange l\u00e6r-[nouns]-many leathers", "time": 1625962959, "event": "DRILL", "data": {"got": true}}
+{"id": "mange br\u00f8d-[nouns]-many breads", "time": 1625962969, "event": "DRILL", "data": {"got": true}}
+{"id": "alle br\u00f8dene-[nouns]-all the breads", "time": 1625962971, "event": "DRILL", "data": {"got": true}}
+{"id": "mange konserter-[nouns]-many concerts", "time": 1625963049, "event": "DRILL", "data": {"got": true}}
+{"id": "en konsert-[nouns]-a concert", "time": 1625963051, "event": "DRILL", "data": {"got": true}}
+{"id": "konserten-[nouns]-the concert", "time": 1625963053, "event": "DRILL", "data": {"got": true}}
+{"id": "eplet-[nouns]-the apple", "time": 1625963057, "event": "DRILL", "data": {"got": true}}
+{"id": "alle konsertene-[nouns]-all the concerts", "time": 1625963061, "event": "DRILL", "data": {"got": true}}
+{"id": "en mor-[nouns]-a mother", "time": 1625963063, "event": "DRILL", "data": {"got": true}}
+{"id": "mange br\u00f8dre-[nouns]-many brothers", "time": 1625963068, "event": "DRILL", "data": {"got": true}}
+{"id": "alle br\u00f8drene-[nouns]-all the brothers", "time": 1625963077, "event": "DRILL", "data": {"got": false}}
+{"id": "broren-[nouns]-the brother", "time": 1625963081, "event": "DRILL", "data": {"got": true}}
+{"id": "moren-[nouns]-the mother", "time": 1625963084, "event": "DRILL", "data": {"got": true}}
+{"id": "et brev-[nouns]-a letter", "time": 1625963088, "event": "DRILL", "data": {"got": true}}
+{"id": "alle brevene-[nouns]-all the letters", "time": 1625963090, "event": "DRILL", "data": {"got": true}}
+{"id": "en bror-[nouns]-a brother", "time": 1625963094, "event": "DRILL", "data": {"got": true}}
+{"id": "mange brev-[nouns]-many letters", "time": 1625963105, "event": "DRILL", "data": {"got": true}}
+{"id": "brevet-[nouns]-the letter", "time": 1625963107, "event": "DRILL", "data": {"got": true}}
+{"id": "syltet\u00f8yet-[nouns]-the jam", "time": 1625963120, "event": "DRILL", "data": {"got": true}}
+{"id": "akkurat da-[]-just then", "time": 1625963139, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "alt for sent-[]-far too late", "time": 1625963151, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "dagen derp\u00e5-[]-the morning after", "time": 1625963168, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "alt for tidlig-[]-far too early", "time": 1625963395, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "akkurat n\u00e6-[]-just now", "time": 1625963447, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "fjorten dager-[]-fortnight", "time": 1625963467, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "mange ferier-[nouns]-many holidays", "time": 1625963563, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en ferie-[nouns]-a holiday", "time": 1625963571, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "ferien-[nouns]-the holiday", "time": 1625963575, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "aftes-[]-yesterday evening", "time": 1625963582, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "alle feriene-[nouns]-all the holidays", "time": 1625963586, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "dagen etter-[]-the following day", "time": 1625963735, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "aftenen-[nouns]-the evening", "time": 1625963815, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "akkurat n\u00e5-[]-just now", "time": 1625963819, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle aftenene-[nouns]-all the evenings", "time": 1625963908, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange aftener-[nouns]-many evenings", "time": 1625963917, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "en aften-[nouns]-an evening", "time": 1625963950, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "dagen f\u00f8r-[]-the day before", "time": 1625964089, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "daglig-[]-daglig", "time": 1625964094, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "alle arbeidsdagene-[nouns]-all the working days", "time": 1625964248, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "av og til-[]-now and then", "time": 1625964258, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "arbeidsdagen-[nouns]-the working day", "time": 1625964261, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange arbeidsdager-[nouns]-many working days", "time": 1625964265, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en arbeidsdag-[nouns]-a working day", "time": 1625964271, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "m\u00e5neden-[nouns]-the month", "time": 1625964339, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange m\u00e5neder-[nouns]-many months", "time": 1625964408, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "daglig-[]-daily", "time": 1625964424, "event": "LEARN", "data": {"prior": [1, 1, 172800]}}
+{"id": "en m\u00e5ned-[nouns]-a month", "time": 1625964429, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alt for kort-[]-far too short", "time": 1625964439, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle m\u00e5nedene-[nouns]-all the months", "time": 1625964444, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "annenhver dag-[]-every second day", "time": 1625964544, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alt for lenge-[]-far too long", "time": 1625964550, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "aftes-[]-yesterday evening", "time": 1625964808, "event": "DRILL", "data": {"got": true}}
+{"id": "alt for tidlig-[]-far too early", "time": 1625964815, "event": "DRILL", "data": {"got": true}}
+{"id": "dagen derp\u00e5-[]-the morning after", "time": 1625964823, "event": "DRILL", "data": {"got": true}}
+{"id": "akkurat da-[]-just then", "time": 1625964825, "event": "DRILL", "data": {"got": true}}
+{"id": "av og til-[]-now and then", "time": 1625964828, "event": "DRILL", "data": {"got": true}}
+{"id": "mange aftener-[nouns]-many evenings", "time": 1625964840, "event": "DRILL", "data": {"got": true}}
+{"id": "alle \u00e5rene-[nouns]-all the years", "time": 1625964844, "event": "DRILL", "data": {"got": true}}
+{"id": "et syltet\u00f8y-[nouns]-a jam", "time": 1625964846, "event": "DRILL", "data": {"got": true}}
+{"id": "\u00e5ret-[nouns]-the year", "time": 1625964850, "event": "DRILL", "data": {"got": false}}
+{"id": "mange jenter-[nouns]-many girls", "time": 1625964852, "event": "DRILL", "data": {"got": true}}
+{"id": "alle jentene-[nouns]-all the girls", "time": 1625964855, "event": "DRILL", "data": {"got": true}}
+{"id": "mange \u00e5r-[nouns]-many years", "time": 1625964860, "event": "DRILL", "data": {"got": true}}
+{"id": "mange damer-[nouns]-many ladies", "time": 1625964990, "event": "DRILL", "data": {"got": true}}
+{"id": "et lys-[nouns]-a light", "time": 1625964992, "event": "DRILL", "data": {"got": true}}
+{"id": "alle damene-[nouns]-all the ladies", "time": 1625964996, "event": "DRILL", "data": {"got": true}}
+{"id": "en dame-[nouns]-a lady", "time": 1625965010, "event": "DRILL", "data": {"got": true}}
+{"id": "lyset-[nouns]-the light", "time": 1625965012, "event": "DRILL", "data": {"got": true}}
+{"id": "damen-[nouns]-the lady", "time": 1625965014, "event": "DRILL", "data": {"got": true}}
+{"id": "en ost-[nouns]-a cheese", "time": 1625965018, "event": "DRILL", "data": {"got": true}}
+{"id": "mange kj\u00f8p-[nouns]-many buys", "time": 1625965020, "event": "DRILL", "data": {"got": true}}
+{"id": "kj\u00f8pet-[nouns]-the buy", "time": 1625965022, "event": "DRILL", "data": {"got": true}}
+{"id": "mange karer-[nouns]-many guys", "time": 1625965026, "event": "DRILL", "data": {"got": true}}
+{"id": "en hundrelapp-[nouns]-a hundred krone note", "time": 1625965030, "event": "DRILL", "data": {"got": true}}
+{"id": "osten-[nouns]-the cheese", "time": 1625965033, "event": "DRILL", "data": {"got": true}}
+{"id": "mange tenner-[nouns]-many teeth", "time": 1625965049, "event": "DRILL", "data": {"got": true}}
+{"id": "et hus-[nouns]-a house", "time": 1625965051, "event": "DRILL", "data": {"got": true}}
+{"id": "huset-[nouns]-the house", "time": 1625965053, "event": "DRILL", "data": {"got": true}}
+{"id": "alle husene-[nouns]-all the houses", "time": 1625965055, "event": "DRILL", "data": {"got": true}}
+{"id": "mange hus-[nouns]-many houses", "time": 1625965057, "event": "DRILL", "data": {"got": true}}
+{"id": "alle tennene-[nouns]-all the teeth", "time": 1625965060, "event": "DRILL", "data": {"got": true}}
+{"id": "mange flasker-[nouns]-many bottles", "time": 1625965349, "event": "DRILL", "data": {"got": true}}
+{"id": "mange onsdager-[nouns]-many Wednesdays", "time": 1625965356, "event": "DRILL", "data": {"got": false}}
+{"id": "alle onsdagene-[nouns]-all the Wednesdays", "time": 1625965360, "event": "DRILL", "data": {"got": true}}
+{"id": "et merke-[nouns]-a mark", "time": 1625965363, "event": "DRILL", "data": {"got": true}}
+{"id": "alle brusene-[nouns]-all the softdrinks", "time": 1625965368, "event": "DRILL", "data": {"got": true}}
+{"id": "merket-[nouns]-the mark", "time": 1625965377, "event": "DRILL", "data": {"got": true}}
+{"id": "alle mandagene-[nouns]-all the Mondays", "time": 1625965382, "event": "DRILL", "data": {"got": true}}
+{"id": "en mandag-[nouns]-a Monday", "time": 1625965384, "event": "DRILL", "data": {"got": true}}
+{"id": "mange mammaer-[nouns]-many mums", "time": 1625965388, "event": "DRILL", "data": {"got": true}}
+{"id": "mandagen-[nouns]-the Monday", "time": 1625965392, "event": "DRILL", "data": {"got": true}}
+{"id": "alle mammaene-[nouns]-all the mums", "time": 1625965396, "event": "DRILL", "data": {"got": true}}
+{"id": "mange mandager-[nouns]-many Mondays", "time": 1625965399, "event": "DRILL", "data": {"got": true}}
+{"id": "flasken-[nouns]-the bottle", "time": 1625965405, "event": "DRILL", "data": {"got": true}}
+{"id": "glasset-[nouns]-the glass", "time": 1625965407, "event": "DRILL", "data": {"got": true}}
+{"id": "en flaske-[nouns]-a bottle", "time": 1625965410, "event": "DRILL", "data": {"got": true}}
+{"id": "et glass-[nouns]-a glass", "time": 1625965413, "event": "DRILL", "data": {"got": true}}
+{"id": "alle glassene-[nouns]-all the glasses", "time": 1625965419, "event": "DRILL", "data": {"got": true}}
+{"id": "en mamma-[nouns]-a mum", "time": 1625965421, "event": "DRILL", "data": {"got": true}}
+{"id": "middagen-[nouns]-the dinner", "time": 1625965444, "event": "DRILL", "data": {"got": true}}
+{"id": "alle middagene-[nouns]-all the dinners", "time": 1625965447, "event": "DRILL", "data": {"got": true}}
+{"id": "mange middager-[nouns]-many dinners", "time": 1625965451, "event": "DRILL", "data": {"got": true}}
+{"id": "sangen-[nouns]-the song", "time": 1625965453, "event": "DRILL", "data": {"got": true}}
+{"id": "verten-[nouns]-the host", "time": 1625965458, "event": "DRILL", "data": {"got": true}}
+{"id": "en middag-[nouns]-a dinner", "time": 1625965460, "event": "DRILL", "data": {"got": true}}
+{"id": "mange oster-[nouns]-many cheeses", "time": 1625965469, "event": "DRILL", "data": {"got": true}}
+{"id": "mange kopper-[nouns]-many cups", "time": 1625965472, "event": "DRILL", "data": {"got": true}}
+{"id": "koppen-[nouns]-the cup", "time": 1625965474, "event": "DRILL", "data": {"got": true}}
+{"id": "alle l\u00e6rerne-[nouns]-all the teachers", "time": 1625965478, "event": "DRILL", "data": {"got": true}}
+{"id": "alle kronene-[nouns]-all the crowns", "time": 1625965481, "event": "DRILL", "data": {"got": true}}
+{"id": "en sang-[nouns]-a song", "time": 1625965482, "event": "DRILL", "data": {"got": true}}
+{"id": "mange p\u00e6rer-[nouns]-many pears", "time": 1625965485, "event": "DRILL", "data": {"got": true}}
+{"id": "kronen-[nouns]-the crown", "time": 1625965487, "event": "DRILL", "data": {"got": true}}
+{"id": "mange kroner-[nouns]-many crowns", "time": 1625965490, "event": "DRILL", "data": {"got": true}}
+{"id": "alle p\u00e6rene-[nouns]-all the pears", "time": 1625965492, "event": "DRILL", "data": {"got": true}}
+{"id": "mange st\u00f8rrelser-[nouns]-many sizes", "time": 1625965495, "event": "DRILL", "data": {"got": true}}
+{"id": "alle fris\u00f8rene-[nouns]-all the hairdressers", "time": 1625965501, "event": "DRILL", "data": {"got": true}}
+{"id": "mange lys-[nouns]-many lights", "time": 1625965530, "event": "DRILL", "data": {"got": true}}
+{"id": "en sykkel-[nouns]-a bicycle", "time": 1625965533, "event": "DRILL", "data": {"got": true}}
+{"id": "alle lysene-[nouns]-all the lights", "time": 1625965536, "event": "DRILL", "data": {"got": true}}
+{"id": "fl\u00f8ten-[nouns]-the cream", "time": 1625965541, "event": "DRILL", "data": {"got": true}}
+{"id": "et \u00e5r-[nouns]-an year", "time": 1625965549, "event": "DRILL", "data": {"got": true}}
+{"id": "alle fl\u00f8tene-[nouns]-all the creams", "time": 1625965552, "event": "DRILL", "data": {"got": true}}
+{"id": "sykkelen-[nouns]-the bicycle", "time": 1625965627, "event": "DRILL", "data": {"got": false}}
+{"id": "alle syklene-[nouns]-all the bicycles", "time": 1625965630, "event": "DRILL", "data": {"got": true}}
+{"id": "mange tomater-[nouns]-many tomatoes", "time": 1625965633, "event": "DRILL", "data": {"got": true}}
+{"id": "alle ostene-[nouns]-all the cheeses", "time": 1625965636, "event": "DRILL", "data": {"got": true}}
+{"id": "alle tomatene-[nouns]-all the tomatoes", "time": 1625965639, "event": "DRILL", "data": {"got": true}}
+{"id": "alle teene-[nouns]-all the teas", "time": 1625965642, "event": "DRILL", "data": {"got": true}}
+{"id": "en klut-[nouns]-a cloth", "time": 1625965646, "event": "DRILL", "data": {"got": true}}
+{"id": "alle s\u00f8ndagene-[nouns]-all the Sundays", "time": 1625965648, "event": "DRILL", "data": {"got": true}}
+{"id": "mange merker-[nouns]-many marks", "time": 1625965651, "event": "DRILL", "data": {"got": true}}
+{"id": "alle merkene-[nouns]-all the marks", "time": 1625965657, "event": "DRILL", "data": {"got": true}}
+{"id": "mange fedre-[nouns]-many fathers", "time": 1625965661, "event": "DRILL", "data": {"got": true}}
+{"id": "alle stykkene-[nouns]-all the pieces", "time": 1625965667, "event": "DRILL", "data": {"got": true}}
+{"id": "et yrke-[nouns]-an occupation", "time": 1625965790, "event": "DRILL", "data": {"got": true}}
+{"id": "en s\u00f8ndag-[nouns]-a Sunday", "time": 1625965792, "event": "DRILL", "data": {"got": true}}
+{"id": "s\u00f8ndagen-[nouns]-the Sunday", "time": 1625965795, "event": "DRILL", "data": {"got": true}}
+{"id": "mange filmer-[nouns]-many movies", "time": 1625965800, "event": "DRILL", "data": {"got": true}}
+{"id": "yrket-[nouns]-the occupation", "time": 1625965805, "event": "DRILL", "data": {"got": false}}
+{"id": "mange vanger-[nouns]-many fields", "time": 1625965807, "event": "DRILL", "data": {"got": true}}
+{"id": "av og til-[]-now and then", "time": 1625966214, "event": "DRILL", "data": {"got": true}}
+{"id": "filmen-[nouns]-the movie", "time": 1625966218, "event": "DRILL", "data": {"got": true}}
+{"id": "mange \u00f8nsker-[nouns]-many wishes", "time": 1625966220, "event": "DRILL", "data": {"got": true}}
+{"id": "en film-[nouns]-a movie", "time": 1625966222, "event": "DRILL", "data": {"got": true}}
+{"id": "mange hundrelapper-[nouns]-many hundred krone notes", "time": 1625966240, "event": "DRILL", "data": {"got": false}}
+{"id": "\u00f8nsket-[nouns]-the wish", "time": 1625966243, "event": "DRILL", "data": {"got": true}}
+{"id": "en venn-[nouns]-a friend", "time": 1625966249, "event": "DRILL", "data": {"got": true}}
+{"id": "mange safter-[nouns]-many cordials", "time": 1625966253, "event": "DRILL", "data": {"got": true}}
+{"id": "alt for tidlig-[]-far too early", "time": 1625966259, "event": "DRILL", "data": {"got": true}}
+{"id": "br\u00f8det-[nouns]-the bread", "time": 1625966263, "event": "DRILL", "data": {"got": true}}
+{"id": "aftes-[]-yesterday evening", "time": 1625966271, "event": "DRILL", "data": {"got": true}}
+{"id": "mange aftener-[nouns]-many evenings", "time": 1625966288, "event": "DRILL", "data": {"got": true}}

@@ -1,6 +1,7 @@
 import json
 import random
 
+from expressions import Expression
 from nouns import Noun
 
 
@@ -9,7 +10,8 @@ def graph():
         words_dict = json.load(_fd)
 
     word_type_dataclasses = {
-        'nouns': Noun
+        'nouns': Noun,
+        'expressions': Expression
     }
 
     words = [

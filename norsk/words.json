@@ -475,6 +475,102 @@
             "english": "year",
             "english_plural": "years",
             "indefinite_singular": "år"
+        },
+        {
+            "gender": "m",
+            "english": "evening",
+            "english_plural": "evenings",
+            "indefinite_singular": "aften"
+        },
+        {
+            "gender": "m",
+            "english": "working day",
+            "english_plural": "working days",
+            "indefinite_singular": "arbeidsdag"
+        },
+        {
+            "gender": "m",
+            "english": "month",
+            "english_plural": "months",
+            "indefinite_singular": "måned"
+        },
+        {
+            "gender": "m",
+            "english": "afternoon",
+            "english_plural": "afternoons",
+            "indefinite_singular": "ettermiddag"
+        },
+        {
+            "gender": "m",
+            "english": "holiday",
+            "english_plural": "holidays",
+            "indefinite_singular": "ferie"
+        }
+    ],
+    "expressions": [
+        {
+            "norsk": "aftes",
+            "english": "yesterday evening"
+        },
+        {
+            "norsk": "akkurat da",
+            "english": "just then"
+        },
+        {
+            "norsk": "akkurat nå",
+            "english": "just now"
+        },
+        {
+            "norsk": "aldri",
+            "english": "never"
+        },
+        {
+            "norsk": "alltid",
+            "english": "always"
+        },
+        {
+            "norsk": "alt for kort",
+            "english": "far too short"
+        },
+        {
+            "norsk": "alt for lenge",
+            "english": "far too long"
+        },
+        {
+            "norsk": "alt for sent",
+            "english": "far too late"
+        },
+        {
+            "norsk": "alt for tidlig",
+            "english": "far too early"
+        },
+        {
+            "norsk": "annenhver dag",
+            "english": "every second day"
+        },
+        {
+            "norsk": "av og til",
+            "english": "now and then"
+        },
+        {
+            "norsk": "dagen derpå",
+            "english": "the morning after"
+        },
+        {
+            "norsk": "dagen etter",
+            "english": "the following day"
+        },
+        {
+            "norsk": "dagen før",
+            "english": "the day before"
+        },
+        {
+            "norsk": "daglig",
+            "english": "daily"
+        },
+        {
+            "norsk": "fjorten dager",
+            "english": "fortnight"
         }
     ]
 }
