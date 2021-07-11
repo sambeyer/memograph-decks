@@ -3358,7 +3358,7 @@
     "lastTime": 1625962228,
     "lastResult": true
   },
-  "aldri-[]-never": {
+  "aldri-[time]-never": {
     "priorParams": [
       1.4349274295325518,
       1.000000000002104,
@@ -3368,7 +3368,7 @@
     "lastTime": 1625962204,
     "lastResult": true
   },
-  "alltid-[]-always": {
+  "alltid-[time]-always": {
     "priorParams": [
       1.434927197196656,
       0.9999999999991735,
@@ -3378,7 +3378,7 @@
     "lastTime": 1625962233,
     "lastResult": true
   },
-  "alt for sent-[]-far too late": {
+  "alt for sent-[time]-far too late": {
     "priorParams": [
       1,
       1,
@@ -3387,7 +3387,7 @@
     "numDrills": 0,
     "lastTime": 1625963151
   },
-  "akkurat da-[]-just then": {
+  "akkurat da-[time]-just then": {
     "priorParams": [
       1.4184601150762155,
       0.9999999999997138,
@@ -3397,7 +3397,7 @@
     "lastTime": 1625964825,
     "lastResult": true
   },
-  "alt for lenge-[]-far too long": {
+  "alt for lenge-[time]-far too long": {
     "priorParams": [
       1,
       1,
@@ -3406,7 +3406,7 @@
     "numDrills": 0,
     "lastTime": 1625964550
   },
-  "alt for kort-[]-far too short": {
+  "alt for kort-[time]-far too short": {
     "priorParams": [
       1,
       1,
@@ -3415,7 +3415,7 @@
     "numDrills": 0,
     "lastTime": 1625964439
   },
-  "annenhver dag-[]-every second day": {
+  "annenhver dag-[time]-every second day": {
     "priorParams": [
       1,
       1,
@@ -3424,7 +3424,7 @@
     "numDrills": 0,
     "lastTime": 1625964544
   },
-  "av og til-[]-now and then": {
+  "av og til-[time]-now and then": {
     "priorParams": [
       1.300283051786777,
       0.9999999999998601,
@@ -3470,7 +3470,7 @@
     "numDrills": 0,
     "lastTime": 1625964444
   },
-  "akkurat n\u00e6-[]-just now": {
+  "akkurat n\u00e6-[time]-just now": {
     "priorParams": [
       1,
       1,
@@ -3515,7 +3515,7 @@
     "numDrills": 0,
     "lastTime": 1625963586
   },
-  "dagen etter-[]-the following day": {
+  "dagen etter-[time]-the following day": {
     "priorParams": [
       1,
       1,
@@ -3524,7 +3524,7 @@
     "numDrills": 0,
     "lastTime": 1625963735
   },
-  "fjorten dager-[]-fortnight": {
+  "fjorten dager-[time]-fortnight": {
     "priorParams": [
       1,
       1,
@@ -3570,7 +3570,7 @@
     "numDrills": 0,
     "lastTime": 1625963908
   },
-  "dagen derp\u00e5-[]-the morning after": {
+  "dagen derp\u00e5-[time]-the morning after": {
     "priorParams": [
       1.4180319782676536,
       1.0000000000001994,
@@ -3580,7 +3580,7 @@
     "lastTime": 1625964823,
     "lastResult": true
   },
-  "daglig-[]-daglig": {
+  "daglig-[time]-daglig": {
     "priorParams": [
       1,
       1,
@@ -3589,7 +3589,7 @@
     "numDrills": 0,
     "lastTime": 1625964094
   },
-  "alt for tidlig-[]-far too early": {
+  "alt for tidlig-[time]-far too early": {
     "priorParams": [
       1.2332393618574347,
       1.0000000000001286,
@@ -3599,7 +3599,7 @@
     "lastTime": 1625966259,
     "lastResult": true
   },
-  "aftes-[]-yesterday evening": {
+  "aftes-[time]-yesterday evening": {
     "priorParams": [
       1.2458801610418833,
       1.0000000000003262,
@@ -3609,7 +3609,7 @@
     "lastTime": 1625966271,
     "lastResult": true
   },
-  "dagen f\u00f8r-[]-the day before": {
+  "dagen f\u00f8r-[time]-the day before": {
     "priorParams": [
       1,
       1,
@@ -3654,7 +3654,7 @@
     "numDrills": 0,
     "lastTime": 1625964248
   },
-  "akkurat n\u00e5-[]-just now": {
+  "akkurat n\u00e5-[time]-just now": {
     "priorParams": [
       1,
       1,
@@ -3663,7 +3663,7 @@
     "numDrills": 0,
     "lastTime": 1625963819
   },
-  "daglig-[]-daily": {
+  "daglig-[time]-daily": {
     "priorParams": [
       1,
       1,
@@ -3671,21 +3671,5 @@
     ],
     "numDrills": 0,
     "lastTime": 1625964424
-  },
-  "alt for lenge-[time]-far too long": {},
-  "alt for tidlig-[time]-far too early": {},
-  "aldri-[time]-never": {},
-  "dagen f\u00f8r-[time]-the day before": {},
-  "annenhver dag-[time]-every second day": {},
-  "akkurat n\u00e5-[time]-just now": {},
-  "akkurat da-[time]-just then": {},
-  "dagen etter-[time]-the following day": {},
-  "dagen derp\u00e5-[time]-the morning after": {},
-  "fjorten dager-[time]-fortnight": {},
-  "alltid-[time]-always": {},
-  "daglig-[time]-daily": {},
-  "aftes-[time]-yesterday evening": {},
-  "alt for kort-[time]-far too short": {},
-  "av og til-[time]-now and then": {},
-  "alt for sent-[time]-far too late": {}
+  }
 }
