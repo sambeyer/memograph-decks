@@ -1,4 +1,5 @@
 import dataclasses
+from typing import Optional
 
 from common import BaseWord
 from meta import Card, CardSide
@@ -7,9 +8,13 @@ from meta import Card, CardSide
 class Expression(BaseWord):
     english: str
     norsk: str
+    topic: Optional[str] = None
 
     def get_cards(self):
-        return[Card(CardSide(self.norsk), CardSide(self.english))]
+        front = CardSide(self.norsk)
+        back = CardSide(self.english)
+        card = Card(front, back, topic=self.topic) if self.topic else Card(front, back)
+        return[card]
 
     @classmethod
     def from_dict(cls, inp):

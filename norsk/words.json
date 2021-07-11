@@ -510,67 +510,83 @@
     "expressions": [
         {
             "norsk": "aftes",
-            "english": "yesterday evening"
+            "english": "yesterday evening",
+            "topic": "time"
         },
         {
             "norsk": "akkurat da",
-            "english": "just then"
+            "english": "just then",
+            "topic": "time"
         },
         {
             "norsk": "akkurat nå",
-            "english": "just now"
+            "english": "just now",
+            "topic": "time"
         },
         {
             "norsk": "aldri",
-            "english": "never"
+            "english": "never",
+            "topic": "time"
         },
         {
             "norsk": "alltid",
-            "english": "always"
+            "english": "always",
+            "topic": "time"
         },
         {
             "norsk": "alt for kort",
-            "english": "far too short"
+            "english": "far too short",
+            "topic": "time"
         },
         {
             "norsk": "alt for lenge",
-            "english": "far too long"
+            "english": "far too long",
+            "topic": "time"
         },
         {
             "norsk": "alt for sent",
-            "english": "far too late"
+            "english": "far too late",
+            "topic": "time"
         },
         {
             "norsk": "alt for tidlig",
-            "english": "far too early"
+            "english": "far too early",
+            "topic": "time"
         },
         {
             "norsk": "annenhver dag",
-            "english": "every second day"
+            "english": "every second day",
+            "topic": "time"
         },
         {
             "norsk": "av og til",
-            "english": "now and then"
+            "english": "now and then",
+            "topic": "time"
         },
         {
             "norsk": "dagen derpå",
-            "english": "the morning after"
+            "english": "the morning after",
+            "topic": "time"
         },
         {
             "norsk": "dagen etter",
-            "english": "the following day"
+            "english": "the following day",
+            "topic": "time"
         },
         {
             "norsk": "dagen før",
-            "english": "the day before"
+            "english": "the day before",
+            "topic": "time"
         },
         {
             "norsk": "daglig",
-            "english": "daily"
+            "english": "daily",
+            "topic": "time"
         },
         {
             "norsk": "fjorten dager",
-            "english": "fortnight"
+            "english": "fortnight",
+            "topic": "time"
         }
     ]
 }

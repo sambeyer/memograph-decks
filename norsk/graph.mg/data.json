@@ -3671,5 +3671,21 @@
     ],
     "numDrills": 0,
     "lastTime": 1625964424
-  }
+  },
+  "alt for lenge-[time]-far too long": {},
+  "alt for tidlig-[time]-far too early": {},
+  "aldri-[time]-never": {},
+  "dagen f\u00f8r-[time]-the day before": {},
+  "annenhver dag-[time]-every second day": {},
+  "akkurat n\u00e5-[time]-just now": {},
+  "akkurat da-[time]-just then": {},
+  "dagen etter-[time]-the following day": {},
+  "dagen derp\u00e5-[time]-the morning after": {},
+  "fjorten dager-[time]-fortnight": {},
+  "alltid-[time]-always": {},
+  "daglig-[time]-daily": {},
+  "aftes-[time]-yesterday evening": {},
+  "alt for kort-[time]-far too short": {},
+  "av og til-[time]-now and then": {},
+  "alt for sent-[time]-far too late": {}
 }
