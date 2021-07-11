@@ -744,3 +744,39 @@
 {"id": "br\u00f8det-[nouns]-the bread", "time": 1625966263, "event": "DRILL", "data": {"got": true}}
 {"id": "aftes-[]-yesterday evening", "time": 1625966271, "event": "DRILL", "data": {"got": true}}
 {"id": "mange aftener-[nouns]-many evenings", "time": 1625966288, "event": "DRILL", "data": {"got": true}}
+{"id": "alt for sent-[time]-far too late", "time": 1625967250, "event": "DRILL", "data": {"got": false}}
+{"id": "mange ferier-[nouns]-many holidays", "time": 1625967255, "event": "DRILL", "data": {"got": true}}
+{"id": "en ferie-[nouns]-a holiday", "time": 1625967258, "event": "DRILL", "data": {"got": true}}
+{"id": "akkurat da-[time]-just then", "time": 1625967260, "event": "DRILL", "data": {"got": true}}
+{"id": "dagen derp\u00e5-[time]-the morning after", "time": 1625967263, "event": "DRILL", "data": {"got": true}}
+{"id": "ferien-[nouns]-the holiday", "time": 1625967266, "event": "DRILL", "data": {"got": true}}
+{"id": "alle arbeidsdagene-[nouns]-all the working days", "time": 1625967271, "event": "DRILL", "data": {"got": true}}
+{"id": "alle feriene-[nouns]-all the holidays", "time": 1625967275, "event": "DRILL", "data": {"got": true}}
+{"id": "akkurat n\u00e5-[time]-just now", "time": 1625967283, "event": "DRILL", "data": {"got": true}}
+{"id": "alle aftenene-[nouns]-all the evenings", "time": 1625967286, "event": "DRILL", "data": {"got": true}}
+{"id": "arbeidsdagen-[nouns]-the working day", "time": 1625967289, "event": "DRILL", "data": {"got": true}}
+{"id": "en aften-[nouns]-an evening", "time": 1625967292, "event": "DRILL", "data": {"got": true}}
+{"id": "mange m\u00e5neder-[nouns]-many months", "time": 1625967296, "event": "DRILL", "data": {"got": true}}
+{"id": "en arbeidsdag-[nouns]-a working day", "time": 1625967300, "event": "DRILL", "data": {"got": true}}
+{"id": "en m\u00e5ned-[nouns]-a month", "time": 1625967302, "event": "DRILL", "data": {"got": true}}
+{"id": "mange arbeidsdager-[nouns]-many working days", "time": 1625967309, "event": "DRILL", "data": {"got": true}}
+{"id": "alt for kort-[time]-far too short", "time": 1625967313, "event": "DRILL", "data": {"got": true}}
+{"id": "m\u00e5neden-[nouns]-the month", "time": 1625967315, "event": "DRILL", "data": {"got": true}}
+{"id": "alle t\u00e6rne-[nouns]-all the toes", "time": 1625967321, "event": "DRILL", "data": {"got": true}}
+{"id": "alle m\u00e5nedene-[nouns]-all the months", "time": 1625967323, "event": "DRILL", "data": {"got": true}}
+{"id": "mange stykker-[nouns]-many pieces", "time": 1625967383, "event": "DRILL", "data": {"got": true}}
+{"id": "av og til-[time]-now and then", "time": 1625967434, "event": "DRILL", "data": {"got": true}}
+{"id": "annenhver dag-[time]-every second day", "time": 1625967441, "event": "DRILL", "data": {"got": true}}
+{"id": "alt for lenge-[time]-far too long", "time": 1625967470, "event": "DRILL", "data": {"got": false}}
+{"id": "alle lommene-[nouns]-all the pockets", "time": 1625967474, "event": "DRILL", "data": {"got": true}}
+{"id": "alle vangene-[nouns]-all the fields", "time": 1625967478, "event": "DRILL", "data": {"got": true}}
+{"id": "mange aftener-[nouns]-many evenings", "time": 1625967481, "event": "DRILL", "data": {"got": true}}
+{"id": "verten-[nouns]-the host", "time": 1625967487, "event": "DRILL", "data": {"got": true}}
+{"id": "mange syltet\u00f8yer-[nouns]-many jams", "time": 1625967502, "event": "DRILL", "data": {"got": true}}
+{"id": "aftes-[time]-yesterday evening", "time": 1625967591, "event": "DRILL", "data": {"got": true}}
+{"id": "br\u00f8det-[nouns]-the bread", "time": 1625967594, "event": "DRILL", "data": {"got": true}}
+{"id": "mange safter-[nouns]-many cordials", "time": 1625967641, "event": "DRILL", "data": {"got": true}}
+{"id": "alt for sent-[time]-far too late", "time": 1625967708, "event": "DRILL", "data": {"got": true}}
+{"id": "en venn-[nouns]-a friend", "time": 1625967711, "event": "DRILL", "data": {"got": true}}
+{"id": "akkurat da-[time]-just then", "time": 1625967713, "event": "DRILL", "data": {"got": true}}
+{"id": "alt for tidlig-[time]-far too early", "time": 1625967724, "event": "DRILL", "data": {"got": true}}
