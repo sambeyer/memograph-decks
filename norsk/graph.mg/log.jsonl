@@ -780,3 +780,58 @@
 {"id": "en venn-[nouns]-a friend", "time": 1625967711, "event": "DRILL", "data": {"got": true}}
 {"id": "akkurat da-[time]-just then", "time": 1625967713, "event": "DRILL", "data": {"got": true}}
 {"id": "alt for tidlig-[time]-far too early", "time": 1625967724, "event": "DRILL", "data": {"got": true}}
+{"id": "for en liten stund siden-[time]-a little while ago", "time": 1626088074, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "hele dagen-[time]-all day", "time": 1626088076, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "for fjorten dager siden-[time]-a fortnight ago", "time": 1626088089, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "for to dager siden-[time]-two days ago", "time": 1626088095, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "for noen dager siden-[time]-some days ago", "time": 1626088102, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "forrige uke-[time]-last week", "time": 1626088106, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "for et \u00f8yeblikk siden-[time]-a moment ago", "time": 1626088125, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "for lenge siden-[time]-a long time ago", "time": 1626088139, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "for sent-[time]-too late", "time": 1626088142, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "for kort tid siden-[time]-a short while ago", "time": 1626088148, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "for tidlig-[time]-too early", "time": 1626088181, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "for noen f\u00e5 dager siden-[time]-a few days ago", "time": 1626088198, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "f\u00f8dselsdagen-[nouns]-the birthday", "time": 1626088244, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "f\u00f8rste juli-[time]-first of July", "time": 1626088249, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange f\u00f8dselsdager-[nouns]-many birthdays", "time": 1626088253, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en f\u00f8dselsdag-[nouns]-a birthday", "time": 1626088255, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "hele m\u00e5neden-[time]-all month", "time": 1626088258, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "for en m\u00e5ned siden-[time]-a month ago", "time": 1626088263, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange fridager-[nouns]-many days off", "time": 1626088274, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en fridag-[nouns]-a day off", "time": 1626088277, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "hele natten-[time]-all night", "time": 1626088280, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle f\u00f8dselsdagene-[nouns]-all the birthdays", "time": 1626088285, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "fridagen-[nouns]-the day off", "time": 1626088289, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "for en uke siden-[time]-a week ago", "time": 1626088296, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle fridagene-[nouns]-all the days off", "time": 1626088316, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "aftes-[time]-yesterday evening", "time": 1626088332, "event": "DRILL", "data": {"got": false}}
+{"id": "dagen derp\u00e5-[time]-the morning after", "time": 1626088336, "event": "DRILL", "data": {"got": true}}
+{"id": "alt for lenge-[time]-far too long", "time": 1626088345, "event": "DRILL", "data": {"got": false}}
+{"id": "av og til-[time]-now and then", "time": 1626088348, "event": "DRILL", "data": {"got": true}}
+{"id": "mange aftener-[nouns]-many evenings", "time": 1626088354, "event": "DRILL", "data": {"got": false}}
+{"id": "alt for sent-[time]-far too late", "time": 1626088359, "event": "DRILL", "data": {"got": true}}
+{"id": "alle m\u00e5nedene-[nouns]-all the months", "time": 1626088364, "event": "DRILL", "data": {"got": true}}
+{"id": "alt for tidlig-[time]-far too early", "time": 1626088367, "event": "DRILL", "data": {"got": true}}
+{"id": "akkurat da-[time]-just then", "time": 1626088369, "event": "DRILL", "data": {"got": true}}
+{"id": "verten-[nouns]-the host", "time": 1626088372, "event": "DRILL", "data": {"got": true}}
+{"id": "alt for kort-[time]-far too short", "time": 1626088375, "event": "DRILL", "data": {"got": true}}
+{"id": "en m\u00e5ned-[nouns]-a month", "time": 1626088377, "event": "DRILL", "data": {"got": true}}
+{"id": "annenhver dag-[time]-every second day", "time": 1626088438, "event": "DRILL", "data": {"got": false}}
+{"id": "arbeidsdagen-[nouns]-the working day", "time": 1626088445, "event": "DRILL", "data": {"got": true}}
+{"id": "alle arbeidsdagene-[nouns]-all the working days", "time": 1626088453, "event": "DRILL", "data": {"got": true}}
+{"id": "mange m\u00e5neder-[nouns]-many months", "time": 1626088466, "event": "DRILL", "data": {"got": false}}
+{"id": "en arbeidsdag-[nouns]-a working day", "time": 1626088471, "event": "DRILL", "data": {"got": true}}
+{"id": "m\u00e5neden-[nouns]-the month", "time": 1626088477, "event": "DRILL", "data": {"got": true}}
+{"id": "mange arbeidsdager-[nouns]-many working days", "time": 1626088491, "event": "DRILL", "data": {"got": false}}
+{"id": "akkurat n\u00e5-[time]-just now", "time": 1626088496, "event": "DRILL", "data": {"got": true}}
+{"id": "alle feriene-[nouns]-all the holidays", "time": 1626088502, "event": "DRILL", "data": {"got": true}}
+{"id": "en ferie-[nouns]-a holiday", "time": 1626088506, "event": "DRILL", "data": {"got": true}}
+{"id": "alle aftenene-[nouns]-all the evenings", "time": 1626088529, "event": "DRILL", "data": {"got": false}}
+{"id": "en aften-[nouns]-an evening", "time": 1626088534, "event": "DRILL", "data": {"got": true}}
+{"id": "en venn-[nouns]-a friend", "time": 1626088542, "event": "DRILL", "data": {"got": false}}
+{"id": "mange safter-[nouns]-many cordials", "time": 1626088549, "event": "DRILL", "data": {"got": false}}
+{"id": "for en liten stund siden-[time]-a little while ago", "time": 1626088586, "event": "DRILL", "data": {"got": false}}
+{"id": "mange ferier-[nouns]-many holidays", "time": 1626088591, "event": "DRILL", "data": {"got": false}}
+{"id": "ferien-[nouns]-the holiday", "time": 1626088593, "event": "DRILL", "data": {"got": false}}
+{"id": "br\u00f8det-[nouns]-the bread", "time": 1626088603, "event": "DRILL", "data": {"got": true}}

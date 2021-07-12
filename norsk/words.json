@@ -505,6 +505,18 @@
             "english": "holiday",
             "english_plural": "holidays",
             "indefinite_singular": "ferie"
+        },
+        {
+            "gender": "m",
+            "english": "day off",
+            "english_plural": "days off",
+            "indefinite_singular": "fridag"
+        },
+        {
+            "gender": "m",
+            "english": "birthday",
+            "english_plural": "birthdays",
+            "indefinite_singular": "fødselsdag"
         }
     ],
     "expressions": [
@@ -586,6 +598,91 @@
         {
             "norsk": "fjorten dager",
             "english": "fortnight",
+            "topic": "time"
+        },
+        {
+            "norsk": "for en liten stund siden",
+            "english": "a little while ago",
+            "topic": "time"
+        },
+        {
+            "norsk": "for en måned siden",
+            "english": "a month ago",
+            "topic": "time"
+        },
+        {
+            "norsk": "for fjorten dager siden",
+            "english": "a fortnight ago",
+            "topic": "time"
+        },
+        {
+            "norsk": "for en uke siden",
+            "english": "a week ago",
+            "topic": "time"
+        },
+        {
+            "norsk": "for et øyeblikk siden",
+            "english": "a moment ago",
+            "topic": "time"
+        },
+        {
+            "norsk": "for kort tid siden",
+            "english": "a short while ago",
+            "topic": "time"
+        },
+        {
+            "norsk": "for lenge siden",
+            "english": "a long time ago",
+            "topic": "time"
+        },
+        {
+            "norsk": "for noen dager siden",
+            "english": "some days ago",
+            "topic": "time"
+        },
+        {
+            "norsk": "for noen få dager siden",
+            "english": "a few days ago",
+            "topic": "time"
+        },
+        {
+            "norsk": "for sent",
+            "english": "too late",
+            "topic": "time"
+        },
+        {
+            "norsk": "for tidlig",
+            "english": "too early",
+            "topic": "time"
+        },
+        {
+            "norsk": "for to dager siden",
+            "english": "two days ago",
+            "topic": "time"
+        },
+        {
+            "norsk": "forrige uke",
+            "english": "last week",
+            "topic": "time"
+        },
+        {
+            "norsk": "første juli",
+            "english": "first of July",
+            "topic": "time"
+        },
+        {
+            "norsk": "hele dagen",
+            "english": "all day",
+            "topic": "time"
+        },
+        {
+            "norsk": "hele måneden",
+            "english": "all month",
+            "topic": "time"
+        },
+        {
+            "norsk": "hele natten",
+            "english": "all night",
             "topic": "time"
         }
     ]

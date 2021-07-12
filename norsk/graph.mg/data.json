@@ -479,13 +479,13 @@
   },
   "mange safter-[nouns]-many cordials": {
     "priorParams": [
-      1.1186669464724184,
-      1.0311178328167316,
-      8959.958057670743
+      1.2745577922181652,
+      1.2884359326237138,
+      8669.449790823688
     ],
-    "numDrills": 3,
-    "lastTime": 1625967641,
-    "lastResult": true
+    "numDrills": 4,
+    "lastTime": 1626088549,
+    "lastResult": false
   },
   "alle saftene-[nouns]-all the cordials": {
     "priorParams": [
@@ -860,13 +860,13 @@
   },
   "en venn-[nouns]-a friend": {
     "priorParams": [
-      1.120478977388791,
-      1.031137898707918,
-      8898.724195875307
+      1.2742321647594486,
+      1.2874334005059365,
+      8623.843525444112
     ],
-    "numDrills": 3,
-    "lastTime": 1625967711,
-    "lastResult": true
+    "numDrills": 4,
+    "lastTime": 1626088542,
+    "lastResult": false
   },
   "vennen-[nouns]-the friend": {
     "priorParams": [
@@ -2249,12 +2249,12 @@
   },
   "verten-[nouns]-the host": {
     "priorParams": [
-      1.1653796288175475,
-      1.003032716287124,
-      5444.807707159548
+      1.4158476099158601,
+      1.0031258159425558,
+      89796.46570841236
     ],
-    "numDrills": 5,
-    "lastTime": 1625967487,
+    "numDrills": 6,
+    "lastTime": 1626088372,
     "lastResult": true
   },
   "mange verter-[nouns]-many hosts": {
@@ -2608,12 +2608,12 @@
   },
   "br\u00f8det-[nouns]-the bread": {
     "priorParams": [
-      1.1171347534609126,
-      1.0311675216411265,
-      8688.046032971779
+      1.4288758597594242,
+      1.0321388011684585,
+      90843.75606064204
     ],
-    "numDrills": 3,
-    "lastTime": 1625967594,
+    "numDrills": 4,
+    "lastTime": 1626088603,
     "lastResult": true
   },
   "mange br\u00f8d-[nouns]-many breads": {
@@ -3380,102 +3380,102 @@
   },
   "alt for sent-[time]-far too late": {
     "priorParams": [
-      1.9051916545197027,
-      1.911024871113698,
-      2286.8377288675592
+      2.3836951406257314,
+      1.9423636313736907,
+      46129.57850412233
     ],
-    "numDrills": 2,
-    "lastTime": 1625967708,
+    "numDrills": 3,
+    "lastTime": 1626088359,
     "lastResult": true
   },
   "akkurat da-[time]-just then": {
     "priorParams": [
-      1.0889251862581544,
-      0.9999999999996939,
-      4255.572429106243
+      1.418734950846566,
+      0.9999999999992526,
+      88311.06890345734
     ],
-    "numDrills": 3,
-    "lastTime": 1625967713,
+    "numDrills": 4,
+    "lastTime": 1626088369,
     "lastResult": true
   },
   "alt for lenge-[time]-far too long": {
     "priorParams": [
-      1.6990958372971068,
-      1.9649791836987636,
-      2202.824556478465
+      1.9230353956630883,
+      1.971454682510234,
+      1982.5166854714696
     ],
-    "numDrills": 1,
-    "lastTime": 1625967470,
+    "numDrills": 2,
+    "lastTime": 1626088345,
     "lastResult": false
   },
   "alt for kort-[time]-far too short": {
     "priorParams": [
-      1.1471700788657915,
-      0.9999999999999908,
-      5643.452631192039
+      1.4116869408143529,
+      0.9999999999997919,
+      90342.97641543718
     ],
-    "numDrills": 1,
-    "lastTime": 1625967313,
+    "numDrills": 2,
+    "lastTime": 1626088375,
     "lastResult": true
   },
   "annenhver dag-[time]-every second day": {
     "priorParams": [
-      1.1479496886281795,
-      0.9999999999999911,
-      5659.655701256359
+      1.1977271584571232,
+      1.1840398986264324,
+      5855.441333383451
     ],
-    "numDrills": 1,
-    "lastTime": 1625967441,
-    "lastResult": true
+    "numDrills": 2,
+    "lastTime": 1626088438,
+    "lastResult": false
   },
   "av og til-[time]-now and then": {
     "priorParams": [
-      1.1787008349215162,
-      0.9999999999998811,
-      2745.395527114851
+      1.4269748272397176,
+      0.999999999999971,
+      87002.23551956285
     ],
-    "numDrills": 3,
-    "lastTime": 1625967434,
+    "numDrills": 4,
+    "lastTime": 1626088348,
     "lastResult": true
   },
   "en m\u00e5ned-[nouns]-a month": {
     "priorParams": [
-      1.14713608817437,
-      0.9999999999999936,
-      5642.748115702215
+      1.4116935356418234,
+      1.000000000000104,
+      90351.05480030528
     ],
-    "numDrills": 1,
-    "lastTime": 1625967302,
+    "numDrills": 2,
+    "lastTime": 1626088377,
     "lastResult": true
   },
   "m\u00e5neden-[nouns]-the month": {
     "priorParams": [
-      1.1505960921275487,
-      0.9999999999999997,
-      5715.298396190804
+      1.4113517666482018,
+      1.0000000000004208,
+      90507.55666917597
     ],
-    "numDrills": 1,
-    "lastTime": 1625967315,
+    "numDrills": 2,
+    "lastTime": 1626088477,
     "lastResult": true
   },
   "mange m\u00e5neder-[nouns]-many months": {
     "priorParams": [
-      1.14764511979104,
-      0.999999999999983,
-      5653.315548608952
+      1.1972679743878332,
+      1.1835948232386104,
+      5848.695202317096
     ],
-    "numDrills": 1,
-    "lastTime": 1625967296,
-    "lastResult": true
+    "numDrills": 2,
+    "lastTime": 1626088466,
+    "lastResult": false
   },
   "alle m\u00e5nedene-[nouns]-all the months": {
     "priorParams": [
-      1.1473399138041163,
-      0.9999999999999962,
-      5646.975165814828
+      1.4116643550807417,
+      1.0000000000001275,
+      90333.08770676648
     ],
-    "numDrills": 1,
-    "lastTime": 1625967323,
+    "numDrills": 2,
+    "lastTime": 1626088364,
     "lastResult": true
   },
   "akkurat n\u00e6-[time]-just now": {
@@ -3489,42 +3489,42 @@
   },
   "en ferie-[nouns]-a holiday": {
     "priorParams": [
-      1.172416698218973,
-      0.9999999999999872,
-      6215.366951928991
+      1.4088991577405652,
+      1.0000000000000593,
+      91230.80193059646
     ],
-    "numDrills": 1,
-    "lastTime": 1625967258,
+    "numDrills": 2,
+    "lastTime": 1626088506,
     "lastResult": true
   },
   "ferien-[nouns]-the holiday": {
     "priorParams": [
-      1.1725301547623712,
-      1.000000000000017,
-      6218.176965758085
+      1.2197238768150187,
+      1.2023834734141585,
+      6491.6965307035625
     ],
-    "numDrills": 1,
-    "lastTime": 1625967266,
-    "lastResult": true
+    "numDrills": 2,
+    "lastTime": 1626088593,
+    "lastResult": false
   },
   "mange ferier-[nouns]-many holidays": {
     "priorParams": [
-      1.1725585038794384,
-      0.9999999999999957,
-      6218.8794639023745
+      1.219740017246561,
+      1.2023938981818958,
+      6492.522869698741
     ],
-    "numDrills": 1,
-    "lastTime": 1625967255,
-    "lastResult": true
+    "numDrills": 2,
+    "lastTime": 1626088591,
+    "lastResult": false
   },
   "alle feriene-[nouns]-all the holidays": {
     "priorParams": [
-      1.1724734385095366,
-      1.0000000000000087,
-      6216.7719630953325
+      1.4088869122589853,
+      0.9999999999998516,
+      91218.10904888315
     ],
-    "numDrills": 1,
-    "lastTime": 1625967275,
+    "numDrills": 2,
+    "lastTime": 1626088502,
     "lastResult": true
   },
   "dagen etter-[time]-the following day": {
@@ -3547,12 +3547,12 @@
   },
   "en aften-[nouns]-an evening": {
     "priorParams": [
-      1.1622553387071928,
-      0.9999999999999886,
-      5972.869961364677
+      1.4100920287585768,
+      1.0000000000002218,
+      90904.70507295962
     ],
-    "numDrills": 1,
-    "lastTime": 1625967292,
+    "numDrills": 2,
+    "lastTime": 1626088534,
     "lastResult": true
   },
   "aftenen-[nouns]-the evening": {
@@ -3566,32 +3566,32 @@
   },
   "mange aftener-[nouns]-many evenings": {
     "priorParams": [
-      1.1579060109653663,
-      1.0000000000000042,
-      3129.7877078802235
+      1.1355183677563725,
+      1.1088674579494044,
+      3351.18700124151
     ],
-    "numDrills": 3,
-    "lastTime": 1625967481,
-    "lastResult": true
+    "numDrills": 4,
+    "lastTime": 1626088354,
+    "lastResult": false
   },
   "alle aftenene-[nouns]-all the evenings": {
     "priorParams": [
-      1.1633515707266897,
-      0.9999999999999952,
-      5998.1867696634
+      1.2112109297306095,
+      1.1951681066239292,
+      6242.003530007976
     ],
-    "numDrills": 1,
-    "lastTime": 1625967286,
-    "lastResult": true
+    "numDrills": 2,
+    "lastTime": 1626088529,
+    "lastResult": false
   },
   "dagen derp\u00e5-[time]-the morning after": {
     "priorParams": [
-      1.2662461389573274,
-      1.0000000000001894,
-      3281.3525523730236
+      1.4241173813548686,
+      1.0000000000002627,
+      87933.76279198723
     ],
-    "numDrills": 2,
-    "lastTime": 1625967263,
+    "numDrills": 3,
+    "lastTime": 1626088336,
     "lastResult": true
   },
   "daglig-[time]-daglig": {
@@ -3605,23 +3605,23 @@
   },
   "alt for tidlig-[time]-far too early": {
     "priorParams": [
-      1.1534895426703258,
-      1.0000000000001374,
-      3804.9759773630094
+      1.4211784207414506,
+      0.9999999999989563,
+      87977.69384550686
     ],
-    "numDrills": 3,
-    "lastTime": 1625967724,
+    "numDrills": 4,
+    "lastTime": 1626088367,
     "lastResult": true
   },
   "aftes-[time]-yesterday evening": {
     "priorParams": [
-      1.152666857401654,
-      1.0000000000003175,
-      3530.074603838704
+      1.1449920196124224,
+      1.1212922392697229,
+      3749.8628478549103
     ],
-    "numDrills": 3,
-    "lastTime": 1625967591,
-    "lastResult": true
+    "numDrills": 4,
+    "lastTime": 1626088332,
+    "lastResult": false
   },
   "dagen f\u00f8r-[time]-the day before": {
     "priorParams": [
@@ -3634,52 +3634,52 @@
   },
   "en arbeidsdag-[nouns]-a working day": {
     "priorParams": [
-      1.152344765302713,
-      0.9999999999999983,
-      5752.618660317849
+      1.411167881180271,
+      1.0000000000000504,
+      90563.28570426024
     ],
-    "numDrills": 1,
-    "lastTime": 1625967300,
+    "numDrills": 2,
+    "lastTime": 1626088471,
     "lastResult": true
   },
   "arbeidsdagen-[nouns]-the working day": {
     "priorParams": [
-      1.152311967377174,
-      0.9999999999999916,
-      5751.914574909959
+      1.4111677953938653,
+      1.0000000000001887,
+      90551.95308249297
     ],
-    "numDrills": 1,
-    "lastTime": 1625967289,
+    "numDrills": 2,
+    "lastTime": 1626088445,
     "lastResult": true
   },
   "mange arbeidsdager-[nouns]-many working days": {
     "priorParams": [
-      1.1528358370821084,
-      1.000000000000009,
-      5763.179618718656
+      1.2017963271719683,
+      1.1873204686410699,
+      5974.230862888906
     ],
-    "numDrills": 1,
-    "lastTime": 1625967309,
-    "lastResult": true
+    "numDrills": 2,
+    "lastTime": 1626088491,
+    "lastResult": false
   },
   "alle arbeidsdagene-[nouns]-all the working days": {
     "priorParams": [
-      1.1521478653395023,
-      0.999999999999989,
-      5748.39410742502
+      1.411191561453257,
+      1.000000000000086,
+      90565.30912670401
     ],
-    "numDrills": 1,
-    "lastTime": 1625967271,
+    "numDrills": 2,
+    "lastTime": 1626088453,
     "lastResult": true
   },
   "akkurat n\u00e5-[time]-just now": {
     "priorParams": [
-      1.1659356427999414,
-      1.0000000000000084,
-      6058.653445945094
+      1.409661215949835,
+      1.0000000000001272,
+      90998.46016093076
     ],
-    "numDrills": 1,
-    "lastTime": 1625967283,
+    "numDrills": 2,
+    "lastTime": 1626088496,
     "lastResult": true
   },
   "daglig-[time]-daily": {
@@ -3690,5 +3690,231 @@
     ],
     "numDrills": 0,
     "lastTime": 1625964424
+  },
+  "for fjorten dager siden-[time]-a fortnight ago": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088089
+  },
+  "hele dagen-[time]-all day": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088076
+  },
+  "for en liten stund siden-[time]-a little while ago": {
+    "priorParams": [
+      1.291755203426594,
+      1.3512489452399152,
+      52.45170587995704
+    ],
+    "numDrills": 1,
+    "lastTime": 1626088586,
+    "lastResult": false
+  },
+  "for noen dager siden-[time]-some days ago": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088102
+  },
+  "forrige uke-[time]-last week": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088106
+  },
+  "for to dager siden-[time]-two days ago": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088095
+  },
+  "for en uke siden-[time]-a week ago": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088296
+  },
+  "hele natten-[time]-all night": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088280
+  },
+  "for lenge siden-[time]-a long time ago": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088139
+  },
+  "en f\u00f8dselsdag-[nouns]-a birthday": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088255
+  },
+  "f\u00f8dselsdagen-[nouns]-the birthday": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088244
+  },
+  "mange f\u00f8dselsdager-[nouns]-many birthdays": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088253
+  },
+  "alle f\u00f8dselsdagene-[nouns]-all the birthdays": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088285
+  },
+  "f\u00f8rste juli-[time]-first of July": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088249
+  },
+  "for et \u00f8yeblikk siden-[time]-a moment ago": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088125
+  },
+  "for tidlig-[time]-too early": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088181
+  },
+  "for kort tid siden-[time]-a short while ago": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088148
+  },
+  "for noen f\u00e5 dager siden-[time]-a few days ago": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088198
+  },
+  "hele m\u00e5neden-[time]-all month": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088258
+  },
+  "for en m\u00e5ned siden-[time]-a month ago": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088263
+  },
+  "en fridag-[nouns]-a day off": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088277
+  },
+  "fridagen-[nouns]-the day off": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088289
+  },
+  "mange fridager-[nouns]-many days off": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088274
+  },
+  "alle fridagene-[nouns]-all the days off": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088316
+  },
+  "for sent-[time]-too late": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1626088142
   }
 }
