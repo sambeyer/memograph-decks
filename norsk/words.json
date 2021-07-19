@@ -685,5 +685,179 @@
             "english": "all night",
             "topic": "time"
         }
+    ],
+    "verbs":[
+        {
+            "english_past": "began",
+            "norsk_past": "begynte"
+        },
+        {
+            "english_past": "meant",
+            "norsk_past": "betydde",
+            "english_subject": "it"
+        },
+        {
+            "english_past": "lived",
+            "norsk_past": "bodde"
+        },
+        {
+            "english_past": "used",
+            "norsk_past": "brukte"
+        },
+        {
+            "english_past": "drank",
+            "norsk_past": "drakk"
+        },
+        {
+            "english_past": "found",
+            "norsk_past": "fant"
+        },
+        {
+            "english_past": "filled",
+            "norsk_past": "fylte"
+        },
+        {
+            "english_past": "gave",
+            "norsk_past": "gav"
+        },
+        {
+            "english_past": "did",
+            "norsk_past": "gjorde"
+        },
+        {
+            "english_past": "walked",
+            "norsk_past": "gikk"
+        },
+        {
+            "english_past": "had",
+            "norsk_past": "hadde"
+        },
+        {
+            "english_past": "was called",
+            "norsk_past": "het"
+        },
+        {
+            "english_past": "remembered",
+            "norsk_past": "husket"
+        },
+        {
+            "english_past": "bought",
+            "norsk_past": "kjøpte"
+        },
+        {
+            "english_past": "came",
+            "norsk_past": "kom"
+        },
+        {
+            "english_past": "cost",
+            "norsk_past": "kostet",
+            "english_subject": "it"
+        },
+        {
+            "english_past": "longed for",
+            "norsk_past": "lengtet etter"
+        },
+        {
+            "english_past": "read",
+            "norsk_past": "leste"
+        },
+        {
+            "english_past": "looked for",
+            "norsk_past": "lette etter"
+        },
+        {
+            "english_past": "learnt",
+            "norsk_past": "lærte"
+        },
+        {
+            "english_past": "tried",
+            "norsk_past": "prøvde"
+        },
+        {
+            "english_past": "put",
+            "norsk_past": "puttet"
+        },
+        {
+            "english_past": "rang",
+            "norsk_past": "ringte"
+        },
+        {
+            "english_past": "said",
+            "norsk_past": "sa"
+        },
+        {
+            "english_past": "sat",
+            "norsk_past": "satt"
+        },
+        {
+            "english_past": "wrote",
+            "norsk_past": "skrev"
+        },
+        {
+            "english_past": "spoke",
+            "norsk_past": "snakket"
+        },
+        {
+            "english_past": "slept",
+            "norsk_past": "sov"
+        },
+        {
+            "english_past": "ate",
+            "norsk_past": "spiste"
+        },
+        {
+            "english_past": "asked",
+            "norsk_past": "spurte"
+        },
+        {
+            "english_past": "stood",
+            "norsk_past": "stod"
+        },
+        {
+            "english_past": "sewed",
+            "norsk_past": "sydde"
+        },
+        {
+            "english_past": "bicycled",
+            "norsk_past": "syklet"
+        },
+        {
+            "english_past": "thought",
+            "norsk_past": "syntes",
+            "english_print_suffix": "(opinion)"
+        },
+        {
+            "english_past": "took",
+            "norsk_past": "tok"
+        },
+        {
+            "english_past": "thanked",
+            "norsk_past": "takket"
+        },
+        {
+            "english_past": "thought",
+            "norsk_past": "tenkte",
+            "english_print_suffix": "(literal)"
+        },
+        {
+            "english_past": "met",
+            "norsk_past": "traff"
+        },
+        {
+            "english_past": "washed",
+            "norsk_past": "vasket"
+        },
+        {
+            "english_past": "knew",
+            "norsk_past": "visste"
+        },
+        {
+            "english_past": "was",
+            "norsk_past": "var"
+        },
+        {
+            "english_past": "wished",
+            "norsk_past": "ønsket"
+        }
     ]
 }

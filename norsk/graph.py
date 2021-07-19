@@ -3,6 +3,7 @@ import random
 
 from expressions import Expression
 from nouns import Noun
+from verbs import Verb
 
 
 def graph():
@@ -11,7 +12,8 @@ def graph():
 
     word_type_dataclasses = {
         'nouns': Noun,
-        'expressions': Expression
+        'verbs': Verb,
+        'expressions': Expression,
     }
 
     words = [
