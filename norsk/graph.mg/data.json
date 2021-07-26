@@ -1292,13 +1292,13 @@
   },
   "mange onsdager-[nouns]-many Wednesdays": {
     "priorParams": [
-      1.5478313810318154,
-      1.6915491302655707,
-      128843.71015154602
+      2.0830192047266123,
+      1.7150342194162813,
+      668994.5207281576
     ],
-    "numDrills": 1,
-    "lastTime": 1625965356,
-    "lastResult": false
+    "numDrills": 2,
+    "lastTime": 1627291986,
+    "lastResult": true
   },
   "alle onsdagene-[nouns]-all the Wednesdays": {
     "priorParams": [
@@ -1458,12 +1458,12 @@
   },
   "alle br\u00f8drene-[nouns]-all the brothers": {
     "priorParams": [
-      2.0344922970616737,
-      2.1104607197802117,
-      109891.45029160644
+      2.5032560911836566,
+      2.553773426315056,
+      98885.46291094922
     ],
-    "numDrills": 2,
-    "lastTime": 1626695269,
+    "numDrills": 3,
+    "lastTime": 1627291981,
     "lastResult": false
   },
   "en krone-[nouns]-a crown": {
@@ -2249,12 +2249,12 @@
   },
   "verten-[nouns]-the host": {
     "priorParams": [
-      1.4158476099158601,
-      1.0031258159425558,
-      89796.46570841236
+      1.399326941397867,
+      1.003222637332295,
+      950369.4704427769
     ],
-    "numDrills": 6,
-    "lastTime": 1626088372,
+    "numDrills": 7,
+    "lastTime": 1627292066,
     "lastResult": true
   },
   "mange verter-[nouns]-many hosts": {
@@ -2608,12 +2608,12 @@
   },
   "br\u00f8det-[nouns]-the bread": {
     "priorParams": [
-      1.4288758597594242,
-      1.0321388011684585,
-      90843.75606064204
+      1.42873835314244,
+      1.0331410585243332,
+      926482.2816021352
     ],
-    "numDrills": 4,
-    "lastTime": 1626088603,
+    "numDrills": 5,
+    "lastTime": 1627292037,
     "lastResult": true
   },
   "mange br\u00f8d-[nouns]-many breads": {
@@ -3380,82 +3380,82 @@
   },
   "alt for sent-[time]-far too late": {
     "priorParams": [
-      2.2251193087304095,
-      2.1761317573008068,
-      51743.73468786071
+      2.5827577852112693,
+      2.2170847840250447,
+      244164.05581132416
     ],
-    "numDrills": 4,
-    "lastTime": 1626695313,
-    "lastResult": false
+    "numDrills": 5,
+    "lastTime": 1627291806,
+    "lastResult": true
   },
   "akkurat da-[time]-just then": {
     "priorParams": [
-      1.418734950846566,
-      0.9999999999992526,
-      88311.06890345734
+      1.3967853100694185,
+      0.9999999999991426,
+      951478.36279433
     ],
-    "numDrills": 4,
-    "lastTime": 1626088369,
+    "numDrills": 5,
+    "lastTime": 1627292090,
     "lastResult": true
   },
   "alt for lenge-[time]-far too long": {
     "priorParams": [
-      1.962788744570032,
-      1.9707357483110188,
-      1947.1807003088136
+      1.9862593211620765,
+      1.9866697731866894,
+      1935.799605232967
     ],
-    "numDrills": 3,
-    "lastTime": 1626695066,
+    "numDrills": 5,
+    "lastTime": 1627291678,
     "lastResult": false
   },
   "alt for kort-[time]-far too short": {
     "priorParams": [
-      1.4116869408143529,
-      0.9999999999997919,
-      90342.97641543718
+      1.395850286739949,
+      1.0000000000000524,
+      953729.0729864947
     ],
-    "numDrills": 2,
-    "lastTime": 1626088375,
+    "numDrills": 3,
+    "lastTime": 1627292102,
     "lastResult": true
   },
   "annenhver dag-[time]-every second day": {
     "priorParams": [
-      1.2112765920094632,
-      1.2110082550732322,
-      5859.326266550321
+      1.6305648151256846,
+      1.2177706771518466,
+      76785.32338307974
     ],
-    "numDrills": 3,
-    "lastTime": 1626695042,
-    "lastResult": false
+    "numDrills": 4,
+    "lastTime": 1626818581,
+    "lastResult": true
   },
   "av og til-[time]-now and then": {
     "priorParams": [
-      1.4269748272397176,
-      0.999999999999971,
-      87002.23551956285
+      1.3700923368265132,
+      1.309519583492915,
+      101429.15184942969
     ],
-    "numDrills": 4,
-    "lastTime": 1626088348,
-    "lastResult": true
+    "numDrills": 5,
+    "lastTime": 1627291971,
+    "lastResult": false
   },
   "en m\u00e5ned-[nouns]-a month": {
     "priorParams": [
-      1.4116935356418234,
-      1.000000000000104,
-      90351.05480030528
+      1.3958430771573276,
+      1.0000000000002032,
+      953665.9398068557
     ],
-    "numDrills": 2,
-    "lastTime": 1626088377,
+    "numDrills": 3,
+    "lastTime": 1627291997,
     "lastResult": true
   },
   "m\u00e5neden-[nouns]-the month": {
     "priorParams": [
-      1.4113517666482018,
-      1.0000000000004208,
-      90507.55666917597
+      1.3957714097149754,
+      1.000000000000479,
+      953842.434895468
     ],
-    "numDrills": 2,
-    "lastTime": 1626088477,
+    "numDrills": 3,
+    "lastTime": 1627292085,
     "lastResult": true
   },
   "mange m\u00e5neder-[nouns]-many months": {
@@ -3470,12 +3470,12 @@
   },
   "alle m\u00e5nedene-[nouns]-all the months": {
     "priorParams": [
-      1.4116643550807417,
-      1.0000000000001275,
-      90333.08770676648
+      1.3958543190236439,
+      1.0000000000002558,
+      953707.6913093003
     ],
-    "numDrills": 2,
-    "lastTime": 1626088364,
+    "numDrills": 3,
+    "lastTime": 1627292081,
     "lastResult": true
   },
   "akkurat n\u00e6-[time]-just now": {
@@ -3489,12 +3489,12 @@
   },
   "en ferie-[nouns]-a holiday": {
     "priorParams": [
-      1.4088991577405652,
-      1.0000000000000593,
-      91230.80193059646
+      1.3954372063733074,
+      1.0000000000000473,
+      954588.9947008071
     ],
-    "numDrills": 2,
-    "lastTime": 1626088506,
+    "numDrills": 3,
+    "lastTime": 1627292040,
     "lastResult": true
   },
   "ferien-[nouns]-the holiday": {
@@ -3519,12 +3519,12 @@
   },
   "alle feriene-[nouns]-all the holidays": {
     "priorParams": [
-      1.4088869122589853,
-      0.9999999999998516,
-      91218.10904888315
+      1.395442716673289,
+      0.9999999999998709,
+      954568.7430120114
     ],
-    "numDrills": 2,
-    "lastTime": 1626088502,
+    "numDrills": 3,
+    "lastTime": 1627292032,
     "lastResult": true
   },
   "dagen etter-[time]-the following day": {
@@ -3538,21 +3538,22 @@
   },
   "fjorten dager-[time]-fortnight": {
     "priorParams": [
-      1,
-      1,
-      172800
+      1.3655361283747132,
+      1.0000000000000298,
+      1099439.2376765313
     ],
-    "numDrills": 0,
-    "lastTime": 1625963467
+    "numDrills": 1,
+    "lastTime": 1627291991,
+    "lastResult": true
   },
   "en aften-[nouns]-an evening": {
     "priorParams": [
-      1.4100920287585768,
-      1.0000000000002218,
-      90904.70507295962
+      1.3955866017271792,
+      1.0000000000002196,
+      954227.4183141667
     ],
-    "numDrills": 2,
-    "lastTime": 1626088534,
+    "numDrills": 3,
+    "lastTime": 1627292057,
     "lastResult": true
   },
   "aftenen-[nouns]-the evening": {
@@ -3566,12 +3567,12 @@
   },
   "mange aftener-[nouns]-many evenings": {
     "priorParams": [
-      1.1308465891868662,
-      1.1261495211532064,
-      3391.1491539508943
+      1.229156323862436,
+      1.233557139476328,
+      3270.9631359276464
     ],
-    "numDrills": 5,
-    "lastTime": 1626695072,
+    "numDrills": 7,
+    "lastTime": 1627291669,
     "lastResult": false
   },
   "alle aftenene-[nouns]-all the evenings": {
@@ -3586,13 +3587,13 @@
   },
   "dagen derp\u00e5-[time]-the morning after": {
     "priorParams": [
-      1.4241173813548686,
-      1.0000000000002627,
-      87933.76279198723
+      1.3713323662615318,
+      1.3116338930029554,
+      102268.86719548183
     ],
-    "numDrills": 3,
-    "lastTime": 1626088336,
-    "lastResult": true
+    "numDrills": 4,
+    "lastTime": 1627292011,
+    "lastResult": false
   },
   "daglig-[time]-daglig": {
     "priorParams": [
@@ -3605,12 +3606,12 @@
   },
   "alt for tidlig-[time]-far too early": {
     "priorParams": [
-      1.4211784207414506,
-      0.9999999999989563,
-      87977.69384550686
+      1.3969431564068182,
+      0.9999999999989708,
+      951192.605014815
     ],
-    "numDrills": 4,
-    "lastTime": 1626088367,
+    "numDrills": 5,
+    "lastTime": 1627292097,
     "lastResult": true
   },
   "aftes-[time]-yesterday evening": {
@@ -3634,22 +3635,22 @@
   },
   "en arbeidsdag-[nouns]-a working day": {
     "priorParams": [
-      1.411167881180271,
-      1.0000000000000504,
-      90563.28570426024
+      1.395743757242785,
+      1.0000000000000562,
+      953861.3324196576
     ],
-    "numDrills": 2,
-    "lastTime": 1626088471,
+    "numDrills": 3,
+    "lastTime": 1627292017,
     "lastResult": true
   },
   "arbeidsdagen-[nouns]-the working day": {
     "priorParams": [
-      1.4111677953938653,
-      1.0000000000001887,
-      90551.95308249297
+      1.3957498865360725,
+      1.0000000000005023,
+      953867.8905463227
     ],
-    "numDrills": 2,
-    "lastTime": 1626088445,
+    "numDrills": 3,
+    "lastTime": 1627292022,
     "lastResult": true
   },
   "mange arbeidsdager-[nouns]-many working days": {
@@ -3664,22 +3665,22 @@
   },
   "alle arbeidsdagene-[nouns]-all the working days": {
     "priorParams": [
-      1.411191561453257,
-      1.000000000000086,
-      90565.30912670401
+      1.3957447108446701,
+      1.0000000000002254,
+      953902.2355989711
     ],
-    "numDrills": 2,
-    "lastTime": 1626088453,
+    "numDrills": 3,
+    "lastTime": 1627292052,
     "lastResult": true
   },
   "akkurat n\u00e5-[time]-just now": {
     "priorParams": [
-      1.409661215949835,
-      1.0000000000001272,
-      90998.46016093076
+      1.3955447521894244,
+      1.0000000000000442,
+      954354.2031958423
     ],
-    "numDrills": 2,
-    "lastTime": 1626088496,
+    "numDrills": 3,
+    "lastTime": 1627292063,
     "lastResult": true
   },
   "daglig-[time]-daily": {
@@ -3773,22 +3774,22 @@
   },
   "for lenge siden-[time]-a long time ago": {
     "priorParams": [
-      1.0200454665262422,
-      1.0233438319103263,
-      3569.7273459629314
+      1.1428495330467963,
+      1.1496396080979638,
+      3373.3820891021182
     ],
-    "numDrills": 1,
-    "lastTime": 1626695178,
+    "numDrills": 3,
+    "lastTime": 1627291687,
     "lastResult": false
   },
   "en f\u00f8dselsdag-[nouns]-a birthday": {
     "priorParams": [
-      1.020051076721773,
-      1.0233503802154418,
-      3569.7188641151724
+      1.142737842821988,
+      1.1495238865030684,
+      3373.557420151632
     ],
-    "numDrills": 1,
-    "lastTime": 1626695121,
+    "numDrills": 3,
+    "lastTime": 1627291876,
     "lastResult": false
   },
   "f\u00f8dselsdagen-[nouns]-the birthday": {
@@ -3843,32 +3844,32 @@
   },
   "for tidlig-[time]-too early": {
     "priorParams": [
-      1.0200454341064915,
-      1.0233437940695227,
-      3569.7273949771347
+      1.5743280077222463,
+      1.132409550900059,
+      294647.9766267769
     ],
-    "numDrills": 1,
-    "lastTime": 1626695221,
-    "lastResult": false
+    "numDrills": 3,
+    "lastTime": 1627291715,
+    "lastResult": true
   },
   "for kort tid siden-[time]-a short while ago": {
     "priorParams": [
-      1.0200454341064915,
-      1.0233437940695227,
-      3569.7273949771347
+      1.4472731973369501,
+      1.0240591252475395,
+      86751.87722352547
     ],
-    "numDrills": 1,
-    "lastTime": 1626695188,
-    "lastResult": false
+    "numDrills": 2,
+    "lastTime": 1626817807,
+    "lastResult": true
   },
   "for noen f\u00e5 dager siden-[time]-a few days ago": {
     "priorParams": [
-      1.020048319874977,
-      1.0233471623810966,
-      3569.7230320908843
+      1.1427996566304692,
+      1.1495882806013427,
+      3373.4616644912116
     ],
-    "numDrills": 1,
-    "lastTime": 1626695149,
+    "numDrills": 3,
+    "lastTime": 1627291699,
     "lastResult": false
   },
   "hele m\u00e5neden-[time]-all month": {
@@ -3923,13 +3924,13 @@
   },
   "alle fridagene-[nouns]-all the days off": {
     "priorParams": [
-      1.0200495198209694,
-      1.0233485629764327,
-      3569.721217936602
+      1.4472739622003743,
+      1.024064043186432,
+      86733.19293679515
     ],
-    "numDrills": 1,
-    "lastTime": 1626695230,
-    "lastResult": false
+    "numDrills": 2,
+    "lastTime": 1626817822,
+    "lastResult": true
   },
   "for sent-[time]-too late": {
     "priorParams": [
@@ -3943,380 +3944,422 @@
   },
   "jeg takket-[verbs]-I thanked ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4225558876721185,
+      0.9999999999995381,
+      88960.30103044398
     ],
-    "numDrills": 0,
-    "lastTime": 1626694818
+    "numDrills": 1,
+    "lastTime": 1626817769,
+    "lastResult": true
   },
   "jeg leste-[verbs]-I read ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226018586550586,
+      0.9999999999993732,
+      89164.79282533571
     ],
-    "numDrills": 0,
-    "lastTime": 1626694811
+    "numDrills": 1,
+    "lastTime": 1626818057,
+    "lastResult": true
   },
   "jeg gav-[verbs]-I gave ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226307360223773,
+      0.9999999999999576,
+      89293.7266034177
     ],
-    "numDrills": 0,
-    "lastTime": 1626694849
+    "numDrills": 1,
+    "lastTime": 1626818281,
+    "lastResult": true
   },
   "jeg \u00f8nsket-[verbs]-I wished ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.552929794968433,
+      1.1116828904342952,
+      300056.4912426586
     ],
-    "numDrills": 0,
-    "lastTime": 1626694809
+    "numDrills": 2,
+    "lastTime": 1627291884,
+    "lastResult": true
   },
   "jeg tenkte-[verbs]-I thought (literal)": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.5526284288837044,
+      1.1113947151104298,
+      299934.6541163166
     ],
-    "numDrills": 0,
-    "lastTime": 1626694829
+    "numDrills": 2,
+    "lastTime": 1627291933,
+    "lastResult": true
   },
   "jeg pr\u00f8vde-[verbs]-I tried ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.552600144199814,
+      1.1113688218775952,
+      299860.7120810821
     ],
-    "numDrills": 0,
-    "lastTime": 1626694847
+    "numDrills": 2,
+    "lastTime": 1627291853,
+    "lastResult": true
   },
   "jeg spurte-[verbs]-I asked ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.5524766978613553,
+      1.1112528593363509,
+      299698.2686551819
     ],
-    "numDrills": 0,
-    "lastTime": 1626694988
+    "numDrills": 2,
+    "lastTime": 1627291825,
+    "lastResult": true
   },
   "jeg snakket-[verbs]-I spoke ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226474654671282,
+      1.00000000000005,
+      89368.59136655735
     ],
-    "numDrills": 0,
-    "lastTime": 1626695021
+    "numDrills": 1,
+    "lastTime": 1626818561,
+    "lastResult": true
   },
   "jeg l\u00e6rte-[verbs]-I learnt ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.1232973167236266,
+      1.1303263268203911,
+      3400.3521290446392
     ],
-    "numDrills": 0,
-    "lastTime": 1626694924
+    "numDrills": 2,
+    "lastTime": 1627291892,
+    "lastResult": false
   },
   "jeg fant-[verbs]-I found ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.5526322092801919,
+      1.1113997324725036,
+      299860.15669928124
     ],
-    "numDrills": 0,
-    "lastTime": 1626694937
+    "numDrills": 2,
+    "lastTime": 1627291918,
+    "lastResult": true
   },
   "jeg brukte-[verbs]-I used ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226353858884788,
+      0.9999999999994629,
+      89314.52237185599
     ],
-    "numDrills": 0,
-    "lastTime": 1626694926
+    "numDrills": 1,
+    "lastTime": 1626818388,
+    "lastResult": true
   },
   "jeg syklet-[verbs]-I bicycled ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.422654891822193,
+      0.9999999999995789,
+      89401.8645920802
     ],
-    "numDrills": 0,
-    "lastTime": 1626694976
+    "numDrills": 1,
+    "lastTime": 1626818564,
+    "lastResult": true
   },
   "jeg puttet-[verbs]-I put ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.123238559941095,
+      1.130266816661955,
+      3400.451934387048
     ],
-    "numDrills": 0,
-    "lastTime": 1626694961
+    "numDrills": 2,
+    "lastTime": 1627291820,
+    "lastResult": false
   },
   "jeg stod-[verbs]-I stood ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.422608075855779,
+      0.9999999999995756,
+      89192.52052158737
     ],
-    "numDrills": 0,
-    "lastTime": 1626694883
+    "numDrills": 1,
+    "lastTime": 1626818169,
+    "lastResult": true
   },
   "jeg syntes-[verbs]-I thought (opinion)": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226404982570136,
+      0.999999999999871,
+      89337.39771621594
     ],
-    "numDrills": 0,
-    "lastTime": 1626694898
+    "numDrills": 1,
+    "lastTime": 1626818393,
+    "lastResult": true
   },
   "jeg husket-[verbs]-I remembered ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226581391234108,
+      1.0000000000009144,
+      89416.42162783077
     ],
-    "numDrills": 0,
-    "lastTime": 1626695002
+    "numDrills": 1,
+    "lastTime": 1626818611,
+    "lastResult": true
   },
   "jeg kom-[verbs]-I came ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226496320562159,
+      1.0000000000009848,
+      89378.29605759085
     ],
-    "numDrills": 0,
-    "lastTime": 1626694955
+    "numDrills": 1,
+    "lastTime": 1626818509,
+    "lastResult": true
   },
   "jeg vasket-[verbs]-I washed ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.422598126486917,
+      0.9999999999993255,
+      89148.15620705014
     ],
-    "numDrills": 0,
-    "lastTime": 1626694939
+    "numDrills": 1,
+    "lastTime": 1626818161,
+    "lastResult": true
   },
   "jeg bodde-[verbs]-I lived ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226290305340739,
+      1.0000000000003617,
+      89286.10148800148
     ],
-    "numDrills": 0,
-    "lastTime": 1626695023
+    "numDrills": 1,
+    "lastTime": 1626818444,
+    "lastResult": true
   },
   "jeg ringte-[verbs]-I rang ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.552475622408637,
+      1.1112503551105317,
+      299777.7502054174
     ],
-    "numDrills": 0,
-    "lastTime": 1626694958
+    "numDrills": 2,
+    "lastTime": 1627291924,
+    "lastResult": true
   },
   "jeg kj\u00f8pte-[verbs]-I bought ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226456080166818,
+      0.9999999999991858,
+      89360.27305993318
     ],
-    "numDrills": 0,
-    "lastTime": 1626694968
+    "numDrills": 1,
+    "lastTime": 1626818496,
+    "lastResult": true
   },
   "jeg gikk-[verbs]-I walked ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.422621429816724,
+      0.9999999999993996,
+      89252.13506469235
     ],
-    "numDrills": 0,
-    "lastTime": 1626694893
+    "numDrills": 1,
+    "lastTime": 1626818265,
+    "lastResult": true
   },
   "jeg traff-[verbs]-I met ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.5525509557116626,
+      1.1113220726354782,
+      299825.3612673553
     ],
-    "numDrills": 0,
-    "lastTime": 1626694878
+    "numDrills": 2,
+    "lastTime": 1627291864,
+    "lastResult": true
   },
   "jeg lengtet etter-[verbs]-I longed for ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.422652726369191,
+      0.999999999999399,
+      89392.15990151581
     ],
-    "numDrills": 0,
-    "lastTime": 1626694998
+    "numDrills": 1,
+    "lastTime": 1626818572,
+    "lastResult": true
   },
   "jeg skrev-[verbs]-I wrote ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.5525911613254915,
+      1.1113604714253433,
+      299844.1231378453
     ],
-    "numDrills": 0,
-    "lastTime": 1626694942
+    "numDrills": 2,
+    "lastTime": 1627291928,
+    "lastResult": true
   },
   "jeg satt-[verbs]-I sat ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.422604501438233,
+      1.0000000000003135,
+      89176.57709628873
     ],
-    "numDrills": 0,
-    "lastTime": 1626694901
+    "numDrills": 1,
+    "lastTime": 1626818164,
+    "lastResult": true
   },
   "jeg gjorde-[verbs]-I did ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.5525491873328026,
+      1.1113229139371956,
+      299687.51322051726
     ],
-    "numDrills": 0,
-    "lastTime": 1626695027
+    "numDrills": 2,
+    "lastTime": 1627291792,
+    "lastResult": true
   },
   "jeg tok-[verbs]-I took ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4225964154516917,
+      1.0000000000011764,
+      89140.53109005494
     ],
-    "numDrills": 0,
-    "lastTime": 1626694947
+    "numDrills": 1,
+    "lastTime": 1626818158,
+    "lastResult": true
   },
   "jeg drakk-[verbs]-I drank ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226572114299512,
+      0.9999999999998433,
+      89412.26247475613
     ],
-    "numDrills": 0,
-    "lastTime": 1626694964
+    "numDrills": 1,
+    "lastTime": 1626818567,
+    "lastResult": true
   },
   "jeg het-[verbs]-I was called ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226316661693341,
+      0.9999999999997017,
+      89297.88575705233
     ],
-    "numDrills": 0,
-    "lastTime": 1626695009
+    "numDrills": 1,
+    "lastTime": 1626818447,
+    "lastResult": true
   },
   "jeg sov-[verbs]-I slept ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.5524541918910981,
+      1.111231193839716,
+      299697.03507564013
     ],
-    "numDrills": 0,
-    "lastTime": 1626694960
+    "numDrills": 2,
+    "lastTime": 1627291812,
+    "lastResult": true
   },
   "jeg var-[verbs]-I was ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.422641892085683,
+      0.9999999999995033,
+      89343.6364464088
     ],
-    "numDrills": 0,
-    "lastTime": 1626694970
+    "numDrills": 1,
+    "lastTime": 1626818474,
+    "lastResult": true
   },
   "jeg sa-[verbs]-I said ": {
     "priorParams": [
-      1,
-      1,
-      60
+      1.4438779315555037,
+      1.0020751245823278,
+      328194.51436414925
     ],
-    "numDrills": 0,
-    "lastTime": 1626694994
+    "numDrills": 3,
+    "lastTime": 1627291705,
+    "lastResult": true
   },
   "jeg sydde-[verbs]-I sewed ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.552663419915114,
+      1.11143066247509,
+      299813.93290353596
     ],
-    "numDrills": 0,
-    "lastTime": 1626694932
+    "numDrills": 2,
+    "lastTime": 1627291815,
+    "lastResult": true
   },
   "jeg visste-[verbs]-I knew ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.552511352048836,
+      1.1112853711212936,
+      299746.0973936094
     ],
-    "numDrills": 0,
-    "lastTime": 1626694921
+    "numDrills": 2,
+    "lastTime": 1627291809,
+    "lastResult": true
   },
   "jeg fylte-[verbs]-I filled ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.123388589213731,
+      1.1304193508447762,
+      3400.199069010424
     ],
-    "numDrills": 0,
-    "lastTime": 1626694904
+    "numDrills": 2,
+    "lastTime": 1627291938,
+    "lastResult": false
   },
   "det kostet-[verbs]-it cost ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.5524331646292022,
+      1.111210368019323,
+      299727.4905031142
     ],
-    "numDrills": 0,
-    "lastTime": 1626694980
+    "numDrills": 2,
+    "lastTime": 1627291897,
+    "lastResult": true
   },
   "jeg hadde-[verbs]-I had ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226415823620508,
+      0.9999999999998478,
+      89342.25006199509
     ],
-    "numDrills": 0,
-    "lastTime": 1626694881
+    "numDrills": 1,
+    "lastTime": 1626818383,
+    "lastResult": true
   },
   "jeg begynte-[verbs]-I began ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.123446945324867,
+      1.1304794211023057,
+      3400.1032351762883
     ],
-    "numDrills": 0,
-    "lastTime": 1626694945
+    "numDrills": 2,
+    "lastTime": 1627291915,
+    "lastResult": false
   },
   "det betydde-[verbs]-it meant ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.5523974204835076,
+      1.1111770683657087,
+      299665.473228352
     ],
-    "numDrills": 0,
-    "lastTime": 1626695016
+    "numDrills": 2,
+    "lastTime": 1627291860,
+    "lastResult": true
   },
   "jeg spiste-[verbs]-I ate ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.4226380198609143,
+      0.9999999999999787,
+      89326.30664012139
     ],
-    "numDrills": 0,
-    "lastTime": 1626694972
+    "numDrills": 1,
+    "lastTime": 1626818451,
+    "lastResult": true
   },
   "jeg lette etter-[verbs]-I looked for ": {
     "priorParams": [
-      1,
-      1,
-      3600
+      1.422617239209517,
+      1.0000000000004408,
+      89233.41887140306
     ],
-    "numDrills": 0,
-    "lastTime": 1626694953
+    "numDrills": 1,
+    "lastTime": 1626818298,
+    "lastResult": true
   }
 }
