@@ -1021,3 +1021,45 @@
 {"id": "akkurat da-[time]-just then", "time": 1627292090, "event": "DRILL", "data": {"got": true}}
 {"id": "alt for tidlig-[time]-far too early", "time": 1627292097, "event": "DRILL", "data": {"got": true}}
 {"id": "alt for kort-[time]-far too short", "time": 1627292102, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har takket-[]-I have thanked ", "time": 1632719733, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har puttet-[]-I have put ", "time": 1632719739, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har ringt-[]-I have rung ", "time": 1632719743, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "det har betydde-[]-it has meant ", "time": 1632719749, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har hett-[]-I have been called ", "time": 1632719756, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "det har kostet-[]-it has cost ", "time": 1632719762, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har pr\u00f8vd-[]-I have tried ", "time": 1632719790, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har l\u00e6rt-[]-I have learnt ", "time": 1632719793, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har tenkt-[]-I have thought (literal)", "time": 1632719797, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg hadde gitt-[]-I had given ", "time": 1632719802, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har sovet-[]-I have slept ", "time": 1632719805, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har \u00f8nsket-[]-I have wished ", "time": 1632719808, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har lengtet etter-[]-I have longed for ", "time": 1632719813, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har syntes-[]-I have thought (opinion)", "time": 1632719816, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har tatt-[]-I have taken ", "time": 1632719819, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har hatt-[]-I have had ", "time": 1632719829, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "jeg har husket-[]-I have remembered ", "time": 1632719836, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har gjort-[]-I have done ", "time": 1632719839, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg hadde kj\u00f8pt-[]-I had bought ", "time": 1632719843, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg hadde g\u00e5tt-[]-I had walked ", "time": 1632719853, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg hadde vasket-[]-I had washed ", "time": 1632719857, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg hadde sagt-[]-I had said ", "time": 1632719872, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har dukket-[]-I have drunk ", "time": 1632719895, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har syklet-[]-I have bicycled ", "time": 1632719899, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har fyllt-[]-I have filled ", "time": 1632719902, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har lett etter-[]-I have looked for ", "time": 1632719907, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har begynt-[]-I have begun ", "time": 1632719911, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg hadde lest-[]-I had read ", "time": 1632719915, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har st\u00e5tt-[]-I have stood ", "time": 1632719918, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har sydd-[]-I have sewn ", "time": 1632719922, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har truffet-[]-I have met ", "time": 1632719924, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg hadde brukt-[]-I had used ", "time": 1632719928, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har visst-[]-I have known ", "time": 1632719933, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har bodd-[]-I have lived ", "time": 1632719936, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har skrevet-[]-I have written ", "time": 1632719940, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg hadde v\u00e6rt-[]-I had been ", "time": 1632719943, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har funnet-[]-I have found ", "time": 1632719958, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "jeg har kommet-[]-I have come ", "time": 1632719961, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har spurt-[]-I have asked ", "time": 1632719964, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har snakket-[]-I have spoken ", "time": 1632719969, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg hadde spist-[]-I had eaten ", "time": 1632719972, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har sittet-[]-I have sat ", "time": 1632719977, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}

@@ -4361,5 +4361,383 @@
     "numDrills": 1,
     "lastTime": 1626818298,
     "lastResult": true
+  },
+  "jeg har funnet-[]-I have found ": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719958
+  },
+  "jeg har hatt-[]-I have had ": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719829
+  },
+  "jeg har fyllt-[]-I have filled ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719902
+  },
+  "jeg hadde vasket-[]-I had washed ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719857
+  },
+  "jeg har kommet-[]-I have come ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719961
+  },
+  "jeg hadde gitt-[]-I had given ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719802
+  },
+  "jeg har gjort-[]-I have done ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719839
+  },
+  "jeg har spurt-[]-I have asked ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719964
+  },
+  "jeg har st\u00e5tt-[]-I have stood ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719918
+  },
+  "jeg har bodd-[]-I have lived ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719936
+  },
+  "jeg har dukket-[]-I have drunk ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719895
+  },
+  "jeg har lengtet etter-[]-I have longed for ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719813
+  },
+  "jeg har hett-[]-I have been called ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719756
+  },
+  "jeg hadde g\u00e5tt-[]-I had walked ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719853
+  },
+  "jeg har skrevet-[]-I have written ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719940
+  },
+  "jeg har puttet-[]-I have put ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719739
+  },
+  "jeg har tatt-[]-I have taken ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719819
+  },
+  "det har betydde-[]-it has meant ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719749
+  },
+  "jeg har visst-[]-I have known ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719933
+  },
+  "jeg har l\u00e6rt-[]-I have learnt ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719793
+  },
+  "jeg har snakket-[]-I have spoken ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719969
+  },
+  "jeg har sittet-[]-I have sat ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719977
+  },
+  "det har kostet-[]-it has cost ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719762
+  },
+  "jeg har syntes-[]-I have thought (opinion)": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719816
+  },
+  "jeg hadde brukt-[]-I had used ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719928
+  },
+  "jeg har begynt-[]-I have begun ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719911
+  },
+  "jeg hadde kj\u00f8pt-[]-I had bought ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719843
+  },
+  "jeg hadde sagt-[]-I had said ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719872
+  },
+  "jeg har takket-[]-I have thanked ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719733
+  },
+  "jeg har pr\u00f8vd-[]-I have tried ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719790
+  },
+  "jeg har tenkt-[]-I have thought (literal)": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719797
+  },
+  "jeg hadde lest-[]-I had read ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719915
+  },
+  "jeg hadde spist-[]-I had eaten ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719972
+  },
+  "jeg har sydd-[]-I have sewn ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719922
+  },
+  "jeg har ringt-[]-I have rung ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719743
+  },
+  "jeg har husket-[]-I have remembered ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719836
+  },
+  "jeg har lett etter-[]-I have looked for ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719907
+  },
+  "jeg hadde v\u00e6rt-[]-I had been ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719943
+  },
+  "jeg har sovet-[]-I have slept ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719805
+  },
+  "jeg har \u00f8nsket-[]-I have wished ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719808
+  },
+  "jeg har truffet-[]-I have met ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719924
+  },
+  "jeg har syklet-[]-I have bicycled ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1632719899
   }
 }

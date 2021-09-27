@@ -689,175 +689,259 @@
     "verbs":[
         {
             "english_past": "began",
-            "norsk_past": "begynte"
+            "norsk_past": "begynte",
+            "english_past_participle": "have begun",
+            "norsk_past_participle": "har begynt"
         },
         {
             "english_past": "meant",
             "norsk_past": "betydde",
+            "english_past_participle": "has meant",
+            "norsk_past_participle": "har betydde",
             "english_subject": "it"
         },
         {
             "english_past": "lived",
-            "norsk_past": "bodde"
+            "norsk_past": "bodde",
+            "english_past_participle": "have lived",
+            "norsk_past_participle": "har bodd"
         },
         {
             "english_past": "used",
-            "norsk_past": "brukte"
+            "norsk_past": "brukte",
+            "english_past_participle": "had used",
+            "norsk_past_participle": "hadde brukt"
         },
         {
             "english_past": "drank",
-            "norsk_past": "drakk"
+            "norsk_past": "drakk",
+            "english_past_participle": "have drunk",
+            "norsk_past_participle": "har drukket"
         },
         {
             "english_past": "found",
-            "norsk_past": "fant"
+            "norsk_past": "fant",
+            "english_past_participle": "have found",
+            "norsk_past_participle": "har funnet"
         },
         {
             "english_past": "filled",
-            "norsk_past": "fylte"
+            "norsk_past": "fylte",
+            "english_past_participle": "have filled",
+            "norsk_past_participle": "har fyllt"
         },
         {
             "english_past": "gave",
-            "norsk_past": "gav"
+            "norsk_past": "gav",
+            "english_past_participle": "had given",
+            "norsk_past_participle": "hadde gitt"
         },
         {
             "english_past": "did",
-            "norsk_past": "gjorde"
+            "norsk_past": "gjorde",
+            "english_past_participle": "have done",
+            "norsk_past_participle": "har gjort"
         },
         {
             "english_past": "walked",
-            "norsk_past": "gikk"
+            "norsk_past": "gikk",
+            "english_past_participle": "had walked",
+            "norsk_past_participle": "hadde gått"
         },
         {
             "english_past": "had",
-            "norsk_past": "hadde"
+            "norsk_past": "hadde",
+            "english_past_participle": "have had",
+            "norsk_past_participle": "har hatt"
         },
         {
             "english_past": "was called",
-            "norsk_past": "het"
+            "norsk_past": "het",
+            "english_past_participle": "have been called",
+            "norsk_past_participle": "har hett"
         },
         {
             "english_past": "remembered",
-            "norsk_past": "husket"
+            "norsk_past": "husket",
+            "english_past_participle": "have remembered",
+            "norsk_past_participle": "har husket"
         },
         {
             "english_past": "bought",
-            "norsk_past": "kjøpte"
+            "norsk_past": "kjøpte",
+            "english_past_participle": "had bought",
+            "norsk_past_participle": "hadde kjøpt"
         },
         {
             "english_past": "came",
-            "norsk_past": "kom"
+            "norsk_past": "kom",
+            "english_past_participle": "have come",
+            "norsk_past_participle": "har kommet"
         },
         {
             "english_past": "cost",
             "norsk_past": "kostet",
+            "english_past_participle": "has cost",
+            "norsk_past_participle": "har kostet",
             "english_subject": "it"
         },
         {
             "english_past": "longed for",
-            "norsk_past": "lengtet etter"
+            "norsk_past": "lengtet etter",
+            "english_past_participle": "have longed for",
+            "norsk_past_participle": "har lengtet etter"
         },
         {
             "english_past": "read",
-            "norsk_past": "leste"
+            "norsk_past": "leste",
+            "english_past_participle": "had read",
+            "norsk_past_participle": "hadde lest"
         },
         {
             "english_past": "looked for",
-            "norsk_past": "lette etter"
+            "norsk_past": "lette etter",
+            "english_past_participle": "have looked for",
+            "norsk_past_participle": "har lett etter"
         },
         {
             "english_past": "learnt",
-            "norsk_past": "lærte"
+            "norsk_past": "lærte",
+            "english_past_participle": "have learnt",
+            "norsk_past_participle": "har lært"
         },
         {
             "english_past": "tried",
-            "norsk_past": "prøvde"
+            "norsk_past": "prøvde",
+            "english_past_participle": "have tried",
+            "norsk_past_participle": "har prøvd"
         },
         {
             "english_past": "put",
-            "norsk_past": "puttet"
+            "norsk_past": "puttet",
+            "english_past_participle": "have put",
+            "norsk_past_participle": "har puttet"
         },
         {
             "english_past": "rang",
-            "norsk_past": "ringte"
+            "norsk_past": "ringte",
+            "english_past_participle": "have rung",
+            "norsk_past_participle": "har ringt"
         },
         {
             "english_past": "said",
-            "norsk_past": "sa"
+            "norsk_past": "sa",
+            "english_past_participle": "had said",
+            "norsk_past_participle": "hadde sagt"
         },
         {
             "english_past": "sat",
-            "norsk_past": "satt"
+            "norsk_past": "satt",
+            "english_past_participle": "have sat",
+            "norsk_past_participle": "har sittet"
         },
         {
             "english_past": "wrote",
-            "norsk_past": "skrev"
+            "norsk_past": "skrev",
+            "english_past_participle": "have written",
+            "norsk_past_participle": "har skrevet"
         },
         {
             "english_past": "spoke",
-            "norsk_past": "snakket"
+            "norsk_past": "snakket",
+            "english_past_participle": "have spoken",
+            "norsk_past_participle": "har snakket"
         },
         {
             "english_past": "slept",
-            "norsk_past": "sov"
+            "norsk_past": "sov",
+            "english_past_participle": "have slept",
+            "norsk_past_participle": "har sovet"
         },
         {
             "english_past": "ate",
-            "norsk_past": "spiste"
+            "norsk_past": "spiste",
+            "english_past_participle": "had eaten",
+            "norsk_past_participle": "hadde spist"
         },
         {
             "english_past": "asked",
-            "norsk_past": "spurte"
+            "norsk_past": "spurte",
+            "english_past_participle": "have asked",
+            "norsk_past_participle": "har spurt"
         },
         {
             "english_past": "stood",
-            "norsk_past": "stod"
+            "norsk_past": "stod",
+            "english_past_participle": "have stood",
+            "norsk_past_participle": "har stått"
         },
         {
             "english_past": "sewed",
-            "norsk_past": "sydde"
+            "norsk_past": "sydde",
+            "english_past_participle": "have sewn",
+            "norsk_past_participle": "har sydd"
         },
         {
             "english_past": "bicycled",
-            "norsk_past": "syklet"
+            "norsk_past": "syklet",
+            "english_past_participle": "have bicycled",
+            "norsk_past_participle": "har syklet"
         },
         {
             "english_past": "thought",
             "norsk_past": "syntes",
+            "english_past_participle": "have thought",
+            "norsk_past_participle": "har syntes",
             "english_print_suffix": "(opinion)"
         },
         {
             "english_past": "took",
-            "norsk_past": "tok"
+            "norsk_past": "tok",
+            "english_past_participle": "have taken",
+            "norsk_past_participle": "har tatt"
         },
         {
             "english_past": "thanked",
-            "norsk_past": "takket"
+            "norsk_past": "takket",
+            "english_past_participle": "have thanked",
+            "norsk_past_participle": "har takket"
         },
         {
             "english_past": "thought",
             "norsk_past": "tenkte",
+            "english_past_participle": "have thought",
+            "norsk_past_participle": "har tenkt",
             "english_print_suffix": "(literal)"
         },
         {
             "english_past": "met",
-            "norsk_past": "traff"
+            "norsk_past": "traff",
+            "english_past_participle": "have met",
+            "norsk_past_participle": "har truffet"
         },
         {
             "english_past": "washed",
-            "norsk_past": "vasket"
+            "norsk_past": "vasket",
+            "english_past_participle": "had washed",
+            "norsk_past_participle": "hadde vasket"
         },
         {
             "english_past": "knew",
-            "norsk_past": "visste"
+            "norsk_past": "visste",
+            "english_past_participle": "have known",
+            "norsk_past_participle": "har visst"
         },
         {
             "english_past": "was",
-            "norsk_past": "var"
+            "norsk_past": "var",
+            "english_past_participle": "had been",
+            "norsk_past_participle": "hadde vært"
         },
         {
             "english_past": "wished",
-            "norsk_past": "ønsket"
+            "norsk_past": "ønsket",
+            "english_past_participle": "have wished",
+            "norsk_past_participle": "har ønsket"
         }
     ]
 }
