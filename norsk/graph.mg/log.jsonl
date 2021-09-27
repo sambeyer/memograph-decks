@@ -1063,3 +1063,63 @@
 {"id": "jeg har snakket-[]-I have spoken ", "time": 1632719969, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
 {"id": "jeg hadde spist-[]-I had eaten ", "time": 1632719972, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
 {"id": "jeg har sittet-[]-I have sat ", "time": 1632719977, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg takket-[verbs]-I thanked ", "time": 1632720075, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg leste-[verbs]-I read ", "time": 1632720080, "event": "DRILL", "data": {"got": false}}
+{"id": "av og til-[time]-now and then", "time": 1632720083, "event": "DRILL", "data": {"got": true}}
+{"id": "alle fridagene-[nouns]-all the days off", "time": 1632720099, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg tok-[verbs]-I took ", "time": 1632720104, "event": "DRILL", "data": {"got": true}}
+{"id": "dagen derp\u00e5-[time]-the morning after", "time": 1632720114, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg fylte-[verbs]-I filled ", "time": 1632720121, "event": "DRILL", "data": {"got": false}}
+{"id": "en f\u00f8dselsdag-[nouns]-a birthday", "time": 1632720135, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg vasket-[verbs]-I washed ", "time": 1632720144, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg puttet-[verbs]-I put ", "time": 1632720150, "event": "DRILL", "data": {"got": true}}
+{"id": "alt for lenge-[time]-far too long", "time": 1632720157, "event": "DRILL", "data": {"got": true}}
+{"id": "alle br\u00f8drene-[nouns]-all the brothers", "time": 1632720182, "event": "DRILL", "data": {"got": false}}
+{"id": "for kort tid siden-[time]-a short while ago", "time": 1632720194, "event": "DRILL", "data": {"got": false}}
+{"id": "for lenge siden-[time]-a long time ago", "time": 1632720200, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg begynte-[verbs]-I began ", "time": 1632720205, "event": "DRILL", "data": {"got": true}}
+{"id": "for noen f\u00e5 dager siden-[time]-a few days ago", "time": 1632720219, "event": "DRILL", "data": {"got": false}}
+{"id": "mange aftener-[nouns]-many evenings", "time": 1632720227, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg l\u00e6rte-[verbs]-I learnt ", "time": 1632720237, "event": "DRILL", "data": {"got": true}}
+{"id": "annenhver dag-[time]-every second day", "time": 1632720247, "event": "DRILL", "data": {"got": false}}
+{"id": "alt for sent-[time]-far too late", "time": 1632720255, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg satt-[verbs]-I sat ", "time": 1632720264, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg bodde-[verbs]-I lived ", "time": 1632720270, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg kj\u00f8pte-[verbs]-I bought ", "time": 1632720279, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg syntes-[verbs]-I thought (opinion)", "time": 1632720286, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg het-[verbs]-I was called ", "time": 1632720297, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg drakk-[verbs]-I drank ", "time": 1632720302, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg lengtet etter-[verbs]-I longed for ", "time": 1632720309, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg gav-[verbs]-I gave ", "time": 1632720313, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg stod-[verbs]-I stood ", "time": 1632720319, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg lette etter-[verbs]-I looked for ", "time": 1632720341, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg hadde-[verbs]-I had ", "time": 1632720347, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg spiste-[verbs]-I ate ", "time": 1632720351, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg syklet-[verbs]-I bicycled ", "time": 1632720359, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg snakket-[verbs]-I spoke ", "time": 1632720362, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg kom-[verbs]-I came ", "time": 1632720367, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg husket-[verbs]-I remembered ", "time": 1632720371, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg var-[verbs]-I was ", "time": 1632720373, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg brukte-[verbs]-I used ", "time": 1632720377, "event": "DRILL", "data": {"got": true}}
+{"id": "dagen etter-[time]-the following day", "time": 1632720386, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg gikk-[verbs]-I walked ", "time": 1632720393, "event": "DRILL", "data": {"got": false}}
+{"id": "aftenen-[nouns]-the evening", "time": 1632720416, "event": "DRILL", "data": {"got": false}}
+{"id": "mange stykker-[nouns]-many pieces", "time": 1632720440, "event": "DRILL", "data": {"got": false}}
+{"id": "alle saftene-[nouns]-all the cordials", "time": 1632720459, "event": "DRILL", "data": {"got": false}}
+{"id": "tannen-[nouns]-the tooth", "time": 1632720464, "event": "DRILL", "data": {"got": true}}
+{"id": "dagen f\u00f8r-[time]-the day before", "time": 1632720473, "event": "DRILL", "data": {"got": true}}
+{"id": "onsdagen-[nouns]-the Wednesday", "time": 1632720478, "event": "DRILL", "data": {"got": true}}
+{"id": "sykkelen-[nouns]-the bicycle", "time": 1632720487, "event": "DRILL", "data": {"got": false}}
+{"id": "mange hundrelapper-[nouns]-many hundred krone notes", "time": 1632720496, "event": "DRILL", "data": {"got": true}}
+{"id": "en ettermiddag-[nouns]-an afternoon", "time": 1632720509, "event": "DRILL", "data": {"got": true}}
+{"id": "en venn-[nouns]-a friend", "time": 1632720512, "event": "DRILL", "data": {"got": true}}
+{"id": "aldri-[time]-never", "time": 1632720517, "event": "DRILL", "data": {"got": true}}
+{"id": "alltid-[time]-always", "time": 1632720519, "event": "DRILL", "data": {"got": true}}
+{"id": "mange ettermiddager-[nouns]-many afternoons", "time": 1632720526, "event": "DRILL", "data": {"got": true}}
+{"id": "yrket-[nouns]-the occupation", "time": 1632720531, "event": "DRILL", "data": {"got": true}}
+{"id": "mange safter-[nouns]-many cordials", "time": 1632720538, "event": "DRILL", "data": {"got": true}}
+{"id": "ettermiddagen-[nouns]-the afternoon", "time": 1632720542, "event": "DRILL", "data": {"got": true}}
+{"id": "alle l\u00e6rene-[nouns]-all the leathers", "time": 1632720556, "event": "DRILL", "data": {"got": true}}
+{"id": "for en liten stund siden-[time]-a little while ago", "time": 1632720582, "event": "DRILL", "data": {"got": false}}
+{"id": "daglig-[time]-daily", "time": 1632720588, "event": "DRILL", "data": {"got": false}}
+{"id": "\u00e5ret-[nouns]-the year", "time": 1632720592, "event": "DRILL", "data": {"got": true}}
