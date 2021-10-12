@@ -539,16 +539,11 @@
         {
             "gender": "m",
             "english": "autumn",
-            "english_plural": "autumn",
+            "english_plural": "autumns",
             "indefinite_singular": "høst"
         }
     ],
     "expressions": [
-        {
-            "norsk": "aftes",
-            "english": "yesterday evening",
-            "topic": "time"
-        },
         {
             "norsk": "akkurat da",
             "english": "just then",
@@ -847,11 +842,6 @@
         {
             "norsk": "i hele dette året",
             "english": "the whole of this year",
-            "topic": "time"
-        },
-        {
-            "norsk": "i kveld",
-            "english": "this night",
             "topic": "time"
         },
         {

@@ -1123,3 +1123,67 @@
 {"id": "for en liten stund siden-[time]-a little while ago", "time": 1632720582, "event": "DRILL", "data": {"got": false}}
 {"id": "daglig-[time]-daily", "time": 1632720588, "event": "DRILL", "data": {"got": false}}
 {"id": "\u00e5ret-[nouns]-the year", "time": 1632720592, "event": "DRILL", "data": {"got": true}}
+{"id": "hele uken-[time]-all week", "time": 1634020960, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i mange m\u00e5neder-[time]-for several months", "time": 1634020967, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i g\u00e5r-[time]-yesterday", "time": 1634020972, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i fjor-[time]-last year", "time": 1634020976, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i l\u00f8pet av dagen-[time]-during the course of the day", "time": 1634020990, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "i begynnelsen av denne uke-[time]-in the beginning of this week", "time": 1634021011, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i mange \u00e5r-[time]-for several years", "time": 1634021025, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i hele dette \u00e5ret-[time]-the whole of this year", "time": 1634021040, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "i forg\u00e5rs-[time]-the day before yesterday", "time": 1634021056, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "hverannen dag-[time]-every other day", "time": 1634021061, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i aften-[time]-this evening", "time": 1634021070, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i begynnelsen av neste \u00e5r-[time]-in the beginning of next year", "time": 1634021083, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "hverdagen-[nouns]-the week day", "time": 1634021098, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle hverdagene-[nouns]-all the week days", "time": 1634021101, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i begynnelsen av \u00e5ret-[time]-in the beginning of the year", "time": 1634021111, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange hverdager-[nouns]-many week days", "time": 1634021121, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en hverdag-[nouns]-a week day", "time": 1634021124, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i en uke-[time]-for a week", "time": 1634021127, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i tre dager-[time]-for three days", "time": 1634021132, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "helligdagen-[nouns]-the public holiday", "time": 1634021142, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "hvert \u00e5r-[time]-every year", "time": 1634021145, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en helligdag-[nouns]-a public holiday", "time": 1634021149, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange helligdager-[nouns]-many public holidays", "time": 1634021155, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i morges-[time]-this morning", "time": 1634021161, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange h\u00f8ster-[nouns]-many autumn", "time": 1634021185, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i august-[time]-in August", "time": 1634021190, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle h\u00f8stene-[nouns]-all the autumn", "time": 1634021195, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "h\u00f8sten-[nouns]-the autumn", "time": 1634021212, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i hele denne m\u00e5neden-[time]-the whole of this month", "time": 1634021229, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en h\u00f8st-[nouns]-an autumn", "time": 1634021234, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange h\u00f8ster-[nouns]-many autumns", "time": 1634021250, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i mange minutter-[time]-for several minutes", "time": 1634021255, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i \u00e5r-[time]-this year", "time": 1634021258, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle h\u00f8stene-[nouns]-all the autumns", "time": 1634021263, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i begynnelsen av neste uke-[time]-in the beginning of next week", "time": 1634021273, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i begynnelsen av forrige uke-[time]-in the beginning of last week", "time": 1634021284, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i kveld-[time]-this night", "time": 1634021308, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "helgen-[nouns]-the weekend", "time": 1634021312, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "mange helger-[nouns]-many weekends", "time": 1634021317, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i mange dager-[time]-for several days", "time": 1634021321, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle helgene-[nouns]-all the weekends", "time": 1634021326, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "en helg-[nouns]-a weekend", "time": 1634021329, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "jeg har drukket-[]-I have drunk ", "time": 1634021342, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i overmorgen-[time]-the day after tomorrow", "time": 1634021354, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i sommer-[time]-this summer", "time": 1634021360, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i ettermiddag-[time]-this afternoon", "time": 1634021363, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i det siste-[time]-lately", "time": 1634021380, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "alle helligdagene-[nouns]-all the public holidays", "time": 1634021396, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i l\u00f8pet av morgendagen-[time]-during the course of tomorrow", "time": 1634021414, "event": "LEARN", "data": {"prior": [1, 1, 60]}}
+{"id": "i mange timer-[time]-for several hours", "time": 1634021418, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i morgen tidlig-[time]-tomorrow morning", "time": 1634021426, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "hver dag-[time]-every day", "time": 1634021430, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i hele dag-[time]-all day today", "time": 1634021437, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i g\u00e5r kveld-[time]-yesterday evening", "time": 1634021477, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "hver time-[time]-every hour", "time": 1634021480, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i hele denne uken-[time]-the whole of this week", "time": 1634021491, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "hver m\u00e5ned-[time]-every month", "time": 1634021494, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i morgen kveld-[time]-tomorrow evening", "time": 1634021499, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "hele \u00e5ret-[time]-all year", "time": 1634021501, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i begynnelsen av uken-[time]-in the beginning of the week", "time": 1634021509, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i kveld-[time]-this evening", "time": 1634021524, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i morgen-[time]-tomorrow", "time": 1634021551, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i fjorten dager-[time]-for a fortnight", "time": 1634021561, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i dag-[time]-today", "time": 1634021563, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}

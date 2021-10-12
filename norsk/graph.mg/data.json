@@ -4744,5 +4744,580 @@
     "numDrills": 0,
     "lastTime": 1632719899
   },
-  "jeg har drukket-[]-I have drunk ": {}
+  "jeg har drukket-[]-I have drunk ": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021342
+  },
+  "i g\u00e5r-[time]-yesterday": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634020972
+  },
+  "i mange m\u00e5neder-[time]-for several months": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634020967
+  },
+  "i begynnelsen av denne uke-[time]-in the beginning of this week": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021011
+  },
+  "i fjor-[time]-last year": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634020976
+  },
+  "i l\u00f8pet av dagen-[time]-during the course of the day": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1634020990
+  },
+  "hele uken-[time]-all week": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634020960
+  },
+  "i hele dette \u00e5ret-[time]-the whole of this year": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021040
+  },
+  "i forg\u00e5rs-[time]-the day before yesterday": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021056
+  },
+  "i hele denne m\u00e5neden-[time]-the whole of this month": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021229
+  },
+  "hele \u00e5ret-[time]-all year": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021501
+  },
+  "i august-[time]-in August": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021190
+  },
+  "i kveld-[time]-this night": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021308
+  },
+  "i begynnelsen av neste uke-[time]-in the beginning of next week": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021273
+  },
+  "i mange minutter-[time]-for several minutes": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021255
+  },
+  "hverannen dag-[time]-every other day": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021061
+  },
+  "i begynnelsen av \u00e5ret-[time]-in the beginning of the year": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021111
+  },
+  "i hele denne uken-[time]-the whole of this week": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021491
+  },
+  "i begynnelsen av uken-[time]-in the beginning of the week": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021509
+  },
+  "i fjorten dager-[time]-for a fortnight": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021561
+  },
+  "en hverdag-[nouns]-a week day": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021124
+  },
+  "hverdagen-[nouns]-the week day": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021098
+  },
+  "mange hverdager-[nouns]-many week days": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021121
+  },
+  "alle hverdagene-[nouns]-all the week days": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021101
+  },
+  "hver time-[time]-every hour": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021480
+  },
+  "i mange dager-[time]-for several days": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021321
+  },
+  "i g\u00e5r kveld-[time]-yesterday evening": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021477
+  },
+  "i mange \u00e5r-[time]-for several years": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021025
+  },
+  "en h\u00f8st-[nouns]-an autumn": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021234
+  },
+  "h\u00f8sten-[nouns]-the autumn": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021212
+  },
+  "mange h\u00f8ster-[nouns]-many autumn": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021185
+  },
+  "alle h\u00f8stene-[nouns]-all the autumn": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021195
+  },
+  "i \u00e5r-[time]-this year": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021258
+  },
+  "i begynnelsen av forrige uke-[time]-in the beginning of last week": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021284
+  },
+  "i l\u00f8pet av morgendagen-[time]-during the course of tomorrow": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021414
+  },
+  "i aften-[time]-this evening": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021070
+  },
+  "i morgen tidlig-[time]-tomorrow morning": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021426
+  },
+  "i dag-[time]-today": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021563
+  },
+  "hvert \u00e5r-[time]-every year": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021145
+  },
+  "i begynnelsen av neste \u00e5r-[time]-in the beginning of next year": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021083
+  },
+  "i morges-[time]-this morning": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021161
+  },
+  "i morgen kveld-[time]-tomorrow evening": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021499
+  },
+  "i overmorgen-[time]-the day after tomorrow": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021354
+  },
+  "en helg-[nouns]-a weekend": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021329
+  },
+  "helgen-[nouns]-the weekend": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021312
+  },
+  "mange helger-[nouns]-many weekends": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021317
+  },
+  "alle helgene-[nouns]-all the weekends": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021326
+  },
+  "i det siste-[time]-lately": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021380
+  },
+  "i mange timer-[time]-for several hours": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021418
+  },
+  "en helligdag-[nouns]-a public holiday": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021149
+  },
+  "helligdagen-[nouns]-the public holiday": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021142
+  },
+  "mange helligdager-[nouns]-many public holidays": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021155
+  },
+  "alle helligdagene-[nouns]-all the public holidays": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021396
+  },
+  "hver m\u00e5ned-[time]-every month": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021494
+  },
+  "i morgen-[time]-tomorrow": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021551
+  },
+  "i en uke-[time]-for a week": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021127
+  },
+  "hver dag-[time]-every day": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021430
+  },
+  "i hele dag-[time]-all day today": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021437
+  },
+  "i ettermiddag-[time]-this afternoon": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021363
+  },
+  "i sommer-[time]-this summer": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021360
+  },
+  "i tre dager-[time]-for three days": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021132
+  },
+  "mange h\u00f8ster-[nouns]-many autumns": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021250
+  },
+  "alle h\u00f8stene-[nouns]-all the autumns": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021263
+  },
+  "i kveld-[time]-this evening": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1634021524
+  }
 }
