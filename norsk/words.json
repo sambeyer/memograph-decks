@@ -517,6 +517,30 @@
             "english": "birthday",
             "english_plural": "birthdays",
             "indefinite_singular": "fødselsdag"
+        },
+        {
+            "gender": "m",
+            "english": "weekend",
+            "english_plural": "weekends",
+            "indefinite_singular": "helg"
+        },
+        {
+            "gender": "m",
+            "english": "public holiday",
+            "english_plural": "public holidays",
+            "indefinite_singular": "helligdag"
+        },
+        {
+            "gender": "m",
+            "english": "week day",
+            "english_plural": "week days",
+            "indefinite_singular": "hverdag"
+        },
+        {
+            "gender": "m",
+            "english": "autumn",
+            "english_plural": "autumn",
+            "indefinite_singular": "høst"
         }
     ],
     "expressions": [
@@ -683,6 +707,226 @@
         {
             "norsk": "hele natten",
             "english": "all night",
+            "topic": "time"
+        },
+        {
+            "norsk": "hele uken",
+            "english": "all week",
+            "topic": "time"
+        },
+        {
+            "norsk": "hele året",
+            "english": "all year",
+            "topic": "time"
+        },
+        {
+            "norsk": "hver dag",
+            "english": "every day",
+            "topic": "time"
+        },
+        {
+            "norsk": "hver måned",
+            "english": "every month",
+            "topic": "time"
+        },
+        {
+            "norsk": "hver time",
+            "english": "every hour",
+            "topic": "time"
+        },
+        {
+            "norsk": "hverannen dag",
+            "english": "every other day",
+            "topic": "time"
+        },
+        {
+            "norsk": "hvert år",
+            "english": "every year",
+            "topic": "time"
+        },
+        {
+            "norsk": "i aften",
+            "english": "this evening",
+            "topic": "time"
+        },
+        {
+            "norsk": "i august",
+            "english": "in August",
+            "topic": "time"
+        },
+        {
+            "norsk": "i begynnelsen av denne uke",
+            "english": "in the beginning of this week",
+            "topic": "time"
+        },
+        {
+            "norsk": "i begynnelsen av forrige uke",
+            "english": "in the beginning of last week",
+            "topic": "time"
+        },
+        {
+            "norsk": "i begynnelsen av neste uke",
+            "english": "in the beginning of next week",
+            "topic": "time"
+        },
+        {
+            "norsk": "i begynnelsen av neste år",
+            "english": "in the beginning of next year",
+            "topic": "time"
+        },
+        {
+            "norsk": "i begynnelsen av uken",
+            "english": "in the beginning of the week",
+            "topic": "time"
+        },
+        {
+            "norsk": "i begynnelsen av året",
+            "english": "in the beginning of the year",
+            "topic": "time"
+        },
+        {
+            "norsk": "i dag",
+            "english": "today",
+            "topic": "time"
+        },
+        {
+            "norsk": "i det siste",
+            "english": "lately",
+            "topic": "time"
+        },
+        {
+            "norsk": "i en uke",
+            "english": "for a week",
+            "topic": "time"
+        },
+        {
+            "norsk": "i ettermiddag",
+            "english": "this afternoon",
+            "topic": "time"
+        },
+        {
+            "norsk": "i fjor",
+            "english": "last year",
+            "topic": "time"
+        },
+        {
+            "norsk": "i fjorten dager",
+            "english": "for a fortnight",
+            "topic": "time"
+        },
+        {
+            "norsk": "i forgårs",
+            "english": "the day before yesterday",
+            "topic": "time"
+        },
+        {
+            "norsk": "i går",
+            "english": "yesterday",
+            "topic": "time"
+        },
+        {
+            "norsk": "i går kveld",
+            "english": "yesterday evening",
+            "topic": "time"
+        },
+        {
+            "norsk": "i hele dag",
+            "english": "all day today",
+            "topic": "time"
+        },
+        {
+            "norsk": "i hele denne måneden",
+            "english": "the whole of this month",
+            "topic": "time"
+        },
+        {
+            "norsk": "i hele denne uken",
+            "english": "the whole of this week",
+            "topic": "time"
+        },
+        {
+            "norsk": "i hele dette året",
+            "english": "the whole of this year",
+            "topic": "time"
+        },
+        {
+            "norsk": "i kveld",
+            "english": "this night",
+            "topic": "time"
+        },
+        {
+            "norsk": "i løpet av dagen",
+            "english": "during the course of the day",
+            "topic": "time"
+        },
+        {
+            "norsk": "i løpet av morgendagen",
+            "english": "during the course of tomorrow",
+            "topic": "time"
+        },
+        {
+            "norsk": "i mange dager",
+            "english": "for several days",
+            "topic": "time"
+        },
+        {
+            "norsk": "i mange minutter",
+            "english": "for several minutes",
+            "topic": "time"
+        },
+        {
+            "norsk": "i mange måneder",
+            "english": "for several months",
+            "topic": "time"
+        },
+        {
+            "norsk": "i mange timer",
+            "english": "for several hours",
+            "topic": "time"
+        },
+        {
+            "norsk": "i mange år",
+            "english": "for several years",
+            "topic": "time"
+        },
+        {
+            "norsk": "i morgen",
+            "english": "tomorrow",
+            "topic": "time"
+        },
+        {
+            "norsk": "i morgen kveld",
+            "english": "tomorrow evening",
+            "topic": "time"
+        },
+        {
+            "norsk": "i morgen tidlig",
+            "english": "tomorrow morning",
+            "topic": "time"
+        },
+        {
+            "norsk": "i morges",
+            "english": "this morning",
+            "topic": "time"
+        },
+        {
+            "norsk": "i overmorgen",
+            "english": "the day after tomorrow",
+            "topic": "time"
+        },
+        {
+            "norsk": "i sommer",
+            "english": "this summer",
+            "topic": "time"
+        },
+        {
+            "norsk": "i tre dager",
+            "english": "for three days",
+            "topic": "time"
+        },
+        {
+            "norsk": "i år",
+            "english": "this year",
             "topic": "time"
         }
     ],
