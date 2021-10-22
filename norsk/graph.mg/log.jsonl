@@ -1187,3 +1187,75 @@
 {"id": "i morgen-[time]-tomorrow", "time": 1634021551, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
 {"id": "i fjorten dager-[time]-for a fortnight", "time": 1634021561, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
 {"id": "i dag-[time]-today", "time": 1634021563, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "i l\u00f8pet av dagen-[time]-during the course of the day", "time": 1634862759, "event": "DRILL", "data": {"got": false}}
+{"id": "i hele dette \u00e5ret-[time]-the whole of this year", "time": 1634862768, "event": "DRILL", "data": {"got": false}}
+{"id": "i forg\u00e5rs-[time]-the day before yesterday", "time": 1634862779, "event": "DRILL", "data": {"got": true}}
+{"id": "i l\u00f8pet av morgendagen-[time]-during the course of tomorrow", "time": 1634862799, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg har funnet-[]-I have found ", "time": 1634862817, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har hatt-[]-I have had ", "time": 1634862821, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg fylte-[verbs]-I filled ", "time": 1634862838, "event": "DRILL", "data": {"got": true}}
+{"id": "en f\u00f8dselsdag-[nouns]-a birthday", "time": 1634862909, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg har takket-[]-I have thanked ", "time": 1634862913, "event": "DRILL", "data": {"got": false}}
+{"id": "mange aftener-[nouns]-many evenings", "time": 1634862918, "event": "DRILL", "data": {"got": true}}
+{"id": "for lenge siden-[time]-a long time ago", "time": 1634862924, "event": "DRILL", "data": {"got": true}}
+{"id": "for noen f\u00e5 dager siden-[time]-a few days ago", "time": 1634862949, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg har pr\u00f8vd-[]-I have tried ", "time": 1634862954, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har puttet-[]-I have put ", "time": 1634862958, "event": "DRILL", "data": {"got": true}}
+{"id": "det har kostet-[]-it has cost ", "time": 1634862967, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har ringt-[]-I have rung ", "time": 1634862972, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har hett-[]-I have been called ", "time": 1634862976, "event": "DRILL", "data": {"got": true}}
+{"id": "det har betydde-[]-it has meant ", "time": 1634862982, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg hadde gitt-[]-I had given ", "time": 1634862988, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har \u00f8nsket-[]-I have wished ", "time": 1634862991, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har l\u00e6rt-[]-I have learnt ", "time": 1634862995, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har tenkt-[]-I have thought (literal)", "time": 1634862997, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har sovet-[]-I have slept ", "time": 1634862999, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har lengtet etter-[]-I have longed for ", "time": 1634863006, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har syntes-[]-I have thought (opinion)", "time": 1634863025, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har husket-[]-I have remembered ", "time": 1634863037, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har gjort-[]-I have done ", "time": 1634863040, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har tatt-[]-I have taken ", "time": 1634863044, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg hadde g\u00e5tt-[]-I had walked ", "time": 1634863059, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg hadde kj\u00f8pt-[]-I had bought ", "time": 1634863065, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har begynt-[]-I have begun ", "time": 1634863071, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg hadde vasket-[]-I had washed ", "time": 1634863073, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har fyllt-[]-I have filled ", "time": 1634863079, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har lett etter-[]-I have looked for ", "time": 1634863083, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har syklet-[]-I have bicycled ", "time": 1634863095, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg hadde sagt-[]-I had said ", "time": 1634863107, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har truffet-[]-I have met ", "time": 1634863124, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg hadde brukt-[]-I had used ", "time": 1634863126, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har sydd-[]-I have sewn ", "time": 1634863133, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg hadde lest-[]-I had read ", "time": 1634863136, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har st\u00e5tt-[]-I have stood ", "time": 1634863139, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har visst-[]-I have known ", "time": 1634863187, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg hadde v\u00e6rt-[]-I had been ", "time": 1634863196, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har spurt-[]-I have asked ", "time": 1634863200, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg har skrevet-[]-I have written ", "time": 1634863203, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har snakket-[]-I have spoken ", "time": 1634863205, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har bodd-[]-I have lived ", "time": 1634863209, "event": "DRILL", "data": {"got": true}}
+{"id": "jeg har kommet-[]-I have come ", "time": 1634863212, "event": "DRILL", "data": {"got": true}}
+{"id": "i fjor-[time]-last year", "time": 1634863237, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg hadde spist-[]-I had eaten ", "time": 1634863247, "event": "DRILL", "data": {"got": false}}
+{"id": "i mange m\u00e5neder-[time]-for several months", "time": 1634863268, "event": "DRILL", "data": {"got": false}}
+{"id": "jeg har sittet-[]-I have sat ", "time": 1634863275, "event": "DRILL", "data": {"got": true}}
+{"id": "i g\u00e5r-[time]-yesterday", "time": 1634863277, "event": "DRILL", "data": {"got": true}}
+{"id": "hele uken-[time]-all week", "time": 1634863296, "event": "DRILL", "data": {"got": true}}
+{"id": "i begynnelsen av neste \u00e5r-[time]-in the beginning of next year", "time": 1634863328, "event": "DRILL", "data": {"got": false}}
+{"id": "hverdagen-[nouns]-the week day", "time": 1634863334, "event": "DRILL", "data": {"got": false}}
+{"id": "i begynnelsen av denne uke-[time]-in the beginning of this week", "time": 1634863360, "event": "DRILL", "data": {"got": true}}
+{"id": "i aften-[time]-this evening", "time": 1634863373, "event": "DRILL", "data": {"got": true}}
+{"id": "hverannen dag-[time]-every other day", "time": 1634863386, "event": "DRILL", "data": {"got": false}}
+{"id": "i mange \u00e5r-[time]-for several years", "time": 1634863395, "event": "DRILL", "data": {"got": true}}
+{"id": "mange hverdager-[nouns]-many week days", "time": 1634864242, "event": "DRILL", "data": {"got": false}}
+{"id": "i tre dager-[time]-for three days", "time": 1634864246, "event": "DRILL", "data": {"got": true}}
+{"id": "i begynnelsen av \u00e5ret-[time]-in the beginning of the year", "time": 1634864263, "event": "DRILL", "data": {"got": true}}
+{"id": "en hverdag-[nouns]-a week day", "time": 1634864266, "event": "DRILL", "data": {"got": true}}
+{"id": "i en uke-[time]-for a week", "time": 1634864274, "event": "DRILL", "data": {"got": true}}
+{"id": "alle hverdagene-[nouns]-all the week days", "time": 1634864279, "event": "DRILL", "data": {"got": true}}
+{"id": "en helligdag-[nouns]-a public holiday", "time": 1634864287, "event": "DRILL", "data": {"got": false}}
+{"id": "mange helligdager-[nouns]-many public holidays", "time": 1634864292, "event": "DRILL", "data": {"got": true}}
+{"id": "helligdagen-[nouns]-the public holiday", "time": 1634864295, "event": "DRILL", "data": {"got": true}}
+{"id": "i morges-[time]-this morning", "time": 1634864307, "event": "DRILL", "data": {"got": false}}
+{"id": "hvert \u00e5r-[time]-every year", "time": 1634864310, "event": "DRILL", "data": {"got": true}}
+{"id": "i august-[time]-in August", "time": 1634864320, "event": "DRILL", "data": {"got": false}}
